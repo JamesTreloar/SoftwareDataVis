@@ -1,16 +1,35 @@
 <div>
     <div class="card mb-4" id="FHTContainer">
-        <h2 class="card-header">Freight Movements bettwen a few SA3 regions</h2>
+        <h2 class="card-header">Freight Movements between a few SA3 regions</h2>
         <div class="card-body">
             <div id="chord" class = "chart"></div>
         </div>
     </div>
+    <div class="card mb-4" id="FHTContainer">
+        <h2 class="card-header">Freight Movements between a few other SA3 regions</h2>
+        <div class="card-body">
+            <div id="chord2" class = "chart"></div>
+        </div>
+    </div>
+    <div class="card mb-4">
+        <h2 class="card-header">Instructions</h2>
+        <div class="card-body">Click on a region name item to hide it.</div>
+    </div>
+    
 </div>
 
 <script>
     var chart = am4core.create("chord", am4charts.ChordDiagram);
-    chart.data = [{"Origin": "Botany", "Destination": "Dapto - Port Kembla", "Amount": 77},{"Origin": "Dapto - Port Kembla", "Destination": "Sydney Inner City", "Amount": 496},{"Origin": "Sydney Inner City", "Destination": "Dapto - Port Kembla", "Amount": 24},{"Origin": "Dapto - Port Kembla", "Destination": "Newcastle", "Amount": 2},{"Origin": "Newcastle", "Destination": "Dapto - Port Kembla", "Amount": 1},{"Origin": "Newcastle", "Destination": "Sydney Inner City", "Amount": 99},{"Origin": "Botany", "Destination": "Lower Hunter", "Amount": 3},{"Origin": "Dapto - Port Kembla", "Destination": "Lower Hunter", "Amount": 108},{"Origin": "Sydney Inner City", "Destination": "Newcastle", "Amount": 6},{"Origin": "Botany", "Destination": "Newcastle", "Amount": 135},{"Origin": "Sydney Inner City", "Destination": "Botany", "Amount": 253},{"Origin": "Newcastle", "Destination": "Lower Hunter", "Amount": 1204},{"Origin": "Lower Hunter", "Destination": "Sydney Inner City", "Amount": 101},{"Origin": "Newcastle", "Destination": "Botany", "Amount": 792},{"Origin": "Newcastle", "Destination": "Dapto - Port Kembla", "Amount": 49},{"Origin": "Lower Hunter", "Destination": "Dapto - Port Kembla", "Amount": 356},{"Origin": "Lower Hunter", "Destination": "Newcastle", "Amount": 67327},{"Origin": "Lower Hunter", "Destination": "Botany", "Amount": 1459},{"Origin": "Dapto - Port Kembla", "Destination": "Botany", "Amount": 147},{"Origin": "Botany", "Destination": "Sydney Inner City", "Amount": 1370},]
+    chart.data = [{"Origin": "Botany", "Destination": "Dapto - Port Kembla", "Amount": 77},{"Origin": "Dapto - Port Kembla", "Destination": "Sydney Inner City", "Amount": 496},{"Origin": "Sydney Inner City", "Destination": "Dapto - Port Kembla", "Amount": 24},{"Origin": "Dapto - Port Kembla", "Destination": "Newcastle", "Amount": 2},{"Origin": "Newcastle", "Destination": "Dapto - Port Kembla", "Amount": 1},{"Origin": "Newcastle", "Destination": "Sydney Inner City", "Amount": 99},{"Origin": "Botany", "Destination": "Lower Hunter", "Amount": 3},{"Origin": "Dapto - Port Kembla", "Destination": "Lower Hunter", "Amount": 108},{"Origin": "Sydney Inner City", "Destination": "Newcastle", "Amount": 6},{"Origin": "Botany", "Destination": "Newcastle", "Amount": 135},{"Origin": "Sydney Inner City", "Destination": "Botany", "Amount": 253},{"Origin": "Newcastle", "Destination": "Lower Hunter", "Amount": 1204},{"Origin": "Lower Hunter", "Destination": "Sydney Inner City", "Amount": 101},{"Origin": "Newcastle", "Destination": "Botany", "Amount": 792},{"Origin": "Newcastle", "Destination": "Dapto - Port Kembla", "Amount": 49},{"Origin": "Lower Hunter", "Destination": "Dapto - Port Kembla", "Amount": 356},{"Origin": "Lower Hunter", "Destination": "Newcastle", "Amount": 67327},{"Origin": "Lower Hunter", "Destination": "Botany", "Amount": 1459},{"Origin": "Dapto - Port Kembla", "Destination": "Botany", "Amount": 147},{"Origin": "Botany", "Destination": "Sydney Inner City", "Amount": 1370}];
     chart.dataFields.fromName = "Origin";
     chart.dataFields.toName = "Destination";
     chart.dataFields.value  = "Amount";
+</script>
+
+<script>
+    var chart = am4core.create("chord2", am4charts.ChordDiagram);
+    chart.data = [{"Origin": "Lithgow - Mudgee", "Destination": "Blue Mountains", "AmountTotal": 95},{"Origin": "Upper Hunter", "Destination": "Blue Mountains", "AmountTotal": 27},{"Origin": "Lithgow - Mudgee", "Destination": "Lachlan Valley", "AmountTotal": 47},{"Origin": "Lachlan Valley", "Destination": "Lithgow - Mudgee", "AmountTotal": 4},{"Origin": "Upper Hunter", "Destination": "Lithgow - Mudgee", "AmountTotal": 5},{"Origin": "Snowy Mountains", "Destination": "Shoalhaven", "AmountTotal": 1},{"Origin": "Upper Hunter", "Destination": "Shoalhaven", "AmountTotal": 31},{"Origin": "Blue Mountains", "Destination": "Upper Hunter", "AmountTotal": 3},{"Origin": "Lachlan Valley", "Destination": "Upper Hunter", "AmountTotal": 6},{"Origin": "Lithgow - Mudgee", "Destination": "Upper Hunter", "AmountTotal": 21},{"Origin": "Shoalhaven", "Destination": "Upper Hunter", "AmountTotal": 27}]
+    chart.dataFields.fromName = "Origin";
+    chart.dataFields.toName = "Destination";
+    chart.dataFields.value  = "AmountTotal";
 </script>
