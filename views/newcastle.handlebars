@@ -1,0 +1,177 @@
+<h1>Port of Newcastle Imports and Exports</h1>
+<div name = "chartsdiv">
+    <div class="card mb-4">
+        <h2 class="card-header">Imports</h2>
+        <div id="NCI" class="chart card-body"></div>
+    </div>
+    <div class="card mb-4">
+        <h2 class="card-header">Exports</h2>
+        <div id="NCE" class="chart card-body"></div>
+    </div>
+</div>
+
+<script>
+    //From docs
+    am4core.useTheme(am4themes_animated);
+    chart = new am4core.create("NCI", am4charts.XYChart);
+    chart.maskBullets = false;
+    chart.scrollbarX = new am4core.Scrollbar();
+    chart.data = [{"Month": "Jan-18", "Alumina": 121935, "Cement": 12130, "Fertiliser": 61728, "Fuels": 161776, "Machinery, Project Cargo & Vehicles": 6879, "Meals & Grains": 21275, "Petroleum Coke": 18312, "Pitch & Tar Products": 21870, "Steel": 7036, "Wheat": 0, "Other Trade": 29837, "Total": 462778},
+                  {"Month": "Feb-18", "Alumina": 60023, "Cement": 14625, "Fertiliser": 36297, "Fuels": 97943, "Machinery, Project Cargo & Vehicles": 6246, "Meals & Grains": 0, "Petroleum Coke": 10021, "Pitch & Tar Products": 6315, "Steel": 44009, "Wheat": 0, "Other Trade": 16288, "Total": 291767},
+                  {"Month": "Mar-18", "Alumina": 124342, "Cement": 18363, "Fertiliser": 115842, "Fuels": 177801, "Machinery, Project Cargo & Vehicles": 1831, "Meals & Grains": 20997, "Petroleum Coke": 20337, "Pitch & Tar Products": 12061, "Steel": 14515, "Wheat": 0, "Other Trade": 40259, "Total": 546348},
+                  {"Month": "Apr-18", "Alumina": 92670, "Cement": 14914, "Fertiliser": 92310, "Fuels": 175272, "Machinery, Project Cargo & Vehicles": 2010, "Meals & Grains": 29012, "Petroleum Coke": 18217, "Pitch & Tar Products": 11874, "Steel": 20479, "Wheat": 0, "Other Trade": 6837, "Total": 463595},
+                  {"Month": "May-18", "Alumina": 94400, "Cement": 32739, "Fertiliser": 45636, "Fuels": 139231, "Machinery, Project Cargo & Vehicles": 3859, "Meals & Grains": 0, "Petroleum Coke": 22177, "Pitch & Tar Products": 15784, "Steel": 31505, "Wheat": 0, "Other Trade": 9587, "Total": 394918},
+                  {"Month": "Jun-18", "Alumina": 64550, "Cement": 29789, "Fertiliser": 26108, "Fuels": 145509, "Machinery, Project Cargo & Vehicles": 1968, "Meals & Grains": 25007, "Petroleum Coke": 18053, "Pitch & Tar Products": 6309, "Steel": 32437, "Wheat": 0, "Other Trade": 26033, "Total": 375763},
+                  {"Month": "Jul-18", "Alumina": 124650, "Cement": 8000, "Fertiliser": 46310, "Fuels": 170082, "Machinery, Project Cargo & Vehicles": 2720, "Meals & Grains": 756, "Petroleum Coke": 9544, "Pitch & Tar Products": 17796, "Steel": 15644, "Wheat": 0, "Other Trade": 24239, "Total": 419741},
+                  {"Month": "Aug-18", "Alumina": 90790, "Cement": 49268, "Fertiliser": 15180, "Fuels": 125150, "Machinery, Project Cargo & Vehicles": 5557, "Meals & Grains": 17004, "Petroleum Coke": 16697, "Pitch & Tar Products": 10482, "Steel": 13151, "Wheat": 0, "Other Trade": 9794, "Total": 353073},
+                  {"Month": "Sep-18", "Alumina": 93029, "Cement": 24315, "Fertiliser": 7043, "Fuels": 188192, "Machinery, Project Cargo & Vehicles": 791, "Meals & Grains": 40675, "Petroleum Coke": 20199, "Pitch & Tar Products": 17734, "Steel": 16193, "Wheat": 0, "Other Trade": 11782, "Total": 419953},
+                  {"Month": "Oct-18", "Alumina": 93500, "Cement": 29809, "Fertiliser": 30058, "Fuels": 138166, "Machinery, Project Cargo & Vehicles": 2751, "Meals & Grains": 27939, "Petroleum Coke": 33529, "Pitch & Tar Products": 9269, "Steel": 22273, "Wheat": 0, "Other Trade": 37458, "Total": 424752},
+                  {"Month": "Nov-18", "Alumina": 92279, "Cement": 18000, "Fertiliser": 12525, "Fuels": 112463, "Machinery, Project Cargo & Vehicles": 5494, "Meals & Grains": 22728, "Petroleum Coke": 8097, "Pitch & Tar Products": 21546, "Steel": 4253, "Wheat": 0, "Other Trade": 27421, "Total": 324806},
+                  {"Month": "Dec-18", "Alumina": 93000, "Cement": 26329, "Fertiliser": 31773, "Fuels": 134642, "Machinery, Project Cargo & Vehicles": 20, "Meals & Grains": 65261, "Petroleum Coke": 16273, "Pitch & Tar Products": 18618, "Steel": 16469, "Wheat": 0, "Other Trade": 42295, "Total": 444680},
+                  {"Month": "Jan-19", "Alumina": 119997, "Cement": 22034, "Fertiliser": 45298, "Fuels": 207002, "Machinery, Project Cargo & Vehicles": 6805, "Meals & Grains": 24623, "Petroleum Coke": 32442, "Pitch & Tar Products": 4014, "Steel": 15138, "Wheat": 0, "Other Trade": 17586, "Total": 494939},
+                  {"Month": "Feb-19", "Alumina": 62418, "Cement": 23236, "Fertiliser": 55996, "Fuels": 141611, "Machinery, Project Cargo & Vehicles": 2316, "Meals & Grains": 28972, "Petroleum Coke": 16113, "Pitch & Tar Products": 16899, "Steel": 15138, "Wheat": 0, "Other Trade": 9196, "Total": 371895},
+                  {"Month": "Mar-19", "Alumina": 129216, "Cement": 27133, "Fertiliser": 47865, "Fuels": 144901, "Machinery, Project Cargo & Vehicles": 8907, "Meals & Grains": 13374, "Petroleum Coke": 18316, "Pitch & Tar Products": 0, "Steel": 15138, "Wheat": 0, "Other Trade": 42982, "Total": 447832},
+                  {"Month": "Apr-19", "Alumina": 62000, "Cement": 31157, "Fertiliser": 70775, "Fuels": 162997, "Machinery, Project Cargo & Vehicles": 1474, "Meals & Grains": 78552, "Petroleum Coke": 18286, "Pitch & Tar Products": 15819, "Steel": 13787, "Wheat": 22048, "Other Trade": 21199, "Total": 498094},
+                  {"Month": "May-19", "Alumina": 93000, "Cement": 25400, "Fertiliser": 24955, "Fuels": 117870, "Machinery, Project Cargo & Vehicles": 377, "Meals & Grains": 19705, "Petroleum Coke": 6020, "Pitch & Tar Products": 14886, "Steel": 12814, "Wheat": 0, "Other Trade": 12245, "Total": 327272},
+                  {"Month": "Jun-19", "Alumina": 124000, "Cement": 7735, "Fertiliser": 15930, "Fuels": 195710, "Machinery, Project Cargo & Vehicles": 0, "Meals & Grains": 74306, "Petroleum Coke": 19299, "Pitch & Tar Products": 8113, "Steel": 10776, "Wheat": 31349, "Other Trade": 12079, "Total": 499297},
+                  {"Month": "Jul-19", "Alumina": 62000, "Cement": 53418, "Fertiliser": 22949, "Fuels": 131095, "Machinery, Project Cargo & Vehicles": 1999, "Meals & Grains": 16354, "Petroleum Coke": 35262, "Pitch & Tar Products": 8298, "Steel": 9844, "Wheat": 43500, "Other Trade": 22738, "Total": 407457},
+                  {"Month": "Aug-19", "Alumina": 123231, "Cement": 18030, "Fertiliser": 31659, "Fuels": 127048, "Machinery, Project Cargo & Vehicles": 315, "Meals & Grains": 0, "Petroleum Coke": 9023, "Pitch & Tar Products": 16531, "Steel": 10475, "Wheat": 0, "Other Trade": 37325, "Total": 373637},
+                  {"Month": "Sep-19", "Alumina": 62000, "Cement": 17752, "Fertiliser": 14628, "Fuels": 128215, "Machinery, Project Cargo & Vehicles": 73, "Meals & Grains": 102366, "Petroleum Coke": 17210, "Pitch & Tar Products": 7293, "Steel": 11639, "Wheat": 47300, "Other Trade": 25092, "Total": 433568},
+                  {"Month": "Oct-19", "Alumina": 127474, "Cement": 31047, "Fertiliser": 0, "Fuels": 195191, "Machinery, Project Cargo & Vehicles": 3747, "Meals & Grains": 10698, "Petroleum Coke": 23232, "Pitch & Tar Products": 13023, "Steel": 12154, "Wheat": 0, "Other Trade": 25159, "Total": 441725},
+                  {"Month": "Nov-19", "Alumina": 97188, "Cement": 42403, "Fertiliser": 20304, "Fuels": 196513, "Machinery, Project Cargo & Vehicles": 363, "Meals & Grains": 7958, "Petroleum Coke": 19725, "Pitch & Tar Products": 0, "Steel": 10103, "Wheat": 33000, "Other Trade": 24526, "Total": 452083},
+                  {"Month": "Dec-19", "Alumina": 63025, "Cement": 43215, "Fertiliser": 35730, "Fuels": 112316, "Machinery, Project Cargo & Vehicles": 5159, "Meals & Grains": 38177, "Petroleum Coke": 20199, "Pitch & Tar Products": 15475, "Steel": 10475, "Wheat": 0, "Other Trade": 25467, "Total": 369238},
+                  {"Month": "Jan-20", "Alumina": 158398, "Cement": 7916, "Fertiliser": 11810, "Fuels": 161064, "Machinery, Project Cargo & Vehicles": 2984, "Meals & Grains": 34889, "Petroleum Coke": 10298, "Pitch & Tar Products": 0, "Steel": 14232, "Wheat": 64000, "Other Trade": 27436, "Total": 493027},
+                  {"Month": "Feb-20", "Alumina": 61000, "Cement": 13014, "Fertiliser": 28219, "Fuels": 121264, "Machinery, Project Cargo & Vehicles": 4656, "Meals & Grains": 42009, "Petroleum Coke": 22517, "Pitch & Tar Products": 8293, "Steel": 7332, "Wheat": 26500, "Other Trade": 35642, "Total": 370446},
+                  {"Month": "Mar-20", "Alumina": 62023, "Cement": 15040, "Fertiliser": 42012, "Fuels": 140348, "Machinery, Project Cargo & Vehicles": 3291, "Meals & Grains": 76517, "Petroleum Coke": 10008, "Pitch & Tar Products": 8022, "Steel": 10549, "Wheat": 0, "Other Trade": 18913, "Total": 386723}]
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "Month";
+    categoryAxis.title.text = "Month";
+    categoryAxis.renderer.grid.template.location=0;
+
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.min = 0;
+    valueAxis.max = 100;
+    valueAxis.strictMinMax = true;
+    valueAxis.calculateTotals = true;
+    valueAxis.renderer.minWidth = 50;
+
+    // Create series
+    function createSeries(field, name) {
+
+        // Set up series
+        var series = chart.series.push(new am4charts.ColumnSeries());
+        series.name = name;
+        series.dataFields.valueY = field;
+        series.dataFields.categoryX = "Month";
+        series.dataItems.template.locations.categoryX = 0.5;
+        series.tooltip.pointerOrientation = "vertical";
+        series.dataFields.valueYShow = "totalPercent";
+        
+        // Make it stacked
+        series.stacked = true;
+
+        // Configure columns
+        series.columns.template.width = am4core.percent(60);
+        series.columns.template.tooltipText = "[bold]{name}[/]\n[font-size:14px]{categoryX}: {valueY}";
+
+        return series;
+    }
+
+    createSeries("Alumina", "Alumina");
+    createSeries("Cement", "Cement");
+    createSeries("Fertiliser", "Fertiliser");
+    createSeries("Fuels", "Fuels");
+    createSeries("Machinery, Project Cargo & Vehicles", "Machinery");
+    createSeries("Meals & Grains", "Grains");
+    createSeries("Petroleum Coke", "Petroleum Coke");
+    createSeries("Pitch & Tar Products", "Pitch & Tar Products");
+    createSeries("Steel", "Steel");
+    createSeries("Wheat", "Wheat");
+    createSeries("Other Trade", "Other");
+
+    // Legend
+    chart.legend = new am4charts.Legend();
+
+
+</script>
+
+<script>
+    //From docs
+    am4core.useTheme(am4themes_animated);
+    chart = new am4core.create("NCE", am4charts.XYChart);
+    chart.maskBullets = false;
+    chart.scrollbarX = new am4core.Scrollbar();
+    chart.data = [{"Month": "Jan-18", "Aluminium": 3739, "Coal": 12453336, "Concentrates": 46154, "Machinery, Project Cargo & Vehicles": 744, "Meals & Grains": 794, "Pitch & Tar Products": 8121, "Steel": 1463, "Wheat": 53756, "Other Trade": 20542, "Total": 12588649},
+                  {"Month": "Feb-18", "Aluminium": 0, "Coal": 12082539, "Concentrates": 33446, "Machinery, Project Cargo & Vehicles": 1232, "Meals & Grains": 0, "Pitch & Tar Products": 8239, "Steel": 6766, "Wheat": 48381, "Other Trade": 21716, "Total": 12202319},
+                  {"Month": "Mar-18", "Aluminium": 4399, "Coal": 12513699, "Concentrates": 47143, "Machinery, Project Cargo & Vehicles": 0, "Meals & Grains": 0, "Pitch & Tar Products": 10922, "Steel": 1575, "Wheat": 106034, "Other Trade": 37052, "Total": 12720824},
+                  {"Month": "Apr-18", "Aluminium": 3102, "Coal": 14290318, "Concentrates": 55490, "Machinery, Project Cargo & Vehicles": 2139, "Meals & Grains": 33000, "Pitch & Tar Products": 6610, "Steel": 3008, "Wheat": 40998, "Other Trade": 21670, "Total": 14456335},
+                  {"Month": "May-18", "Aluminium": 3246, "Coal": 12179586, "Concentrates": 50121, "Machinery, Project Cargo & Vehicles": 5693, "Meals & Grains": 826, "Pitch & Tar Products": 16464, "Steel": 6878, "Wheat": 50784, "Other Trade": 22223, "Total": 12335821},
+                  {"Month": "Jun-18", "Aluminium": 2785, "Coal": 14394023, "Concentrates": 52541, "Machinery, Project Cargo & Vehicles": 1486, "Meals & Grains": 33426, "Pitch & Tar Products": 2826, "Steel": 5596, "Wheat": 19192, "Other Trade": 17903, "Total": 14529778},
+                  {"Month": "Jul-18", "Aluminium": 1669, "Coal": 15477760, "Concentrates": 39122, "Machinery, Project Cargo & Vehicles": 1598, "Meals & Grains": 0, "Pitch & Tar Products": 10104, "Steel": 2421, "Wheat": 5150, "Other Trade": 24705, "Total": 15562529},
+                  {"Month": "Aug-18", "Aluminium": 0, "Coal": 13108675, "Concentrates": 69647, "Machinery, Project Cargo & Vehicles": 1991, "Meals & Grains": 1687, "Pitch & Tar Products": 7930, "Steel": 9043, "Wheat": 14437, "Other Trade": 17393, "Total": 13230803},
+                  {"Month": "Sep-18", "Aluminium": 4083, "Coal": 12211819, "Concentrates": 0, "Machinery, Project Cargo & Vehicles": 2428, "Meals & Grains": 1455, "Pitch & Tar Products": 7040, "Steel": 16671, "Wheat": 39440, "Other Trade": 21064, "Total": 12304000},
+                  {"Month": "Oct-18", "Aluminium": 6244, "Coal": 14171345, "Concentrates": 87041, "Machinery, Project Cargo & Vehicles": 717, "Meals & Grains": 1385, "Pitch & Tar Products": 8960, "Steel": 7688, "Wheat": 0, "Other Trade": 20977, "Total": 14304357},
+                  {"Month": "Nov-18", "Aluminium": 3503, "Coal": 10849131, "Concentrates": 22224, "Machinery, Project Cargo & Vehicles": 1988, "Meals & Grains": 3076, "Pitch & Tar Products": 6632, "Steel": 3121, "Wheat": 946, "Other Trade": 29772, "Total": 10920393},
+                  {"Month": "Dec-18", "Aluminium": 3615, "Coal": 14888890, "Concentrates": 67570, "Machinery, Project Cargo & Vehicles": 1183, "Meals & Grains": 2333, "Pitch & Tar Products": 8438, "Steel": 866, "Wheat": 0, "Other Trade": 22265, "Total": 14995160},
+                  {"Month": "Jan-19", "Aluminium": 2697, "Coal": 13720333, "Concentrates": 32442, "Machinery, Project Cargo & Vehicles": 1068, "Meals & Grains": 2341, "Pitch & Tar Products": 5202, "Steel": 4302, "Wheat": 14799, "Other Trade": 21952, "Total": 13805136},
+                  {"Month": "Feb-19", "Aluminium": 0, "Coal": 11966936, "Concentrates": 30273, "Machinery, Project Cargo & Vehicles": 0, "Meals & Grains": 1789, "Pitch & Tar Products": 12987, "Steel": 1720, "Wheat": 0, "Other Trade": 15023, "Total": 12028728},
+                  {"Month": "Mar-19", "Aluminium": 6700, "Coal": 13439275, "Concentrates": 42066, "Machinery, Project Cargo & Vehicles": 285, "Meals & Grains": 2951, "Pitch & Tar Products": 0, "Steel": 13980, "Wheat": 0, "Other Trade": 20803, "Total": 13526060},
+                  {"Month": "Apr-19", "Aluminium": 0, "Coal": 13068392, "Concentrates": 26484, "Machinery, Project Cargo & Vehicles": 1942, "Meals & Grains": 0, "Pitch & Tar Products": 15587, "Steel": 4775, "Wheat": 0, "Other Trade": 12642, "Total": 13129822},
+                  {"Month": "May-19", "Aluminium": 0, "Coal": 13138716, "Concentrates": 36757, "Machinery, Project Cargo & Vehicles": 881, "Meals & Grains": 949, "Pitch & Tar Products": 6751, "Steel": 2278, "Wheat": 0, "Other Trade": 18524, "Total": 13204856},
+                  {"Month": "Jun-19", "Aluminium": 0, "Coal": 14698732, "Concentrates": 31421, "Machinery, Project Cargo & Vehicles": 609, "Meals & Grains": 2013, "Pitch & Tar Products": 5877, "Steel": 3617, "Wheat": 10300, "Other Trade": 24692, "Total": 14777261},
+                  {"Month": "Jul-19", "Aluminium": 0, "Coal": 15733845, "Concentrates": 49651, "Machinery, Project Cargo & Vehicles": 516, "Meals & Grains": 1038, "Pitch & Tar Products": 7958, "Steel": 3601, "Wheat": 0, "Other Trade": 12009, "Total": 15808618},
+                  {"Month": "Aug-19", "Aluminium": 0, "Coal": 14115075, "Concentrates": 31606, "Machinery, Project Cargo & Vehicles": 145, "Meals & Grains": 726, "Pitch & Tar Products": 7572, "Steel": 6697, "Wheat": 590, "Other Trade": 8451, "Total": 14170862},
+                  {"Month": "Sep-19", "Aluminium": 0, "Coal": 12443992, "Concentrates": 22637, "Machinery, Project Cargo & Vehicles": 174, "Meals & Grains": 471, "Pitch & Tar Products": 0, "Steel": 5527, "Wheat": 0, "Other Trade": 24238, "Total": 12497039},
+                  {"Month": "Oct-19", "Aluminium": 0, "Coal": 14811006, "Concentrates": 51371, "Machinery, Project Cargo & Vehicles": 661, "Meals & Grains": 0, "Pitch & Tar Products": 14932, "Steel": 2448, "Wheat": 0, "Other Trade": 13658, "Total": 14894076},
+                  {"Month": "Nov-19", "Aluminium": 0, "Coal": 12560964, "Concentrates": 61663, "Machinery, Project Cargo & Vehicles": 962, "Meals & Grains": 1387, "Pitch & Tar Products": 0, "Steel": 5446, "Wheat": 0, "Other Trade": 12199, "Total": 12642621},
+                  {"Month": "Dec-19", "Aluminium": 0, "Coal": 15441555, "Concentrates": 35744, "Machinery, Project Cargo & Vehicles": 342, "Meals & Grains": 949, "Pitch & Tar Products": 16355, "Steel": 3913, "Wheat": 15655, "Other Trade": 19519, "Total": 15534032},
+                  {"Month": "Jan-20", "Aluminium": 0, "Coal": 13877491, "Concentrates": 44982, "Machinery, Project Cargo & Vehicles": 0, "Meals & Grains": 0, "Pitch & Tar Products": 0, "Steel": 4286, "Wheat": 0, "Other Trade": 14138, "Total": 13940897},
+                  {"Month": "Feb-20", "Aluminium": 0, "Coal": 11582361, "Concentrates": 19955, "Machinery, Project Cargo & Vehicles": 1581, "Meals & Grains": 0, "Pitch & Tar Products": 10528, "Steel": 3401, "Wheat": 0, "Other Trade": 14806, "Total": 11632632},
+                  {"Month": "Mar-20", "Aluminium": 5886, "Coal": 14515433, "Concentrates": 20465, "Machinery, Project Cargo & Vehicles": 0, "Meals & Grains": 0, "Pitch & Tar Products": 5515, "Steel": 3908, "Wheat": 0, "Other Trade": 13826, "Total": 14565033}]
+
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "Month";
+    categoryAxis.title.text = "Month";
+    categoryAxis.renderer.grid.template.location=0;
+    
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.renderer.inside = true;
+    valueAxis.renderer.labels.template.disabled = true;
+    valueAxis.title.text = "Ammount Transported"
+    valueAxis.min = 0;
+
+    // Create series
+    function createSeries(field, name) {
+
+        // Set up series
+        var series = chart.series.push(new am4charts.ColumnSeries());
+        series.name = name;
+        series.dataFields.valueY = field;
+        series.dataFields.categoryX = "Month";
+        series.sequencedInterpolation = true;
+        
+        // Make it stacked
+        series.stacked = true;
+
+        // Configure columns
+        series.columns.template.width = am4core.percent(60);
+        series.columns.template.tooltipText = "[bold]{name}[/]\n[font-size:14px]{categoryX}: {valueY}";
+
+        return series;
+    }
+
+    createSeries("Aluminium", "Aluminium");
+    createSeries("Coal", "Coal");
+    createSeries("Concentrates", "Concentrates");
+    createSeries("Machinery, Project Cargo & Vehicles", "Machinery");
+    createSeries("Meals & Grains", "Grains");
+    createSeries("Pitch & Tar Products", "Pitch & Tar Products");
+    createSeries("Steel", "Steel");
+    createSeries("Wheat", "Wheat");
+    createSeries("Other Trade", "Other");
+
+    // Legend
+    chart.legend = new am4charts.Legend();
+
+
+</script>

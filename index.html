@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<header>
+    <title>Freight Data Visualisation</title>
+    <script src="core.js"></script>
+    <script src="charts.js"></script>
+    <script src="maps.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+</header>
+
+<body>
+    <h1>Test Page</h1>
+     <div name="Fatalities">
+        <h2>Fatalities</h2>
+        <div id="fatalities" class="chart"></div>
+        <hr>
+    </div>
+    <div name="Serious Injuries">
+        <h2>Serious Injuries</h2>
+        <div id="seriousInjuries" class="chart"></div>
+        <hr>
+    </div>
+    <div name="Use of Rail">
+        <h2>Use of Rail Freight Port Botany</h2>
+        <div id="railUse" class="chart"></div>
+        <hr>
+    </div>
+    <div name="chord">
+        <h2>Freight Movements</h2>
+        <div id="SFM" class="chart"></div>
+        <hr>
+    </div>
+    <div name="maptest">
+        <h2>Map Test</h2>
+        <div id = "TestMap" class="chart"></div>
+        <hr>
+    </div>
+    <div name="pies">
+        <h2>Pies</h2>
+        <div id="PieI" class="chart"></div>
+        <div id="PieE" class="chart"></div>
+    </div>
+    <script id="fatalitiesScript">
+        var chart = am4core.create("fatalities", am4charts.XYChart);
+        chart.dataSource.url = "/data/Fatalities.json";
+
+        var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+        categoryAxis.dataFields.category = "Year";
+        categoryAxis.title.text = "Date";
+        categoryAxis.renderer.grid.template.location = 0;
+
+        var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+        valueAxis.title.text = "Fatalities - Monthly";
+        valueAxis.min = 0;
+        valueAxis.max = 20;
+
+        var valueAxis2 = chart.yAxes.push(new am4charts.ValueAxis());
+        valueAxis2.title.text = "12 Month Rolling Average"
+        valueAxis2.renderer.opposite = true;
+        valueAxis2.min = 40;
+        valueAxis2.max = 120;
+
+        var series = chart.series.push(new am4charts.ColumnSeries());
+        series.dataFields.categoryX = "Year";
+        series.name = "Heavy Truck Fatalities";
+        series.dataFields.valueY = "Heavy Truck Fatalities";
+        series.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+
+        var series1 = chart.series.push(new am4charts.ColumnSeries());
+        series1.dataFields.categoryX = "Year";
+        series1.name = "Light Truck Fatalities";
+        series1.dataFields.valueY = "Light Truck Fatalities";
+        series1.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+
+        var series2 = chart.series.push(new am4charts.LineSeries());
+        series2.dataFields.categoryX = "Year";
+        series2.dataFields.valueY = "Heavy Truck Fatalities - rolling 12 month average";
+        series2.name = "Heavy Truck Fatalities - Year Rolling Average"
+        series2.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+        series2.strokeWidth = 3;
+        series2.yAxis = valueAxis2;
+
+        var series3 = chart.series.push(new am4charts.LineSeries());
+        series3.dataFields.categoryX = "Year";
+        series3.dataFields.valueY = "Light Truck Fatalities - rolling 12 month average";
+        series3.name = "Light Truck Fatalities - Year Rolling Average"
+        series3.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+        series3.strokeWidth = 3;
+        series3.yAxis = valueAxis2;
+         
+        chart.scrollbarX = new am4core.Scrollbar();
+        chart.scrollbarX.parent = chart.bottomAxesContainer;
+
+        chart.legend = new am4charts.Legend();
+        chart.legend.maxWidth = undefined;
+        chart.legend.layout = "grid";
+        chart.legend.maxColumns = 2;
+        chart.cursor = new am4charts.XYCursor();
+
+    </script>
+    <script id="seriousInjuriesScript">
+        var chart = am4core.create("seriousInjuries", am4charts.XYChart);
+        chart.dataSource.url = "/data/seriousInjuries.json";
+
+        var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+        categoryAxis.dataFields.category = "Year";
+        categoryAxis.title.text = "Quarter End";
+        categoryAxis.renderer.grid.template.location = 0;
+
+        var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+        valueAxis.title.text = "Serious Injuries - Quarterly";
+        valueAxis.min = 0;
+        valueAxis.max = 500;
+        valueAxis.renderer.minGridDistance = 40;
+
+        var valueAxis2 = chart.yAxes.push(new am4charts.ValueAxis());
+        valueAxis2.title.text = "Rolling Four Quarter Total"
+        valueAxis2.renderer.opposite = true;
+        valueAxis2.min = 200;
+        valueAxis2.max = 1200;
+
+        var series = chart.series.push(new am4charts.ColumnSeries());
+        series.dataFields.categoryX = "Year";
+        series.name = "Heavy Truck Serious Injuries";
+        series.dataFields.valueY = "Heavy Truck Serious Injuries";
+        series.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+
+        var series1 = chart.series.push(new am4charts.ColumnSeries());
+        series1.dataFields.categoryX = "Year";
+        series1.name = "Light Truck Serious Injuries";
+        series1.dataFields.valueY = "Light Truck Serious Injuries";
+        series1.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+
+        var series2 = chart.series.push(new am4charts.LineSeries());
+        series2.dataFields.categoryX = "Year";
+        series2.dataFields.valueY = "Heavy Truck Rolling Four Quarter Total";
+        series2.name = "Heavy Truck Rolling Four Quarter Total";
+        series2.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+        series2.strokeWidth = 3;
+        series2.yAxis = valueAxis2;
+        series2.tensionX = 0.8;
+
+        var series3 = chart.series.push(new am4charts.LineSeries());
+        series3.dataFields.categoryX = "Year";
+        series3.dataFields.valueY = "Light Truck Rolling Four Quarter Total";
+        series3.name = "Light Truck Rolling Four Quarter Total";
+        series3.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+        series3.strokeWidth = 3;
+        series3.yAxis = valueAxis2;
+        series3.tensionX = 0.8;
+
+        chart.scrollbarX = new am4core.Scrollbar();
+        chart.scrollbarX.parent = chart.bottomAxesContainer;
+        chart.legend = new am4charts.Legend();
+        chart.legend.maxWidth = undefined;
+        chart.legend.layout = "grid";
+        chart.legend.maxColumns = 2;
+        chart.cursor = new am4charts.XYCursor();
+
+    </script>
+    <script name="railUseScript">
+        var chart = am4core.create("railUse", am4charts.XYChart);
+        chart.dataSource.url = "/data/UseOfRailFreight.json";
+        
+        var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+        categoryAxis.dataFields.category = "Date";
+        categoryAxis.title.text = "Month";
+        categoryAxis.renderer.grid.template.location = 0;
+        
+        var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+        valueAxis.title.text = "Total TEUs";
+        valueAxis.max = 50000;
+        
+        var valueAxis2= chart.yAxes.push(new am4charts.ValueAxis());
+        valueAxis2.title.text = "Rail Share of Movement (%)";
+        valueAxis2.renderer.opposite = true;
+        
+        var series = chart.series.push(new am4charts.ColumnSeries());
+        series.dataFields.categoryX = "Date";
+        series.dataFields.valueY = "TEU Total";
+        series.name = "Total TEUs";
+        series.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+        
+        var series2 = chart.series.push(new am4charts.LineSeries());
+        series2.dataFields.categoryX = "Date";
+        series2.dataFields.valueY = "Rail Share";
+        series2.name = "Share of Rail";
+        series2.strokeWidth = 3;
+        series2.yAxis = valueAxis2;
+        series2.tooltipText = "{categoryX}: [bold]{valueY}%[/]";
+        
+        chart.scrollbarX = new am4core.Scrollbar();
+        chart.scrollbarX.parent = chart.bottomAxesContainer;
+        chart.legend = new am4charts.Legend();
+        chart.legend.maxWidth = undefined;
+        chart.legend.layout = "grid";
+        chart.legend.maxColumns = 2;
+        chart.cursor = new am4charts.XYCursor();
+    </script>
+    <script name="SFMscript">
+        var chart = am4core.create("SFM", am4charts.ChordDiagram);
+        chart.dataSource.url = "/data/SFMFinal.json";       
+        chart.dataFields.fromName = "Origin_Name";
+        chart.dataFields.toName = "Destination_Name";
+        chart.dataFields.value  = "TotalTransported";
+    </script>
+    <script name="MapScript">
+        var map = am4core.create("TestMap", am4maps.MapChart);
+        map.geodataSource.url ="/data/SA3Data.json";
+        map.projection = new am4maps.projections.Miller();
+        var polygonSeries = chart.series.push(new am4maps.MapPolygonSeries());
+        polygonSeries.useGeodata = true;
+        var polygonTemplate = polygonSeries.mapPolygons.template;
+    </script>
+    <script name="PieImports">
+        var chart = am4core.create("PieI", am4charts.PieChart);
+        chart.dataSource.url = "/data/KuRingGai/Imports.json";
+        var pieSeries = chart.series.push(new am4charts.PieSeries());
+        pieSeries.dataFields.value = "Total";
+        pieSeries.dataFields.category = "Origin_Name";
+    </script>
+    <script name="PieExports">
+        var chart = am4core.create("PieE", am4charts.PieChart);
+        chart.dataSource.url = "/data/KuRingGai/Exports.json";
+        var pieSeries = chart.series.push(new am4charts.PieSeries());
+        pieSeries.dataFields.value = "Total";
+        pieSeries.dataFields.category = "Destination_Name";
+    </script>
+</body>

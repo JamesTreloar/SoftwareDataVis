@@ -1,0 +1,208 @@
+<h1>Kingsford Smith Airfreight Imports and Exports</h1>
+<div name = "chartsdiv">
+    <div class="card mb-4">
+        <h2 class="card-header">Imports</h2>
+        <div id="KSI" class="chart card-body"></div>
+    </div>
+    <div class="card mb-4">
+        <h2 class="card-header">Exports</h2>
+        <div id="KSE" class="chart card-body"></div>
+    </div>
+</div>
+
+<script>
+    //From docs
+    am4core.useTheme(am4themes_animated);
+    chart = new am4core.create("KSI", am4charts.XYChart);
+    chart.maskBullets = false;
+    chart.scrollbarX = new am4core.Scrollbar();
+    chart.data = [{"Month": "Jan-16", "Engines, Machines": 1969, "Motors, Appliances, Radio, T V": 1863, "Spectacles Cameras Instruments": 980, "Pharmaceutical Goods": 932, "Clothes Other": 651, "Fruit & Nuts": 378, "Polymers Plastics": 363, "Fish & Crustaceans": 493, "Clothes, Knitted": 351, "Essential Oils Perfumes ": 293, "Other": 4153},
+                  {"Month": "Feb-16", "Engines, Machines": 2377, "Motors, Appliances, Radio, T V": 2023, "Spectacles Cameras Instruments": 1080, "Pharmaceutical Goods": 1057, "Clothes Other": 452, "Fruit & Nuts": 391, "Polymers Plastics": 496, "Fish & Crustaceans": 528, "Clothes, Knitted": 389, "Essential Oils Perfumes ": 399, "Other": 4979},
+                  {"Month": "Mar-16", "Engines, Machines": 3016, "Motors, Appliances, Radio, T V": 2635, "Spectacles Cameras Instruments": 1199, "Pharmaceutical Goods": 1334, "Clothes Other": 708, "Fruit & Nuts": 315, "Polymers Plastics": 620, "Fish & Crustaceans": 641, "Clothes, Knitted": 554, "Essential Oils Perfumes ": 388, "Other": 5572},
+                  {"Month": "Apr-16", "Engines, Machines": 2760, "Motors, Appliances, Radio, T V": 2274, "Spectacles Cameras Instruments": 1103, "Pharmaceutical Goods": 1027, "Clothes Other": 588, "Fruit & Nuts": 166, "Polymers Plastics": 631, "Fish & Crustaceans": 543, "Clothes, Knitted": 475, "Essential Oils Perfumes ": 413, "Other": 5427},
+                  {"Month": "May-16", "Engines, Machines": 2688, "Motors, Appliances, Radio, T V": 2954, "Spectacles Cameras Instruments": 1174, "Pharmaceutical Goods": 914, "Clothes Other": 570, "Fruit & Nuts": 597, "Polymers Plastics": 608, "Fish & Crustaceans": 529, "Clothes, Knitted": 430, "Essential Oils Perfumes ": 383, "Other": 5725},
+                  {"Month": "Jun-16", "Engines, Machines": 2632, "Motors, Appliances, Radio, T V": 2945, "Spectacles Cameras Instruments": 1185, "Pharmaceutical Goods": 1051, "Clothes Other": 564, "Fruit & Nuts": 969, "Polymers Plastics": 537, "Fish & Crustaceans": 480, "Clothes, Knitted": 472, "Essential Oils Perfumes ": 328, "Other": 6131},
+                  {"Month": "Jul-16", "Engines, Machines": 2745, "Motors, Appliances, Radio, T V": 2513, "Spectacles Cameras Instruments": 1190, "Pharmaceutical Goods": 1027, "Clothes Other": 621, "Fruit & Nuts": 1711, "Polymers Plastics": 373, "Fish & Crustaceans": 433, "Clothes, Knitted": 441, "Essential Oils Perfumes ": 326, "Other": 5943},
+                  {"Month": "Aug-16", "Engines, Machines": 2804, "Motors, Appliances, Radio, T V": 2843, "Spectacles Cameras Instruments": 1177, "Pharmaceutical Goods": 999, "Clothes Other": 778, "Fruit & Nuts": 996, "Polymers Plastics": 456, "Fish & Crustaceans": 545, "Clothes, Knitted": 431, "Essential Oils Perfumes ": 424, "Other": 6144},
+                  {"Month": "Sep-16", "Engines, Machines": 2573, "Motors, Appliances, Radio, T V": 3335, "Spectacles Cameras Instruments": 1098, "Pharmaceutical Goods": 963, "Clothes Other": 770, "Fruit & Nuts": 455, "Polymers Plastics": 447, "Fish & Crustaceans": 573, "Clothes, Knitted": 446, "Essential Oils Perfumes ": 462, "Other": 6104},
+                  {"Month": "Oct-16", "Engines, Machines": 2933, "Motors, Appliances, Radio, T V": 3129, "Spectacles Cameras Instruments": 1082, "Pharmaceutical Goods": 1149, "Clothes Other": 895, "Fruit & Nuts": 528, "Polymers Plastics": 516, "Fish & Crustaceans": 596, "Clothes, Knitted": 448, "Essential Oils Perfumes ": 487, "Other": 6432},
+                  {"Month": "Nov-16", "Engines, Machines": 3568, "Motors, Appliances, Radio, T V": 3297, "Spectacles Cameras Instruments": 1136, "Pharmaceutical Goods": 1136, "Clothes Other": 838, "Fruit & Nuts": 222, "Polymers Plastics": 520, "Fish & Crustaceans": 601, "Clothes, Knitted": 494, "Essential Oils Perfumes ": 553, "Other": 7079},
+                  {"Month": "Dec-16", "Engines, Machines": 3760, "Motors, Appliances, Radio, T V": 2981, "Spectacles Cameras Instruments": 1203, "Pharmaceutical Goods": 977, "Clothes Other": 753, "Fruit & Nuts": 375, "Polymers Plastics": 534, "Fish & Crustaceans": 623, "Clothes, Knitted": 437, "Essential Oils Perfumes ": 510, "Other": 5617},
+                  {"Month": "Jan-17", "Engines, Machines": 2751, "Motors, Appliances, Radio, T V": 2174, "Spectacles Cameras Instruments": 1014, "Pharmaceutical Goods": 1022, "Clothes Other": 780, "Fruit & Nuts": 636, "Polymers Plastics": 592, "Fish & Crustaceans": 535, "Clothes, Knitted": 443, "Essential Oils Perfumes ": 507, "Other": 4823},
+                  {"Month": "Feb-17", "Engines, Machines": 2464, "Motors, Appliances, Radio, T V": 2135, "Spectacles Cameras Instruments": 959, "Pharmaceutical Goods": 993, "Clothes Other": 383, "Fruit & Nuts": 1218, "Polymers Plastics": 401, "Fish & Crustaceans": 552, "Clothes, Knitted": 314, "Essential Oils Perfumes ": 438, "Other": 4882},
+                  {"Month": "Mar-17", "Engines, Machines": 3070, "Motors, Appliances, Radio, T V": 2902, "Spectacles Cameras Instruments": 1232, "Pharmaceutical Goods": 1188, "Clothes Other": 812, "Fruit & Nuts": 638, "Polymers Plastics": 589, "Fish & Crustaceans": 594, "Clothes, Knitted": 712, "Essential Oils Perfumes ": 577, "Other": 6428},
+                  {"Month": "Apr-17", "Engines, Machines": 2805, "Motors, Appliances, Radio, T V": 2822, "Spectacles Cameras Instruments": 1076, "Pharmaceutical Goods": 1017, "Clothes Other": 633, "Fruit & Nuts": 162, "Polymers Plastics": 551, "Fish & Crustaceans": 555, "Clothes, Knitted": 577, "Essential Oils Perfumes ": 427, "Other": 5575},
+                  {"Month": "May-17", "Engines, Machines": 3181, "Motors, Appliances, Radio, T V": 2132, "Spectacles Cameras Instruments": 791, "Pharmaceutical Goods": 1030, "Clothes Other": 655, "Fruit & Nuts": 450, "Polymers Plastics": 700, "Fish & Crustaceans": 537, "Clothes, Knitted": 526, "Essential Oils Perfumes ": 279, "Other": 6215},
+                  {"Month": "Jun-17", "Engines, Machines": 3247, "Motors, Appliances, Radio, T V": 2943, "Spectacles Cameras Instruments": 1197, "Pharmaceutical Goods": 1062, "Clothes Other": 611, "Fruit & Nuts": 836, "Polymers Plastics": 513, "Fish & Crustaceans": 423, "Clothes, Knitted": 476, "Essential Oils Perfumes ": 383, "Other": 6240},
+                  {"Month": "Jul-17", "Engines, Machines": 3035, "Motors, Appliances, Radio, T V": 2201, "Spectacles Cameras Instruments": 1259, "Pharmaceutical Goods": 1100, "Clothes Other": 636, "Fruit & Nuts": 1958, "Polymers Plastics": 629, "Fish & Crustaceans": 440, "Clothes, Knitted": 449, "Essential Oils Perfumes ": 424, "Other": 6810},
+                  {"Month": "Aug-17", "Engines, Machines": 3041, "Motors, Appliances, Radio, T V": 2750, "Spectacles Cameras Instruments": 1307, "Pharmaceutical Goods": 1006, "Clothes Other": 740, "Fruit & Nuts": 1633, "Polymers Plastics": 608, "Fish & Crustaceans": 547, "Clothes, Knitted": 520, "Essential Oils Perfumes ": 660, "Other": 6219},
+                  {"Month": "Sep-17", "Engines, Machines": 3089, "Motors, Appliances, Radio, T V": 2851, "Spectacles Cameras Instruments": 1239, "Pharmaceutical Goods": 983, "Clothes Other": 737, "Fruit & Nuts": 422, "Polymers Plastics": 597, "Fish & Crustaceans": 498, "Clothes, Knitted": 494, "Essential Oils Perfumes ": 496, "Other": 5998},
+                  {"Month": "Oct-17", "Engines, Machines": 3455, "Motors, Appliances, Radio, T V": 3316, "Spectacles Cameras Instruments": 1267, "Pharmaceutical Goods": 1086, "Clothes Other": 957, "Fruit & Nuts": 267, "Polymers Plastics": 621, "Fish & Crustaceans": 552, "Clothes, Knitted": 540, "Essential Oils Perfumes ": 540, "Other": 7398},
+                  {"Month": "Nov-17", "Engines, Machines": 3548, "Motors, Appliances, Radio, T V": 3771, "Spectacles Cameras Instruments": 1338, "Pharmaceutical Goods": 1038, "Clothes Other": 902, "Fruit & Nuts": 122, "Polymers Plastics": 722, "Fish & Crustaceans": 598, "Clothes, Knitted": 474, "Essential Oils Perfumes ": 492, "Other": 7517},
+                  {"Month": "Dec-17", "Engines, Machines": 3120, "Motors, Appliances, Radio, T V": 3210, "Spectacles Cameras Instruments": 1316, "Pharmaceutical Goods": 1146, "Clothes Other": 691, "Fruit & Nuts": 366, "Polymers Plastics": 535, "Fish & Crustaceans": 561, "Clothes, Knitted": 337, "Essential Oils Perfumes ": 444, "Other": 6209},
+                  {"Month": "Jan-18", "Engines, Machines": 2900, "Motors, Appliances, Radio, T V": 2626, "Spectacles Cameras Instruments": 1127, "Pharmaceutical Goods": 1124, "Clothes Other": 710, "Fruit & Nuts": 536, "Polymers Plastics": 435, "Fish & Crustaceans": 594, "Clothes, Knitted": 425, "Essential Oils Perfumes ": 435, "Other": 5198},
+                  {"Month": "Feb-18", "Engines, Machines": 2596, "Motors, Appliances, Radio, T V": 2326, "Spectacles Cameras Instruments": 1161, "Pharmaceutical Goods": 1075, "Clothes Other": 561, "Fruit & Nuts": 443, "Polymers Plastics": 477, "Fish & Crustaceans": 500, "Clothes, Knitted": 449, "Essential Oils Perfumes ": 432, "Other": 5560},
+                  {"Month": "Mar-18", "Engines, Machines": 3324, "Motors, Appliances, Radio, T V": 2688, "Spectacles Cameras Instruments": 1295, "Pharmaceutical Goods": 1342, "Clothes Other": 609, "Fruit & Nuts": 227, "Polymers Plastics": 699, "Fish & Crustaceans": 643, "Clothes, Knitted": 563, "Essential Oils Perfumes ": 669, "Other": 5849},
+                  {"Month": "Apr-18", "Engines, Machines": 3732, "Motors, Appliances, Radio, T V": 2655, "Spectacles Cameras Instruments": 1362, "Pharmaceutical Goods": 1092, "Clothes Other": 761, "Fruit & Nuts": 133, "Polymers Plastics": 599, "Fish & Crustaceans": 505, "Clothes, Knitted": 674, "Essential Oils Perfumes ": 622, "Other": 5730},
+                  {"Month": "May-18", "Engines, Machines": 3361, "Motors, Appliances, Radio, T V": 2887, "Spectacles Cameras Instruments": 1412, "Pharmaceutical Goods": 1171, "Clothes Other": 766, "Fruit & Nuts": 232, "Polymers Plastics": 650, "Fish & Crustaceans": 509, "Clothes, Knitted": 643, "Essential Oils Perfumes ": 521, "Other": 6582},
+                  {"Month": "Jun-18", "Engines, Machines": 3625, "Motors, Appliances, Radio, T V": 3114, "Spectacles Cameras Instruments": 1339, "Pharmaceutical Goods": 1193, "Clothes Other": 605, "Fruit & Nuts": 925, "Polymers Plastics": 588, "Fish & Crustaceans": 427, "Clothes, Knitted": 542, "Essential Oils Perfumes ": 559, "Other": 5997},
+                  {"Month": "Jul-18", "Engines, Machines": 3690, "Motors, Appliances, Radio, T V": 2767, "Spectacles Cameras Instruments": 1431, "Pharmaceutical Goods": 985, "Clothes Other": 712, "Fruit & Nuts": 1899, "Polymers Plastics": 649, "Fish & Crustaceans": 469, "Clothes, Knitted": 544, "Essential Oils Perfumes ": 629, "Other": 6399},
+                  {"Month": "Aug-18", "Engines, Machines": 3350, "Motors, Appliances, Radio, T V": 3058, "Spectacles Cameras Instruments": 1421, "Pharmaceutical Goods": 1132, "Clothes Other": 750, "Fruit & Nuts": 1665, "Polymers Plastics": 750, "Fish & Crustaceans": 546, "Clothes, Knitted": 497, "Essential Oils Perfumes ": 718, "Other": 6411},
+                  {"Month": "Sep-18", "Engines, Machines": 3027, "Motors, Appliances, Radio, T V": 3304, "Spectacles Cameras Instruments": 1257, "Pharmaceutical Goods": 1051, "Clothes Other": 759, "Fruit & Nuts": 577, "Polymers Plastics": 694, "Fish & Crustaceans": 499, "Clothes, Knitted": 504, "Essential Oils Perfumes ": 609, "Other": 5942},
+                  {"Month": "Oct-18", "Engines, Machines": 3563, "Motors, Appliances, Radio, T V": 3818, "Spectacles Cameras Instruments": 1381, "Pharmaceutical Goods": 1305, "Clothes Other": 936, "Fruit & Nuts": 364, "Polymers Plastics": 752, "Fish & Crustaceans": 561, "Clothes, Knitted": 497, "Essential Oils Perfumes ": 763, "Other": 7192},
+                  {"Month": "Nov-18", "Engines, Machines": 3667, "Motors, Appliances, Radio, T V": 3505, "Spectacles Cameras Instruments": 1303, "Pharmaceutical Goods": 1115, "Clothes Other": 839, "Fruit & Nuts": 135, "Polymers Plastics": 775, "Fish & Crustaceans": 574, "Clothes, Knitted": 445, "Essential Oils Perfumes ": 656, "Other": 7944},
+                  {"Month": "Dec-18", "Engines, Machines": 3151, "Motors, Appliances, Radio, T V": 2803, "Spectacles Cameras Instruments": 1184, "Pharmaceutical Goods": 1035, "Clothes Other": 854, "Fruit & Nuts": 342, "Polymers Plastics": 601, "Fish & Crustaceans": 577, "Clothes, Knitted": 431, "Essential Oils Perfumes ": 555, "Other": 6906},
+                  {"Month": "Jan-19", "Engines, Machines": 2598, "Motors, Appliances, Radio, T V": 2203, "Spectacles Cameras Instruments": 1067, "Pharmaceutical Goods": 1028, "Clothes Other": 692, "Fruit & Nuts": 498, "Polymers Plastics": 510, "Fish & Crustaceans": 515, "Clothes, Knitted": 458, "Essential Oils Perfumes ": 538, "Other": 5338},
+                  {"Month": "Feb-19", "Engines, Machines": 2417, "Motors, Appliances, Radio, T V": 2087, "Spectacles Cameras Instruments": 1217, "Pharmaceutical Goods": 1018, "Clothes Other": 415, "Fruit & Nuts": 670, "Polymers Plastics": 498, "Fish & Crustaceans": 477, "Clothes, Knitted": 308, "Essential Oils Perfumes ": 847, "Other": 5775},
+                  {"Month": "Mar-19", "Engines, Machines": 3025, "Motors, Appliances, Radio, T V": 2033, "Spectacles Cameras Instruments": 1450, "Pharmaceutical Goods": 1126, "Clothes Other": 619, "Fruit & Nuts": 383, "Polymers Plastics": 682, "Fish & Crustaceans": 451, "Clothes, Knitted": 477, "Essential Oils Perfumes ": 620, "Other": 7050},
+                  {"Month": "Apr-19", "Engines, Machines": 3089, "Motors, Appliances, Radio, T V": 1960, "Spectacles Cameras Instruments": 1343, "Pharmaceutical Goods": 1098, "Clothes Other": 687, "Fruit & Nuts": 197, "Polymers Plastics": 576, "Fish & Crustaceans": 515, "Clothes, Knitted": 631, "Essential Oils Perfumes ": 528, "Other": 6436},
+                  {"Month": "May-19", "Engines, Machines": 3040, "Motors, Appliances, Radio, T V": 1953, "Spectacles Cameras Instruments": 1368, "Pharmaceutical Goods": 1068, "Clothes Other": 620, "Fruit & Nuts": 190, "Polymers Plastics": 520, "Fish & Crustaceans": 428, "Clothes, Knitted": 589, "Essential Oils Perfumes ": 493, "Other": 7213},
+                  {"Month": "Jun-19", "Engines, Machines": 2978, "Motors, Appliances, Radio, T V": 1952, "Spectacles Cameras Instruments": 1283, "Pharmaceutical Goods": 896, "Clothes Other": 510, "Fruit & Nuts": 652, "Polymers Plastics": 549, "Fish & Crustaceans": 334, "Clothes, Knitted": 447, "Essential Oils Perfumes ": 436, "Other": 6398},
+                  {"Month": "Jul-19", "Engines, Machines": 2923, "Motors, Appliances, Radio, T V": 1895, "Spectacles Cameras Instruments": 1180, "Pharmaceutical Goods": 1165, "Clothes Other": 623, "Fruit & Nuts": 1595, "Polymers Plastics": 583, "Fish & Crustaceans": 444, "Clothes, Knitted": 529, "Essential Oils Perfumes ": 576, "Other": 7154},
+                  {"Month": "Aug-19", "Engines, Machines": 2525, "Motors, Appliances, Radio, T V": 2055, "Spectacles Cameras Instruments": 1071, "Pharmaceutical Goods": 1010, "Clothes Other": 698, "Fruit & Nuts": 1578, "Polymers Plastics": 569, "Fish & Crustaceans": 395, "Clothes, Knitted": 425, "Essential Oils Perfumes ": 582, "Other": 7229},
+                  {"Month": "Sep-19", "Engines, Machines": 2668, "Motors, Appliances, Radio, T V": 2204, "Spectacles Cameras Instruments": 1106, "Pharmaceutical Goods": 898, "Clothes Other": 684, "Fruit & Nuts": 555, "Polymers Plastics": 658, "Fish & Crustaceans": 427, "Clothes, Knitted": 413, "Essential Oils Perfumes ": 599, "Other": 7605},
+                  {"Month": "Oct-19", "Engines, Machines": 3064, "Motors, Appliances, Radio, T V": 2452, "Spectacles Cameras Instruments": 1249, "Pharmaceutical Goods": 1585, "Clothes Other": 777, "Fruit & Nuts": 200, "Polymers Plastics": 586, "Fish & Crustaceans": 486, "Clothes, Knitted": 451, "Essential Oils Perfumes ": 543, "Other": 8180},
+                  {"Month": "Nov-19", "Engines, Machines": 2961, "Motors, Appliances, Radio, T V": 2543, "Spectacles Cameras Instruments": 1214, "Pharmaceutical Goods": 1072, "Clothes Other": 789, "Fruit & Nuts": 156, "Polymers Plastics": 552, "Fish & Crustaceans": 521, "Clothes, Knitted": 416, "Essential Oils Perfumes ": 536, "Other": 8521},
+                  {"Month": "Dec-19", "Engines, Machines": 2995, "Motors, Appliances, Radio, T V": 1821, "Spectacles Cameras Instruments": 1142, "Pharmaceutical Goods": 1056, "Clothes Other": 709, "Fruit & Nuts": 237, "Polymers Plastics": 462, "Fish & Crustaceans": 528, "Clothes, Knitted": 414, "Essential Oils Perfumes ": 652, "Other": 7344},
+                  {"Month": "Jan-20", "Engines, Machines": 2382, "Motors, Appliances, Radio, T V": 1533, "Spectacles Cameras Instruments": 903, "Pharmaceutical Goods": 1052, "Clothes Other": 566, "Fruit & Nuts": 219, "Polymers Plastics": 516, "Fish & Crustaceans": 447, "Clothes, Knitted": 485, "Essential Oils Perfumes ": 1088, "Other": 6891}]
+
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "Month";
+    categoryAxis.title.text = "Month";
+    categoryAxis.renderer.grid.template.location=0;
+
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.min = 0;
+    valueAxis.calculateTotals = true;
+
+    // Create series
+    function createSeries(field, name) {
+        // Set up series
+        var series = chart.series.push(new am4charts.ColumnSeries());
+        series.name = name;
+        series.dataFields.valueY = field;
+        series.dataFields.categoryX = "Month";
+        series.sequencedInterpolation = true;
+        // Make it stacked
+        series.stacked = true;
+        // Configure columns
+        series.columns.template.width = am4core.percent(60);
+        series.columns.template.tooltipText = "[bold]{name}[/]\n[font-size:14px]{categoryX}: {valueY}";
+        return series;
+    }
+    createSeries("Engines, Machines", "Engines, Machines");
+    createSeries("Motors, Appliances, Radio, T V", "Motors, Appliances, Radio, T V");
+    createSeries("Spectacles Cameras Instruments", "Spectacles Cameras Instruments");
+    createSeries("Pharmaceutical Goods", "Pharmaceutical Goods");
+    createSeries("Machinery, Project Cargo & Vehicles", "Machinery");
+    createSeries("Clothes Other", "Clothes Other");
+    createSeries("Fruit & Nuts", "Fruit & Nuts");
+    createSeries("Polymers Plastics", "Polymers Plastics");
+    createSeries("Fish & Crustaceans", "Fish & Crustaceans");
+    createSeries("Clothes, Knitted", "Clothes, Knitted");
+    createSeries("Essential Oils Perfumes ", "Essential Oils Perfumes ");
+    createSeries("Other", "Other");
+
+    // Legend
+    chart.legend = new am4charts.Legend();
+</script>
+
+<script>
+    //From docs
+    am4core.useTheme(am4themes_animated);
+    chart = new am4core.create("KSE", am4charts.XYChart);
+    chart.maskBullets = false;
+    chart.scrollbarX = new am4core.Scrollbar();
+    chart.data = [{"Month": "Jan-16", "Misc Edible Prep": 3015, "Cereal Preps": 1088, "Spec Transaction": 1139, "Fruits+Nuts-Fres": 3825, "Meat Fresh": 925, "Dairy Eggs+Honey": 536, "Medical Products": 207, "Cosmet+Oil+Resin": 198, "Vegetables": 519, "Printed Matter": 270, "Other": 3466},
+                  {"Month": "Feb-16", "Misc Edible Prep": 1775, "Cereal Preps": 667, "Spec Transaction": 1471, "Fruits+Nuts-Fres": 2707, "Meat Fresh": 1053, "Dairy Eggs+Honey": 147, "Medical Products": 256, "Cosmet+Oil+Resin": 181, "Vegetables": 418, "Printed Matter": 410, "Other": 4219},
+                  {"Month": "Mar-16", "Misc Edible Prep": 4077, "Cereal Preps": 1312, "Spec Transaction": 1305, "Fruits+Nuts-Fres": 1931, "Meat Fresh": 1091, "Dairy Eggs+Honey": 487, "Medical Products": 309, "Cosmet+Oil+Resin": 242, "Vegetables": 580, "Printed Matter": 306, "Other": 4914},
+                  {"Month": "Apr-16", "Misc Edible Prep": 2768, "Cereal Preps": 1404, "Spec Transaction": 1147, "Fruits+Nuts-Fres": 1378, "Meat Fresh": 878, "Dairy Eggs+Honey": 184, "Medical Products": 277, "Cosmet+Oil+Resin": 262, "Vegetables": 527, "Printed Matter": 351, "Other": 5088},
+                  {"Month": "May-16", "Misc Edible Prep": 2943, "Cereal Preps": 1502, "Spec Transaction": 1304, "Fruits+Nuts-Fres": 1245, "Meat Fresh": 776, "Dairy Eggs+Honey": 238, "Medical Products": 301, "Cosmet+Oil+Resin": 305, "Vegetables": 721, "Printed Matter": 291, "Other": 4513},
+                  {"Month": "Jun-16", "Misc Edible Prep": 2358, "Cereal Preps": 1159, "Spec Transaction": 1433, "Fruits+Nuts-Fres": 972, "Meat Fresh": 863, "Dairy Eggs+Honey": 254, "Medical Products": 259, "Cosmet+Oil+Resin": 216, "Vegetables": 489, "Printed Matter": 298, "Other": 5622},
+                  {"Month": "Jul-16", "Misc Edible Prep": 2579, "Cereal Preps": 1239, "Spec Transaction": 1280, "Fruits+Nuts-Fres": 991, "Meat Fresh": 589, "Dairy Eggs+Honey": 195, "Medical Products": 339, "Cosmet+Oil+Resin": 251, "Vegetables": 499, "Printed Matter": 327, "Other": 4774},
+                  {"Month": "Aug-16", "Misc Edible Prep": 2799, "Cereal Preps": 1198, "Spec Transaction": 1425, "Fruits+Nuts-Fres": 1200, "Meat Fresh": 719, "Dairy Eggs+Honey": 135, "Medical Products": 297, "Cosmet+Oil+Resin": 248, "Vegetables": 645, "Printed Matter": 365, "Other": 5196},
+                  {"Month": "Sep-16", "Misc Edible Prep": 3037, "Cereal Preps": 1171, "Spec Transaction": 1398, "Fruits+Nuts-Fres": 994, "Meat Fresh": 755, "Dairy Eggs+Honey": 182, "Medical Products": 356, "Cosmet+Oil+Resin": 376, "Vegetables": 731, "Printed Matter": 309, "Other": 4179},
+                  {"Month": "Oct-16", "Misc Edible Prep": 3384, "Cereal Preps": 1403, "Spec Transaction": 1554, "Fruits+Nuts-Fres": 688, "Meat Fresh": 766, "Dairy Eggs+Honey": 372, "Medical Products": 312, "Cosmet+Oil+Resin": 428, "Vegetables": 560, "Printed Matter": 330, "Other": 4285},
+                  {"Month": "Nov-16", "Misc Edible Prep": 3487, "Cereal Preps": 1324, "Spec Transaction": 1594, "Fruits+Nuts-Fres": 1478, "Meat Fresh": 873, "Dairy Eggs+Honey": 170, "Medical Products": 399, "Cosmet+Oil+Resin": 312, "Vegetables": 577, "Printed Matter": 308, "Other": 4679},
+                  {"Month": "Dec-16", "Misc Edible Prep": 3323, "Cereal Preps": 1208, "Spec Transaction": 1647, "Fruits+Nuts-Fres": 1994, "Meat Fresh": 1073, "Dairy Eggs+Honey": 151, "Medical Products": 354, "Cosmet+Oil+Resin": 577, "Vegetables": 550, "Printed Matter": 292, "Other": 4967},
+                  {"Month": "Jan-17", "Misc Edible Prep": 1803, "Cereal Preps": 863, "Spec Transaction": 1768, "Fruits+Nuts-Fres": 3017, "Meat Fresh": 670, "Dairy Eggs+Honey": 102, "Medical Products": 201, "Cosmet+Oil+Resin": 191, "Vegetables": 379, "Printed Matter": 219, "Other": 3332},
+                  {"Month": "Feb-17", "Misc Edible Prep": 2579, "Cereal Preps": 1202, "Spec Transaction": 1805, "Fruits+Nuts-Fres": 3174, "Meat Fresh": 561, "Dairy Eggs+Honey": 113, "Medical Products": 295, "Cosmet+Oil+Resin": 253, "Vegetables": 456, "Printed Matter": 262, "Other": 4289},
+                  {"Month": "Mar-17", "Misc Edible Prep": 3822, "Cereal Preps": 1309, "Spec Transaction": 2022, "Fruits+Nuts-Fres": 2695, "Meat Fresh": 808, "Dairy Eggs+Honey": 183, "Medical Products": 325, "Cosmet+Oil+Resin": 306, "Vegetables": 468, "Printed Matter": 280, "Other": 4377},
+                  {"Month": "Apr-17", "Misc Edible Prep": 3023, "Cereal Preps": 917, "Spec Transaction": 1112, "Fruits+Nuts-Fres": 1196, "Meat Fresh": 747, "Dairy Eggs+Honey": 235, "Medical Products": 326, "Cosmet+Oil+Resin": 205, "Vegetables": 381, "Printed Matter": 233, "Other": 3973},
+                  {"Month": "May-17", "Misc Edible Prep": 3417, "Cereal Preps": 1176, "Spec Transaction": 1361, "Fruits+Nuts-Fres": 1052, "Meat Fresh": 720, "Dairy Eggs+Honey": 483, "Medical Products": 314, "Cosmet+Oil+Resin": 281, "Vegetables": 563, "Printed Matter": 324, "Other": 5014},
+                  {"Month": "Jun-17", "Misc Edible Prep": 2894, "Cereal Preps": 1167, "Spec Transaction": 1306, "Fruits+Nuts-Fres": 1214, "Meat Fresh": 1049, "Dairy Eggs+Honey": 394, "Medical Products": 284, "Cosmet+Oil+Resin": 329, "Vegetables": 680, "Printed Matter": 304, "Other": 4858},
+                  {"Month": "Jul-17", "Misc Edible Prep": 2695, "Cereal Preps": 1195, "Spec Transaction": 1136, "Fruits+Nuts-Fres": 834, "Meat Fresh": 547, "Dairy Eggs+Honey": 285, "Medical Products": 374, "Cosmet+Oil+Resin": 321, "Vegetables": 495, "Printed Matter": 345, "Other": 4379},
+                  {"Month": "Aug-17", "Misc Edible Prep": 3416, "Cereal Preps": 1309, "Spec Transaction": 1311, "Fruits+Nuts-Fres": 701, "Meat Fresh": 692, "Dairy Eggs+Honey": 319, "Medical Products": 299, "Cosmet+Oil+Resin": 315, "Vegetables": 622, "Printed Matter": 340, "Other": 4065},
+                  {"Month": "Sep-17", "Misc Edible Prep": 3762, "Cereal Preps": 1504, "Spec Transaction": 1403, "Fruits+Nuts-Fres": 987, "Meat Fresh": 791, "Dairy Eggs+Honey": 206, "Medical Products": 365, "Cosmet+Oil+Resin": 463, "Vegetables": 815, "Printed Matter": 372, "Other": 4474},
+                  {"Month": "Oct-17", "Misc Edible Prep": 4201, "Cereal Preps": 1888, "Spec Transaction": 1559, "Fruits+Nuts-Fres": 1283, "Meat Fresh": 725, "Dairy Eggs+Honey": 468, "Medical Products": 326, "Cosmet+Oil+Resin": 619, "Vegetables": 899, "Printed Matter": 478, "Other": 4678},
+                  {"Month": "Nov-17", "Misc Edible Prep": 3795, "Cereal Preps": 1551, "Spec Transaction": 1905, "Fruits+Nuts-Fres": 1971, "Meat Fresh": 959, "Dairy Eggs+Honey": 382, "Medical Products": 425, "Cosmet+Oil+Resin": 646, "Vegetables": 481, "Printed Matter": 442, "Other": 5001},
+                  {"Month": "Dec-17", "Misc Edible Prep": 3671, "Cereal Preps": 1354, "Spec Transaction": 1807, "Fruits+Nuts-Fres": 2822, "Meat Fresh": 1023, "Dairy Eggs+Honey": 484, "Medical Products": 288, "Cosmet+Oil+Resin": 397, "Vegetables": 420, "Printed Matter": 393, "Other": 5756},
+                  {"Month": "Jan-18", "Misc Edible Prep": 4462, "Cereal Preps": 1065, "Spec Transaction": 2105, "Fruits+Nuts-Fres": 3294, "Meat Fresh": 734, "Dairy Eggs+Honey": 567, "Medical Products": 274, "Cosmet+Oil+Resin": 380, "Vegetables": 386, "Printed Matter": 331, "Other": 3354},
+                  {"Month": "Feb-18", "Misc Edible Prep": 1840, "Cereal Preps": 391, "Spec Transaction": 1374, "Fruits+Nuts-Fres": 3299, "Meat Fresh": 957, "Dairy Eggs+Honey": 289, "Medical Products": 259, "Cosmet+Oil+Resin": 354, "Vegetables": 349, "Printed Matter": 263, "Other": 4172},
+                  {"Month": "Mar-18", "Misc Edible Prep": 4621, "Cereal Preps": 840, "Spec Transaction": 2044, "Fruits+Nuts-Fres": 2100, "Meat Fresh": 996, "Dairy Eggs+Honey": 468, "Medical Products": 449, "Cosmet+Oil+Resin": 382, "Vegetables": 404, "Printed Matter": 310, "Other": 4761},
+                  {"Month": "Apr-18", "Misc Edible Prep": 3721, "Cereal Preps": 739, "Spec Transaction": 1696, "Fruits+Nuts-Fres": 989, "Meat Fresh": 999, "Dairy Eggs+Honey": 392, "Medical Products": 365, "Cosmet+Oil+Resin": 282, "Vegetables": 451, "Printed Matter": 278, "Other": 4959},
+                  {"Month": "May-18", "Misc Edible Prep": 2427, "Cereal Preps": 1491, "Spec Transaction": 1892, "Fruits+Nuts-Fres": 824, "Meat Fresh": 1801, "Dairy Eggs+Honey": 368, "Medical Products": 390, "Cosmet+Oil+Resin": 381, "Vegetables": 591, "Printed Matter": 367, "Other": 7212},
+                  {"Month": "Jun-18", "Misc Edible Prep": 1794, "Cereal Preps": 1842, "Spec Transaction": 832, "Fruits+Nuts-Fres": 704, "Meat Fresh": 1444, "Dairy Eggs+Honey": 318, "Medical Products": 246, "Cosmet+Oil+Resin": 257, "Vegetables": 590, "Printed Matter": 284, "Other": 6431},
+                  {"Month": "Jul-18", "Misc Edible Prep": 1547, "Cereal Preps": 1803, "Spec Transaction": 803, "Fruits+Nuts-Fres": 742, "Meat Fresh": 1255, "Dairy Eggs+Honey": 315, "Medical Products": 243, "Cosmet+Oil+Resin": 340, "Vegetables": 704, "Printed Matter": 313, "Other": 6309},
+                  {"Month": "Aug-18", "Misc Edible Prep": 1949, "Cereal Preps": 2406, "Spec Transaction": 898, "Fruits+Nuts-Fres": 700, "Meat Fresh": 1264, "Dairy Eggs+Honey": 331, "Medical Products": 267, "Cosmet+Oil+Resin": 291, "Vegetables": 827, "Printed Matter": 395, "Other": 5785},
+                  {"Month": "Sep-18", "Misc Edible Prep": 2172, "Cereal Preps": 2653, "Spec Transaction": 933, "Fruits+Nuts-Fres": 798, "Meat Fresh": 1294, "Dairy Eggs+Honey": 548, "Medical Products": 222, "Cosmet+Oil+Resin": 375, "Vegetables": 1011, "Printed Matter": 416, "Other": 6398},
+                  {"Month": "Oct-18", "Misc Edible Prep": 2255, "Cereal Preps": 3269, "Spec Transaction": 977, "Fruits+Nuts-Fres": 1549, "Meat Fresh": 1218, "Dairy Eggs+Honey": 541, "Medical Products": 264, "Cosmet+Oil+Resin": 641, "Vegetables": 1309, "Printed Matter": 351, "Other": 6330},
+                  {"Month": "Nov-18", "Misc Edible Prep": 1700, "Cereal Preps": 3809, "Spec Transaction": 1354, "Fruits+Nuts-Fres": 2891, "Meat Fresh": 1265, "Dairy Eggs+Honey": 520, "Medical Products": 213, "Cosmet+Oil+Resin": 684, "Vegetables": 512, "Printed Matter": 365, "Other": 6240},
+                  {"Month": "Dec-18", "Misc Edible Prep": 1463, "Cereal Preps": 3361, "Spec Transaction": 1303, "Fruits+Nuts-Fres": 3761, "Meat Fresh": 1171, "Dairy Eggs+Honey": 553, "Medical Products": 278, "Cosmet+Oil+Resin": 329, "Vegetables": 391, "Printed Matter": 312, "Other": 5994},
+                  {"Month": "Jan-19", "Misc Edible Prep": 1296, "Cereal Preps": 3295, "Spec Transaction": 1180, "Fruits+Nuts-Fres": 4428, "Meat Fresh": 1150, "Dairy Eggs+Honey": 390, "Medical Products": 251, "Cosmet+Oil+Resin": 247, "Vegetables": 401, "Printed Matter": 279, "Other": 4141},
+                  {"Month": "Feb-19", "Misc Edible Prep": 1109, "Cereal Preps": 2077, "Spec Transaction": 924, "Fruits+Nuts-Fres": 2971, "Meat Fresh": 1139, "Dairy Eggs+Honey": 215, "Medical Products": 254, "Cosmet+Oil+Resin": 297, "Vegetables": 300, "Printed Matter": 293, "Other": 4440},
+                  {"Month": "Mar-19", "Misc Edible Prep": 2060, "Cereal Preps": 3834, "Spec Transaction": 1252, "Fruits+Nuts-Fres": 2865, "Meat Fresh": 1114, "Dairy Eggs+Honey": 361, "Medical Products": 253, "Cosmet+Oil+Resin": 369, "Vegetables": 331, "Printed Matter": 373, "Other": 5588},
+                  {"Month": "Apr-19", "Misc Edible Prep": 1763, "Cereal Preps": 3082, "Spec Transaction": 954, "Fruits+Nuts-Fres": 1429, "Meat Fresh": 946, "Dairy Eggs+Honey": 297, "Medical Products": 412, "Cosmet+Oil+Resin": 467, "Vegetables": 383, "Printed Matter": 290, "Other": 4868},
+                  {"Month": "May-19", "Misc Edible Prep": 2200, "Cereal Preps": 2264, "Spec Transaction": 953, "Fruits+Nuts-Fres": 1327, "Meat Fresh": 1271, "Dairy Eggs+Honey": 489, "Medical Products": 515, "Cosmet+Oil+Resin": 493, "Vegetables": 470, "Printed Matter": 377, "Other": 5469},
+                  {"Month": "Jun-19", "Misc Edible Prep": 1681, "Cereal Preps": 1739, "Spec Transaction": 763, "Fruits+Nuts-Fres": 952, "Meat Fresh": 820, "Dairy Eggs+Honey": 547, "Medical Products": 470, "Cosmet+Oil+Resin": 280, "Vegetables": 440, "Printed Matter": 341, "Other": 5188},
+                  {"Month": "Jul-19", "Misc Edible Prep": 1473, "Cereal Preps": 1320, "Spec Transaction": 795, "Fruits+Nuts-Fres": 1027, "Meat Fresh": 888, "Dairy Eggs+Honey": 460, "Medical Products": 375, "Cosmet+Oil+Resin": 201, "Vegetables": 745, "Printed Matter": 301, "Other": 4700},
+                  {"Month": "Aug-19", "Misc Edible Prep": 1736, "Cereal Preps": 1436, "Spec Transaction": 886, "Fruits+Nuts-Fres": 915, "Meat Fresh": 949, "Dairy Eggs+Honey": 493, "Medical Products": 445, "Cosmet+Oil+Resin": 236, "Vegetables": 792, "Printed Matter": 287, "Other": 4814},
+                  {"Month": "Sep-19", "Misc Edible Prep": 1389, "Cereal Preps": 1934, "Spec Transaction": 825, "Fruits+Nuts-Fres": 735, "Meat Fresh": 1202, "Dairy Eggs+Honey": 389, "Medical Products": 734, "Cosmet+Oil+Resin": 716, "Vegetables": 860, "Printed Matter": 329, "Other": 5424},
+                  {"Month": "Oct-19", "Misc Edible Prep": 1688, "Cereal Preps": 1928, "Spec Transaction": 932, "Fruits+Nuts-Fres": 1479, "Meat Fresh": 1231, "Dairy Eggs+Honey": 546, "Medical Products": 672, "Cosmet+Oil+Resin": 459, "Vegetables": 711, "Printed Matter": 366, "Other": 5414},
+                  {"Month": "Nov-19", "Misc Edible Prep": 1564, "Cereal Preps": 2516, "Spec Transaction": 946, "Fruits+Nuts-Fres": 2873, "Meat Fresh": 1186, "Dairy Eggs+Honey": 467, "Medical Products": 694, "Cosmet+Oil+Resin": 311, "Vegetables": 455, "Printed Matter": 423, "Other": 5818},
+                  {"Month": "Dec-19", "Misc Edible Prep": 1872, "Cereal Preps": 2763, "Spec Transaction": 770, "Fruits+Nuts-Fres": 3761, "Meat Fresh": 1246, "Dairy Eggs+Honey": 343, "Medical Products": 669, "Cosmet+Oil+Resin": 392, "Vegetables": 482, "Printed Matter": 305, "Other": 7021},
+                  {"Month": "Jan-20", "Misc Edible Prep": 780, "Cereal Preps": 1306, "Spec Transaction": 797, "Fruits+Nuts-Fres": 4362, "Meat Fresh": 1188, "Dairy Eggs+Honey": 196, "Medical Products": 478, "Cosmet+Oil+Resin": 187, "Vegetables": 450, "Printed Matter": 296, "Other": 4097}]
+
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "Month";
+    categoryAxis.title.text = "Month";
+    categoryAxis.renderer.grid.template.location=0;
+
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.min = 0;
+    valueAxis.calculateTotals = true;
+
+    // Create series
+    function createSeries(field, name) {
+        // Set up series
+        var series = chart.series.push(new am4charts.ColumnSeries());
+        series.name = name;
+        series.dataFields.valueY = field;
+        series.dataFields.categoryX = "Month";
+        series.sequencedInterpolation = true;
+
+        // Make it stacked
+        series.stacked = true;
+
+        // Configure columns
+        series.columns.template.width = am4core.percent(60);
+        series.columns.template.tooltipText = "[bold]{name}[/]\n[font-size:14px]{categoryX}: {valueY}";
+
+        return series;
+    }
+
+    createSeries("Misc Edible Prep", "Miscelanious Edible Prep");
+    createSeries("Cereal Preps", "Cereal Preps");
+    createSeries("Spec Transaction", "Spec Transaction");
+    createSeries("Fruits+Nuts-Fres", "Fresh Fruits & Nuts");
+    createSeries("Meat Fresh", "Fresh Meat");
+    createSeries("Dairy Eggs+Honey", "Dairy Eggs & Honey");
+    createSeries("Medical Products", "Medical Products");
+    createSeries("Cosmet+Oil+Resin", "Cosmetoligy & Oil & Resin");
+    createSeries("Vegetables", "Vegetables");
+    createSeries("Printed Matter", "Printed Matter");
+    createSeries("Other", "Other");
+
+    // Legend
+    chart.legend = new am4charts.Legend();
+</script>

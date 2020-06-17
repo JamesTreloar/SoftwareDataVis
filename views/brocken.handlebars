@@ -1,0 +1,33 @@
+<h1>Brocken Charts</h1>
+<div name="SFM">
+    <div class="card mb-4">
+        <h2 class="card-header">Chord Diagram of Freight Movements</h2>
+        <div id="SFM" class="chart card-body"></div>
+    </div>
+    <hr>
+</div>
+<div name="Map">
+    <div class="card mb-4">
+        <h2 class="card-header">Map Chart</h2>
+        <div id="map" class="chart card-body"></div>
+    </div>
+    <hr>
+</div>
+
+<script name="SFMscript">
+    //From Docs
+    var chart = am4core.create("SFM", am4charts.ChordDiagram);
+    chart.dataSource.url = "/data/SFMFinal.json";
+    chart.dataFields.fromName = "Origin_Name";
+    chart.dataFields.toName = "Destination_Name";
+    chart.dataFields.value  = "TotalTransported";
+</script>
+<script name="MapScript">
+    //From docs
+    var map = am4core.create("map", am4maps.MapChart);
+    map.geodataSource.url ="/data/SA3Data.json";
+    map.projection = new am4maps.projections.Miller();
+    var polygonSeries = chart.series.push(new am4maps.MapPolygonSeries());
+    polygonSeries.useGeodata = true;
+    var polygonTemplate = polygonSeries.mapPolygons.template;
+</script>

@@ -1,0 +1,262 @@
+<h1>Road Safety</h1>
+<div name = "chartsdiv">
+    <div class="card mb-4" id="FHTContainer">
+        <h2 class="card-header">Heavy Truck Fatalities</h2>
+        <div id="FHT" class="chart card-body"></div>
+    </div>
+    <div class="card mb-4 hidden" id="FLTContainer">
+        <h2 class="card-header">Light Truck Fatalities</h2>
+        <div id="FLT" class="chart card-body"></div>
+    </div>
+    <div class="card mb-4 hidden" id="SIHTContainer">
+        <h2 class="card-header">Heavy Truck Serious Injuries</h2>
+        <div id="SIHT" class="chart card-body"></div>
+    </div>
+    <div class="card mb-4 hidden" id="SILTContainer">
+        <h2 class="card-header">Light Truck Serious Injuries</h2>
+        <div id="SILT" class="chart card-body"></div>
+    </div>
+</div>
+
+<div class="row row-cols-1 row-cols-md-4">
+    <div class="col mb-4" id ="FHTSelect">
+        <div class="card">
+            <img src="images/FHT.png" class="card-img-top" style="height: 100px;">
+            <div class="card-body">
+                <h5 class="card-title">Heavy Truck Fatalities</h5>
+                <button onclick="FHTAct()" class="btn btn-primary">Show</button>
+            </div>
+        </div>
+    </div>
+    <div class="col mb-4" id ="FLTSelect">
+        <div class="card">
+            <img src="images/FLT.png" class="card-img-top" style="height: 100px;">
+            <div class="card-body">
+                <h5 class="card-title">Light Truck Fatalities</h5>
+                <button onclick="FLTAct()" class="btn btn-primary">Show</button>
+            </div>
+        </div>
+    </div>
+    <div class="col mb-4" id ="SIHTSelect">
+        <div class="card">
+            <img src="images/SIHT.png" class="card-img-top" style="height: 100px;">
+            <div class="card-body">
+                <h5 class="card-title">Heavy Truck Serious Injuries</h5>
+                <button onclick="SIHTAct()" class="btn btn-primary">Show</button>
+            </div>
+        </div>
+    </div>
+    <div class="col mb-4" id ="SILTSelect">
+        <div class="card">
+            <img src="images/SILT.png" class="card-img-top" style="height: 100px;">
+            <div class="card-body">
+                <h5 class="card-title">Light Truck Serious Injuries</h5>
+                <button onclick="SILTAct()" class="btn btn-primary">Select</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script id="FHTScript">
+    var chart = am4core.create("FHT", am4charts.XYChart);
+    chart.dataSource.url = "/data/RoadSafety/FHT.json";
+    chart.exporting.menu = new am4core.ExportMenu();
+
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "Year";
+    categoryAxis.title.text = "Date";
+    categoryAxis.renderer.grid.template.location = 0;
+
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.title.text = "Fatalities - Monthly";
+    valueAxis.min = 0;
+    valueAxis.max = 15;
+
+    var valueAxis2 = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis2.title.text = "12 Month Rolling Average"
+    valueAxis2.renderer.opposite = true;
+    valueAxis2.min = 40;
+    valueAxis2.max = 100;
+
+    var series = chart.series.push(new am4charts.ColumnSeries());
+    series.dataFields.categoryX = "Year";
+    series.name = "Heavy Truck Fatalities";
+    series.dataFields.valueY = "Heavy Truck Fatalities";
+    series.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+
+    var series1 = chart.series.push(new am4charts.LineSeries());
+    series1.dataFields.categoryX = "Year";
+    series1.dataFields.valueY = "Heavy Truck Fatalities - rolling 12 month average";
+    series1.name = "Heavy Truck Fatalities - Year Rolling Average"
+    series1.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+    series1.strokeWidth = 3;
+    series1.yAxis = valueAxis2;
+
+    chart.scrollbarX = new am4core.Scrollbar();
+    chart.scrollbarX.parent = chart.bottomAxesContainer;
+    chart.legend = new am4charts.Legend();
+    chart.legend.maxWidth = undefined;
+    chart.legend.layout = "grid";
+    chart.legend.maxColumns = 2;
+    chart.cursor = new am4charts.XYCursor();
+</script>
+<script id="FLTScript">
+    var chart = am4core.create("FLT", am4charts.XYChart);
+    chart.dataSource.url = "/data/RoadSafety/FLT.json";
+    chart.exporting.menu = new am4core.ExportMenu();
+
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "Year";
+    categoryAxis.title.text = "Date";
+    categoryAxis.renderer.grid.template.location = 0;
+
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.title.text = "Fatalities - Monthly";
+    valueAxis.min = 0;
+    valueAxis.max = 20;
+
+    var valueAxis2 = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis2.title.text = "12 Month Rolling Average"
+    valueAxis2.renderer.opposite = true;
+    valueAxis2.min = 40;
+    valueAxis2.max = 120;
+
+    var series = chart.series.push(new am4charts.ColumnSeries());
+    series.dataFields.categoryX = "Year";
+    series.name = "Light Truck Fatalities";
+    series.dataFields.valueY = "Light Truck Fatalities";
+    series.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+
+    var series1 = chart.series.push(new am4charts.LineSeries());
+    series1.dataFields.categoryX = "Year";
+    series1.dataFields.valueY = "Light Truck Fatalities - rolling 12 month average";
+    series1.name = "Light Truck Fatalities - Year Rolling Average"
+    series1.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+    series1.strokeWidth = 3;
+    series1.yAxis = valueAxis2;
+
+    chart.scrollbarX = new am4core.Scrollbar();
+    chart.scrollbarX.parent = chart.bottomAxesContainer;
+    chart.legend = new am4charts.Legend();
+    chart.legend.maxWidth = undefined;
+    chart.legend.layout = "grid";
+    chart.legend.maxColumns = 2;
+    chart.cursor = new am4charts.XYCursor();
+
+</script>
+<script id="SIHTScript">
+    var chart = am4core.create("SIHT", am4charts.XYChart);
+    chart.dataSource.url = "/data/RoadSafety/SIHT.json";
+    chart.exporting.menu = new am4core.ExportMenu();
+
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "Year";
+    categoryAxis.title.text = "Quarter End";
+    categoryAxis.renderer.grid.template.location = 0;
+
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.title.text = "Serious Injuries - Quarterly";
+    valueAxis.min = 0;
+    valueAxis.max = 150;
+    valueAxis.renderer.minGridDistance = 40;
+
+    var valueAxis2 = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis2.title.text = "Rolling Four Quarter Total"
+    valueAxis2.renderer.opposite = true;
+    valueAxis2.min = 200;
+    valueAxis2.max = 500;
+
+    var series = chart.series.push(new am4charts.ColumnSeries());
+    series.dataFields.categoryX = "Year";
+    series.name = "Heavy Truck Serious Injuries";
+    series.dataFields.valueY = "Heavy Truck Serious Injuries";
+    series.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+
+    var series1 = chart.series.push(new am4charts.LineSeries());
+    series1.dataFields.categoryX = "Year";
+    series1.dataFields.valueY = "Heavy Truck Rolling Four Quarter Total";
+    series1.name = "Heavy Truck Rolling Four Quarter Total";
+    series1.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+    series1.strokeWidth = 3;
+    series1.yAxis = valueAxis2;
+    series1.tensionX = 0.8;
+
+    chart.scrollbarX = new am4core.Scrollbar();
+    chart.scrollbarX.parent = chart.bottomAxesContainer;
+    chart.legend = new am4charts.Legend();
+    chart.legend.maxWidth = undefined;
+    chart.legend.layout = "grid";
+    chart.legend.maxColumns = 2;
+    chart.cursor = new am4charts.XYCursor();
+</script>
+<script id="SILTScript">
+    var chart = am4core.create("SILT", am4charts.XYChart);
+    chart.dataSource.url = "/data/RoadSafety/SILT.json";
+    chart.exporting.menu = new am4core.ExportMenu();
+
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.dataFields.category = "Year";
+    categoryAxis.title.text = "Quarter End";
+    categoryAxis.renderer.grid.template.location = 0;
+
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.title.text = "Serious Injuries - Quarterly";
+    valueAxis.min = 0;
+    valueAxis.max = 500;
+    valueAxis.renderer.minGridDistance = 40;
+
+    var valueAxis2 = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis2.title.text = "Rolling Four Quarter Total"
+    valueAxis2.renderer.opposite = true;
+    valueAxis2.min = 200;
+    valueAxis2.max = 1200;
+
+    var series = chart.series.push(new am4charts.ColumnSeries());
+    series.dataFields.categoryX = "Year";
+    series.name = "Light Truck Serious Injuries";
+    series.dataFields.valueY = "Light Truck Serious Injuries";
+    series.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+
+    var series1 = chart.series.push(new am4charts.LineSeries());
+    series1.dataFields.categoryX = "Year";
+    series1.dataFields.valueY = "Light Truck Rolling Four Quarter Total";
+    series1.name = "Light Truck Rolling Four Quarter Total";
+    series1.tooltipText = "{categoryX}: [bold]{valueY}[/]";
+    series1.strokeWidth = 3;
+    series1.yAxis = valueAxis2;
+
+    chart.scrollbarX = new am4core.Scrollbar();
+    chart.scrollbarX.parent = chart.bottomAxesContainer;
+    chart.legend = new am4charts.Legend();
+    chart.legend.maxWidth = undefined;
+    chart.legend.layout = "grid";
+    chart.legend.maxColumns = 2;
+    chart.cursor = new am4charts.XYCursor();
+</script>
+
+<script>
+    function FHTAct(){
+        document.getElementById("FHTContainer").classList.remove("hidden");
+        document.getElementById("FLTContainer").classList.add("hidden");
+        document.getElementById("SIHTContainer").classList.add("hidden");
+        document.getElementById("SILTContainer").classList.add("hidden");
+    }
+    function FLTAct(){
+        document.getElementById("FHTContainer").classList.add("hidden");
+        document.getElementById("FLTContainer").classList.remove("hidden");
+        document.getElementById("SIHTContainer").classList.add("hidden");
+        document.getElementById("SILTContainer").classList.add("hidden");
+    }
+    function SIHTAct(){
+        document.getElementById("FHTContainer").classList.add("hidden");
+        document.getElementById("FLTContainer").classList.add("hidden");
+        document.getElementById("SIHTContainer").classList.remove("hidden");
+        document.getElementById("SILTContainer").classList.add("hidden");
+    }
+    function SILTAct(){
+        document.getElementById("FHTContainer").classList.add("hidden");
+        document.getElementById("FLTContainer").classList.add("hidden");
+        document.getElementById("SIHTContainer").classList.add("hidden");
+        document.getElementById("SILTContainer").classList.remove("hidden");
+    }
+</script>

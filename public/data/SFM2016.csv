@@ -1,0 +1,5315 @@
+Origin_Name,Destination_Name,TotalTransported
+Albury,Albury,150
+Albury,Armidale,0
+Albury,Auburn,0
+Albury,Blacktown,3
+Albury,Bourke - Cobar - Coonamble,0
+Albury,Bringelly - Green Valley,19
+Albury,Camden,2
+Albury,Dubbo,2
+Albury,Fairfield,0
+Albury,Gosford,13
+Albury,Goulburn - Yass,12
+Albury,Griffith - Murrumbidgee (West),1
+Albury,Inverell - Tenterfield,1
+Albury,Kempsey - Nambucca,1
+Albury,Lachlan Valley,1
+Albury,Lithgow - Mudgee,1
+Albury,Liverpool,3
+Albury,Lower Hunter,4
+Albury,Lower Murray,3
+Albury,Maitland,1
+Albury,Merrylands - Guildford,1
+Albury,Moree - Narrabri,0
+Albury,Mount Druitt,7
+Albury,Orange,0
+Albury,Port Stephens,1
+Albury,Queanbeyan,0
+Albury,Richmond Valley - Hinterland,0
+Albury,Shoalhaven,1
+Albury,Snowy Mountains,0
+Albury,South Coast,1
+Albury,Southern Highlands,2
+Albury,St Marys,285
+Albury,Sydney Inner City,43
+Albury,Tamworth - Gunnedah,4
+Albury,Taree - Gloucester,0
+Albury,Upper Hunter,1
+Albury,Upper Murray exc. Albury,3
+Albury,Wagga Wagga,93
+Albury,Wagga Wagga,51
+Albury,Wyong,1
+Armidale,Albury,0
+Armidale,Armidale,59
+Armidale,Auburn,0
+Armidale,Blacktown,0
+Armidale,Bourke - Cobar - Coonamble,2
+Armidale,Camden,0
+Armidale,Clarence Valley,1
+Armidale,Dubbo,6
+Armidale,Goulburn - Yass,0
+Armidale,Inverell - Tenterfield,31
+Armidale,Kempsey - Nambucca,5
+Armidale,Lachlan Valley,0
+Armidale,Lithgow - Mudgee,1
+Armidale,Liverpool,0
+Armidale,Lower Murray,0
+Armidale,Maitland,0
+Armidale,Merrylands - Guildford,0
+Armidale,Moree - Narrabri,2
+Armidale,Mount Druitt,0
+Armidale,Newcastle,517
+Armidale,Orange,0
+Armidale,Queanbeyan,0
+Armidale,Richmond Valley - Hinterland,50
+Armidale,Southern Highlands,0
+Armidale,St Marys,0
+Armidale,Tamworth - Gunnedah,33
+Armidale,Taree - Gloucester,10
+Armidale,Upper Hunter,11
+Armidale,Upper Murray exc. Albury,0
+Armidale,Wagga Wagga,0
+Armidale,Wyong,0
+Auburn,Albury,0
+Auburn,Auburn,1193
+Auburn,Bankstown,260
+Auburn,Bankstown,16
+Auburn,Baulkham Hills,103
+Auburn,Blacktown,105
+Auburn,Blacktown - North,40
+Auburn,Blue Mountains,3
+Auburn,Botany,123
+Auburn,Botany,130
+Auburn,Bringelly - Green Valley,34
+Auburn,Camden,5
+Auburn,Campbelltown (NSW),23
+Auburn,Canada Bay,76
+Auburn,Canterbury,74
+Auburn,Carlingford,129
+Auburn,Chatswood - Lane Cove,82
+Auburn,Cronulla - Miranda - Caringbah,14
+Auburn,Dapto - Port Kembla,56
+Auburn,Dural - Wisemans Ferry,4
+Auburn,Eastern Suburbs - North,24
+Auburn,Eastern Suburbs - South,11
+Auburn,Fairfield,139
+Auburn,Gosford,9
+Auburn,Goulburn - Yass,521
+Auburn,Goulburn - Yass,0
+Auburn,Hawkesbury,0
+Auburn,Hornsby,32
+Auburn,Hurstville,51
+Auburn,Kiama - Shellharbour,2
+Auburn,Kogarah - Rockdale,53
+Auburn,Ku-ring-gai,43
+Auburn,Leichhardt,25
+Auburn,Liverpool,121
+Auburn,Lower Hunter,2
+Auburn,Maitland,1
+Auburn,Manly,2
+Auburn,Marrickville - Sydenham - Petersham,31
+Auburn,Merrylands - Guildford,327
+Auburn,Mount Druitt,226
+Auburn,Newcastle,18
+Auburn,North Sydney - Mosman,18
+Auburn,Parramatta,53
+Auburn,Pennant Hills - Epping,17
+Auburn,Penrith,109
+Auburn,Pittwater,6
+Auburn,Richmond - Windsor,3
+Auburn,Rouse Hill - McGraths Hill,9
+Auburn,Ryde - Hunters Hill,170
+Auburn,Shoalhaven,2
+Auburn,Southern Highlands,1
+Auburn,St Marys,31
+Auburn,Strathfield - Burwood - Ashfield,200
+Auburn,Strathfield - Burwood - Ashfield,6
+Auburn,Sutherland - Menai - Heathcote,17
+Auburn,Sydney Inner City,188
+Auburn,Upper Hunter,65
+Auburn,Warringah,20
+Auburn,Wollondilly,2
+Auburn,Wollongong,7
+Auburn,Wyong,9
+Bankstown,Auburn,355
+Bankstown,Auburn,20
+Bankstown,Bankstown,2248
+Bankstown,Bankstown,65
+Bankstown,Baulkham Hills,72
+Bankstown,Baulkham Hills,7
+Bankstown,Blacktown,81
+Bankstown,Blacktown,20
+Bankstown,Blacktown - North,3
+Bankstown,Blue Mountains,13
+Bankstown,Botany,374
+Bankstown,Botany,82
+Bankstown,Bringelly - Green Valley,147
+Bankstown,Bringelly - Green Valley,1
+Bankstown,Camden,21
+Bankstown,Campbelltown (NSW),70
+Bankstown,Campbelltown (NSW),23
+Bankstown,Canada Bay,49
+Bankstown,Canterbury,124
+Bankstown,Carlingford,68
+Bankstown,Chatswood - Lane Cove,65
+Bankstown,Chatswood - Lane Cove,9
+Bankstown,Cronulla - Miranda - Caringbah,39
+Bankstown,Dapto - Port Kembla,162
+Bankstown,Dural - Wisemans Ferry,3
+Bankstown,Eastern Suburbs - North,31
+Bankstown,Eastern Suburbs - South,29
+Bankstown,Fairfield,179
+Bankstown,Fairfield,38
+Bankstown,Gosford,4
+Bankstown,Great Lakes,0
+Bankstown,Hawkesbury,0
+Bankstown,Hornsby,166
+Bankstown,Hurstville,54
+Bankstown,Kiama - Shellharbour,0
+Bankstown,Kogarah - Rockdale,45
+Bankstown,Ku-ring-gai,20
+Bankstown,Lake Macquarie - East,0
+Bankstown,Lake Macquarie - West,0
+Bankstown,Leichhardt,21
+Bankstown,Liverpool,392
+Bankstown,Liverpool,23
+Bankstown,Lower Hunter,0
+Bankstown,Maitland,0
+Bankstown,Manly,2
+Bankstown,Marrickville - Sydenham - Petersham,34
+Bankstown,Merrylands - Guildford,291
+Bankstown,Merrylands - Guildford,28
+Bankstown,Mount Druitt,98
+Bankstown,Mount Druitt,16
+Bankstown,Newcastle,31
+Bankstown,North Sydney - Mosman,23
+Bankstown,Parramatta,40
+Bankstown,Parramatta,20
+Bankstown,Pennant Hills - Epping,31
+Bankstown,Penrith,26
+Bankstown,Penrith,11
+Bankstown,Pittwater,3
+Bankstown,Port Stephens,0
+Bankstown,Richmond - Windsor,3
+Bankstown,Rouse Hill - McGraths Hill,11
+Bankstown,Ryde - Hunters Hill,167
+Bankstown,Shoalhaven,0
+Bankstown,Southern Highlands,0
+Bankstown,St Marys,40
+Bankstown,St Marys,10
+Bankstown,Strathfield - Burwood - Ashfield,211
+Bankstown,Strathfield - Burwood - Ashfield,11
+Bankstown,Sutherland - Menai - Heathcote,52
+Bankstown,Sydney Inner City,106
+Bankstown,Sydney Inner City,11
+Bankstown,Upper Hunter,91
+Bankstown,Warringah,24
+Bankstown,Warringah,7
+Bankstown,Wollondilly,2
+Bankstown,Wollongong,10
+Bankstown,Wyong,10
+Bathurst,Armidale,0
+Bathurst,Auburn,38
+Bathurst,Bankstown,32
+Bathurst,Bathurst,1156
+Bathurst,Baulkham Hills,9
+Bathurst,Blacktown,33
+Bathurst,Blacktown - North,14
+Bathurst,Blue Mountains,11
+Bathurst,Blue Mountains - South,0
+Bathurst,Botany,5
+Bathurst,Botany,133
+Bathurst,Botany,8
+Bathurst,Bourke - Cobar - Coonamble,0
+Bathurst,Bringelly - Green Valley,8
+Bathurst,Camden,30
+Bathurst,Campbelltown (NSW),25
+Bathurst,Canada Bay,6
+Bathurst,Canterbury,7
+Bathurst,Carlingford,3
+Bathurst,Chatswood - Lane Cove,5
+Bathurst,Cronulla - Miranda - Caringbah,9
+Bathurst,Dapto - Port Kembla,5
+Bathurst,Dubbo,1
+Bathurst,Dural - Wisemans Ferry,1
+Bathurst,Eastern Suburbs - North,2
+Bathurst,Eastern Suburbs - South,4
+Bathurst,Fairfield,8
+Bathurst,Gosford,4
+Bathurst,Goulburn - Yass,0
+Bathurst,Great Lakes,0
+Bathurst,Griffith - Murrumbidgee (West),0
+Bathurst,Hawkesbury,1
+Bathurst,Hornsby,2
+Bathurst,Hurstville,6
+Bathurst,Inverell - Tenterfield,0
+Bathurst,Kempsey - Nambucca,0
+Bathurst,Kiama - Shellharbour,4
+Bathurst,Kogarah - Rockdale,10
+Bathurst,Ku-ring-gai,4
+Bathurst,Lachlan Valley,34
+Bathurst,Lake Macquarie - East,2
+Bathurst,Lake Macquarie - West,1
+Bathurst,Leichhardt,1
+Bathurst,Lithgow - Mudgee,140
+Bathurst,Liverpool,6
+Bathurst,Lower Hunter,3
+Bathurst,Maitland,4
+Bathurst,Manly,1
+Bathurst,Marrickville - Sydenham - Petersham,13
+Bathurst,Merrylands - Guildford,14
+Bathurst,Moree - Narrabri,0
+Bathurst,Mount Druitt,17
+Bathurst,Newcastle,5
+Bathurst,North Sydney - Mosman,1
+Bathurst,Orange,1
+Bathurst,Parramatta,16
+Bathurst,Pennant Hills - Epping,1
+Bathurst,Penrith,20
+Bathurst,Pittwater,2
+Bathurst,Port Stephens,4
+Bathurst,Richmond - Windsor,8
+Bathurst,Richmond Valley - Hinterland,0
+Bathurst,Rouse Hill - McGraths Hill,1
+Bathurst,Ryde - Hunters Hill,4
+Bathurst,Shoalhaven,7
+Bathurst,Snowy Mountains,0
+Bathurst,South Coast,0
+Bathurst,Southern Highlands,3
+Bathurst,St Marys,6
+Bathurst,Strathfield - Burwood - Ashfield,14
+Bathurst,Sutherland - Menai - Heathcote,2
+Bathurst,Sydney Inner City,630
+Bathurst,Tamworth - Gunnedah,0
+Bathurst,Taree - Gloucester,0
+Bathurst,Tumut - Tumbarumba,107
+Bathurst,Tweed Valley,0
+Bathurst,Upper Hunter,1
+Bathurst,Wagga Wagga,0
+Bathurst,Warringah,30
+Bathurst,Wollondilly,10
+Bathurst,Wollongong,3
+Bathurst,Wyong,6
+Baulkham Hills,Auburn,49
+Baulkham Hills,Bankstown,21
+Baulkham Hills,Bankstown,6
+Baulkham Hills,Baulkham Hills,616
+Baulkham Hills,Blacktown,204
+Baulkham Hills,Blacktown - North,125
+Baulkham Hills,Blue Mountains,1
+Baulkham Hills,Botany,52
+Baulkham Hills,Botany,27
+Baulkham Hills,Bringelly - Green Valley,19
+Baulkham Hills,Camden,2
+Baulkham Hills,Campbelltown (NSW),13
+Baulkham Hills,Canada Bay,10
+Baulkham Hills,Canterbury,8
+Baulkham Hills,Carlingford,27
+Baulkham Hills,Chatswood - Lane Cove,34
+Baulkham Hills,Cronulla - Miranda - Caringbah,3
+Baulkham Hills,Dapto - Port Kembla,8
+Baulkham Hills,Dural - Wisemans Ferry,11
+Baulkham Hills,Eastern Suburbs - North,8
+Baulkham Hills,Eastern Suburbs - South,3
+Baulkham Hills,Fairfield,27
+Baulkham Hills,Gosford,3
+Baulkham Hills,Hawkesbury,1
+Baulkham Hills,Hornsby,15
+Baulkham Hills,Hurstville,3
+Baulkham Hills,Kogarah - Rockdale,2
+Baulkham Hills,Ku-ring-gai,11
+Baulkham Hills,Lake Macquarie - East,0
+Baulkham Hills,Leichhardt,3
+Baulkham Hills,Liverpool,12
+Baulkham Hills,Manly,1
+Baulkham Hills,Marrickville - Sydenham - Petersham,5
+Baulkham Hills,Merrylands - Guildford,57
+Baulkham Hills,Mount Druitt,56
+Baulkham Hills,Newcastle,5
+Baulkham Hills,North Sydney - Mosman,2
+Baulkham Hills,Pennant Hills - Epping,3
+Baulkham Hills,Penrith,10
+Baulkham Hills,Pittwater,3
+Baulkham Hills,Richmond - Windsor,6
+Baulkham Hills,Rouse Hill - McGraths Hill,3
+Baulkham Hills,Ryde - Hunters Hill,51
+Baulkham Hills,St Marys,8
+Baulkham Hills,Strathfield - Burwood - Ashfield,20
+Baulkham Hills,Strathfield - Burwood - Ashfield,1
+Baulkham Hills,Sutherland - Menai - Heathcote,2
+Baulkham Hills,Sydney Inner City,17
+Baulkham Hills,Upper Hunter,27
+Baulkham Hills,Warringah,15
+Baulkham Hills,Wollondilly,1
+Baulkham Hills,Wollongong,1
+Baulkham Hills,Wyong,3
+Blacktown,Albury,11
+Blacktown,Armidale,2
+Blacktown,Auburn,429
+Blacktown,Bankstown,121
+Blacktown,Bankstown,16
+Blacktown,Bathurst,3
+Blacktown,Baulkham Hills,198
+Blacktown,Blacktown,676
+Blacktown,Blacktown - North,72
+Blacktown,Blue Mountains,10
+Blacktown,Botany,301
+Blacktown,Botany,82
+Blacktown,Bourke - Cobar - Coonamble,10
+Blacktown,Bringelly - Green Valley,70
+Blacktown,Broken Hill and Far West,7
+Blacktown,Camden,21
+Blacktown,Campbelltown (NSW),53
+Blacktown,Canada Bay,37
+Blacktown,Canterbury,23
+Blacktown,Carlingford,63
+Blacktown,Chatswood - Lane Cove,81
+Blacktown,Clarence Valley,15
+Blacktown,Coffs Harbour,2
+Blacktown,Cronulla - Miranda - Caringbah,13
+Blacktown,Dapto - Port Kembla,68
+Blacktown,Dubbo,4
+Blacktown,Dural - Wisemans Ferry,21
+Blacktown,Eastern Suburbs - North,21
+Blacktown,Eastern Suburbs - South,23
+Blacktown,Fairfield,176
+Blacktown,Gosford,17
+Blacktown,Goulburn - Yass,10
+Blacktown,Great Lakes,1
+Blacktown,Griffith - Murrumbidgee (West),2
+Blacktown,Hawkesbury,7
+Blacktown,Hornsby,35
+Blacktown,Hurstville,13
+Blacktown,Illawarra Catchment Reserve,2
+Blacktown,Inverell - Tenterfield,1
+Blacktown,Kempsey - Nambucca,2
+Blacktown,Kiama - Shellharbour,5
+Blacktown,Kogarah - Rockdale,14
+Blacktown,Ku-ring-gai,32
+Blacktown,Lachlan Valley,4
+Blacktown,Lake Macquarie - East,17
+Blacktown,Lake Macquarie - West,9
+Blacktown,Leichhardt,11
+Blacktown,Lithgow - Mudgee,1
+Blacktown,Liverpool,68
+Blacktown,Lord Howe Island,6
+Blacktown,Lower Hunter,14
+Blacktown,Lower Murray,1
+Blacktown,Maitland,11
+Blacktown,Manly,3
+Blacktown,Marrickville - Sydenham - Petersham,14
+Blacktown,Merrylands - Guildford,200
+Blacktown,Moree - Narrabri,6
+Blacktown,Mount Druitt,429
+Blacktown,Newcastle,31
+Blacktown,North Sydney - Mosman,11
+Blacktown,Orange,3
+Blacktown,Parramatta,41
+Blacktown,Pennant Hills - Epping,20
+Blacktown,Penrith,114
+Blacktown,Pittwater,8
+Blacktown,Port Macquarie,4
+Blacktown,Port Stephens,11
+Blacktown,Queanbeyan,0
+Blacktown,Richmond - Windsor,45
+Blacktown,Richmond Valley - Coastal,7
+Blacktown,Richmond Valley - Hinterland,3
+Blacktown,Rouse Hill - McGraths Hill,22
+Blacktown,Ryde - Hunters Hill,120
+Blacktown,Shoalhaven,5
+Blacktown,Snowy Mountains,4
+Blacktown,South Coast,2
+Blacktown,Southern Highlands,4
+Blacktown,St Marys,52
+Blacktown,Strathfield - Burwood - Ashfield,98
+Blacktown,Strathfield - Burwood - Ashfield,6
+Blacktown,Sutherland - Menai - Heathcote,7
+Blacktown,Sydney Inner City,30
+Blacktown,Tamworth - Gunnedah,3
+Blacktown,Taree - Gloucester,3
+Blacktown,Tumut - Tumbarumba,2
+Blacktown,Tweed Valley,3
+Blacktown,Upper Hunter,77
+Blacktown,Upper Murray exc. Albury,12
+Blacktown,Wagga Wagga,6
+Blacktown,Warringah,34
+Blacktown,Wollondilly,4
+Blacktown,Wollongong,13
+Blacktown,Wyong,33
+Blacktown - North,Auburn,27
+Blacktown - North,Bankstown,14
+Blacktown - North,Baulkham Hills,87
+Blacktown - North,Blacktown,166
+Blacktown - North,Blacktown - North,51
+Blacktown - North,Blue Mountains,10
+Blacktown - North,Blue Mountains - South,1
+Blacktown - North,Botany,22
+Blacktown - North,Botany,35
+Blacktown - North,Bringelly - Green Valley,31
+Blacktown - North,Camden,8
+Blacktown - North,Campbelltown (NSW),17
+Blacktown - North,Canada Bay,5
+Blacktown - North,Canterbury,27
+Blacktown - North,Carlingford,16
+Blacktown - North,Chatswood - Lane Cove,19
+Blacktown - North,Cronulla - Miranda - Caringbah,3
+Blacktown - North,Dapto - Port Kembla,12
+Blacktown - North,Dural - Wisemans Ferry,15
+Blacktown - North,Eastern Suburbs - North,6
+Blacktown - North,Eastern Suburbs - South,3
+Blacktown - North,Fairfield,58
+Blacktown - North,Gosford,51
+Blacktown - North,Great Lakes,0
+Blacktown - North,Hawkesbury,24
+Blacktown - North,Hornsby,7
+Blacktown - North,Hurstville,3
+Blacktown - North,Kiama - Shellharbour,0
+Blacktown - North,Kogarah - Rockdale,4
+Blacktown - North,Ku-ring-gai,8
+Blacktown - North,Lake Macquarie - East,1
+Blacktown - North,Lake Macquarie - West,0
+Blacktown - North,Leichhardt,2
+Blacktown - North,Liverpool,12
+Blacktown - North,Lower Hunter,2
+Blacktown - North,Maitland,2
+Blacktown - North,Manly,0
+Blacktown - North,Marrickville - Sydenham - Petersham,3
+Blacktown - North,Merrylands - Guildford,42
+Blacktown - North,Migratory - Offshore - Shipping (NSW),5
+Blacktown - North,Mount Druitt,203
+Blacktown - North,Newcastle,6
+Blacktown - North,North Sydney - Mosman,2
+Blacktown - North,Other Territories,0
+Blacktown - North,Parramatta,61
+Blacktown - North,Pennant Hills - Epping,8
+Blacktown - North,Penrith,62
+Blacktown - North,Pittwater,2
+Blacktown - North,Port Stephens,1
+Blacktown - North,Richmond - Windsor,35
+Blacktown - North,Rouse Hill - McGraths Hill,14
+Blacktown - North,Ryde - Hunters Hill,23
+Blacktown - North,Shoalhaven,0
+Blacktown - North,Southern Highlands,24
+Blacktown - North,St Marys,26
+Blacktown - North,Strathfield - Burwood - Ashfield,10
+Blacktown - North,Sutherland - Menai - Heathcote,4
+Blacktown - North,Sydney Inner City,10
+Blacktown - North,Upper Hunter,28
+Blacktown - North,Warringah,7
+Blacktown - North,Wollondilly,0
+Blacktown - North,Wollongong,3
+Blacktown - North,Wyong,6
+Blue Mountains,Auburn,8
+Blue Mountains,Bankstown,5
+Blue Mountains,Baulkham Hills,6
+Blue Mountains,Blacktown,8
+Blue Mountains,Blacktown - North,1
+Blue Mountains,Blue Mountains,134
+Blue Mountains,Botany,10
+Blue Mountains,Botany,0
+Blue Mountains,Bringelly - Green Valley,1
+Blue Mountains,Camden,1
+Blue Mountains,Campbelltown (NSW),5
+Blue Mountains,Canada Bay,3
+Blue Mountains,Canterbury,2
+Blue Mountains,Carlingford,2
+Blue Mountains,Chatswood - Lane Cove,5
+Blue Mountains,Cronulla - Miranda - Caringbah,1
+Blue Mountains,Dapto - Port Kembla,1
+Blue Mountains,Dural - Wisemans Ferry,1
+Blue Mountains,Eastern Suburbs - North,1
+Blue Mountains,Eastern Suburbs - South,1
+Blue Mountains,Fairfield,7
+Blue Mountains,Gosford,1
+Blue Mountains,Hawkesbury,1
+Blue Mountains,Hornsby,1
+Blue Mountains,Hurstville,1
+Blue Mountains,Kogarah - Rockdale,1
+Blue Mountains,Ku-ring-gai,1
+Blue Mountains,Leichhardt,1
+Blue Mountains,Liverpool,5
+Blue Mountains,Marrickville - Sydenham - Petersham,1
+Blue Mountains,Merrylands - Guildford,18
+Blue Mountains,Mount Druitt,8
+Blue Mountains,Penrith,42
+Blue Mountains,Pittwater,1
+Blue Mountains,Richmond - Windsor,3
+Blue Mountains,Rouse Hill - McGraths Hill,3
+Blue Mountains,Ryde - Hunters Hill,7
+Blue Mountains,St Marys,5
+Blue Mountains,Strathfield - Burwood - Ashfield,3
+Blue Mountains,Sutherland - Menai - Heathcote,1
+Blue Mountains,Sydney Inner City,2
+Blue Mountains,Upper Hunter,3
+Blue Mountains,Warringah,3
+Blue Mountains,Wollongong,1
+Blue Mountains,Wyong,1
+Blue Mountains - South,Auburn,22
+Blue Mountains - South,Blacktown,0
+Blue Mountains - South,Canada Bay,0
+Botany,Albury,1
+Botany,Armidale,0
+Botany,Auburn,810
+Botany,Auburn,22
+Botany,Auburn,95
+Botany,Bankstown,546
+Botany,Bankstown,164
+Botany,Bankstown,193
+Botany,Bathurst,0
+Botany,Baulkham Hills,305
+Botany,Baulkham Hills,13
+Botany,Baulkham Hills,20
+Botany,Blacktown,524
+Botany,Blacktown,123
+Botany,Blacktown,235
+Botany,Blacktown - North,69
+Botany,Blacktown - North,14
+Botany,Blue Mountains,38
+Botany,Blue Mountains,21
+Botany,Blue Mountains,0
+Botany,Botany,2439
+Botany,Botany,38
+Botany,Bourke - Cobar - Coonamble,0
+Botany,Bringelly - Green Valley,204
+Botany,Bringelly - Green Valley,59
+Botany,Broken Hill and Far West,0
+Botany,Camden,88
+Botany,Camden,43
+Botany,Camden,45
+Botany,Campbelltown (NSW),267
+Botany,Campbelltown (NSW),190
+Botany,Campbelltown (NSW),720
+Botany,Campbelltown (NSW),213
+Botany,Canada Bay,240
+Botany,Canada Bay,31
+Botany,Canada Bay,23
+Botany,Canterbury,126
+Botany,Canterbury,76
+Botany,Canterbury,39
+Botany,Carlingford,160
+Botany,Carlingford,11
+Botany,Carlingford,0
+Botany,Chatswood - Lane Cove,71
+Botany,Chatswood - Lane Cove,43
+Botany,Chatswood - Lane Cove,32
+Botany,Clarence Valley,0
+Botany,Coffs Harbour,1
+Botany,Cronulla - Miranda - Caringbah,140
+Botany,Cronulla - Miranda - Caringbah,80
+Botany,Cronulla - Miranda - Caringbah,69
+Botany,Dapto - Port Kembla,49
+Botany,Dapto - Port Kembla,28
+Botany,Dubbo,1
+Botany,Dural - Wisemans Ferry,53
+Botany,Dural - Wisemans Ferry,0
+Botany,Eastern Suburbs - North,528
+Botany,Eastern Suburbs - North,115
+Botany,Eastern Suburbs - North,0
+Botany,Eastern Suburbs - South,535
+Botany,Eastern Suburbs - South,127
+Botany,Eastern Suburbs - South,0
+Botany,Fairfield,1043
+Botany,Fairfield,24
+Botany,Fairfield,680
+Botany,Gosford,4
+Botany,Gosford,6
+Botany,Goulburn - Yass,749
+Botany,Goulburn - Yass,1
+Botany,Great Lakes,0
+Botany,Great Lakes,0
+Botany,Griffith - Murrumbidgee (West),0
+Botany,Hawkesbury,16
+Botany,Hornsby,133
+Botany,Hornsby,13
+Botany,Hornsby,4
+Botany,Hurstville,90
+Botany,Hurstville,81
+Botany,Hurstville,8
+Botany,Illawarra Catchment Reserve,3
+Botany,Inverell - Tenterfield,0
+Botany,Kempsey - Nambucca,0
+Botany,Kiama - Shellharbour,46
+Botany,Kiama - Shellharbour,1
+Botany,Kogarah - Rockdale,190
+Botany,Kogarah - Rockdale,103
+Botany,Kogarah - Rockdale,28
+Botany,Ku-ring-gai,144
+Botany,Ku-ring-gai,33
+Botany,Ku-ring-gai,0
+Botany,Lachlan Valley,1
+Botany,Lake Macquarie - East,0
+Botany,Lake Macquarie - East,2
+Botany,Lake Macquarie - West,0
+Botany,Lake Macquarie - West,0
+Botany,Leichhardt,43
+Botany,Leichhardt,37
+Botany,Leichhardt,2
+Botany,Lithgow - Mudgee,0
+Botany,Liverpool,647
+Botany,Liverpool,160
+Botany,Liverpool,912
+Botany,Lord Howe Island,0
+Botany,Lower Hunter,3
+Botany,Lower Hunter,0
+Botany,Lower Murray,0
+Botany,Maitland,1
+Botany,Maitland,9
+Botany,Manly,62
+Botany,Manly,39
+Botany,Manly,0
+Botany,Marrickville - Sydenham - Petersham,170
+Botany,Marrickville - Sydenham - Petersham,46
+Botany,Marrickville - Sydenham - Petersham,32
+Botany,Merrylands - Guildford,320
+Botany,Merrylands - Guildford,36
+Botany,Merrylands - Guildford,900
+Botany,Merrylands - Guildford,278
+Botany,Moree - Narrabri,0
+Botany,Mount Druitt,573
+Botany,Mount Druitt,117
+Botany,Mount Druitt,2789
+Botany,Newcastle,12
+Botany,Newcastle,123
+Botany,North Sydney - Mosman,129
+Botany,North Sydney - Mosman,73
+Botany,North Sydney - Mosman,0
+Botany,Orange,1
+Botany,Parramatta,572
+Botany,Parramatta,124
+Botany,Parramatta,576
+Botany,Pennant Hills - Epping,50
+Botany,Pennant Hills - Epping,0
+Botany,Penrith,150
+Botany,Penrith,24
+Botany,Penrith,8
+Botany,Pittwater,101
+Botany,Pittwater,48
+Botany,Pittwater,3
+Botany,Port Macquarie,1
+Botany,Port Stephens,1
+Botany,Port Stephens,0
+Botany,Queanbeyan,1
+Botany,Richmond - Windsor,56
+Botany,Richmond - Windsor,8
+Botany,Richmond - Windsor,7
+Botany,Richmond Valley - Coastal,1
+Botany,Richmond Valley - Hinterland,1
+Botany,Rouse Hill - McGraths Hill,43
+Botany,Rouse Hill - McGraths Hill,6
+Botany,Ryde - Hunters Hill,222
+Botany,Ryde - Hunters Hill,35
+Botany,Ryde - Hunters Hill,23
+Botany,Shoalhaven,34
+Botany,Shoalhaven,4
+Botany,Shoalhaven,0
+Botany,Snowy Mountains,0
+Botany,South Coast,1
+Botany,Southern Highlands,31
+Botany,Southern Highlands,0
+Botany,St Marys,202
+Botany,St Marys,10
+Botany,St Marys,328
+Botany,Strathfield - Burwood - Ashfield,480
+Botany,Strathfield - Burwood - Ashfield,65
+Botany,Strathfield - Burwood - Ashfield,192
+Botany,Strathfield - Burwood - Ashfield,6
+Botany,Sutherland - Menai - Heathcote,51
+Botany,Sutherland - Menai - Heathcote,78
+Botany,Sutherland - Menai - Heathcote,1
+Botany,Sydney Inner City,1063
+Botany,Sydney Inner City,259
+Botany,Sydney Inner City,48
+Botany,Tamworth - Gunnedah,1
+Botany,Taree - Gloucester,1
+Botany,Tumut - Tumbarumba,0
+Botany,Tweed Valley,1
+Botany,Upper Hunter,79
+Botany,Upper Hunter,0
+Botany,Upper Murray exc. Albury,0
+Botany,Wagga Wagga,1
+Botany,Warringah,350
+Botany,Warringah,93
+Botany,Warringah,6
+Botany,Wollondilly,120
+Botany,Wollondilly,21
+Botany,Wollongong,170
+Botany,Wollongong,0
+Botany,Wyong,4
+Botany,Wyong,23
+Bourke - Cobar - Coonamble,Albury,0
+Bourke - Cobar - Coonamble,Armidale,0
+Bourke - Cobar - Coonamble,Botany,149
+Bourke - Cobar - Coonamble,Botany,2
+Bourke - Cobar - Coonamble,Bourke - Cobar - Coonamble,1002
+Bourke - Cobar - Coonamble,Broken Hill and Far West,0
+Bourke - Cobar - Coonamble,Clarence Valley,0
+Bourke - Cobar - Coonamble,Dubbo,44
+Bourke - Cobar - Coonamble,Goulburn - Yass,1
+Bourke - Cobar - Coonamble,Griffith - Murrumbidgee (West),0
+Bourke - Cobar - Coonamble,Inverell - Tenterfield,1
+Bourke - Cobar - Coonamble,Kempsey - Nambucca,0
+Bourke - Cobar - Coonamble,Lachlan Valley,107
+Bourke - Cobar - Coonamble,Lachlan Valley,81
+Bourke - Cobar - Coonamble,Lithgow - Mudgee,31
+Bourke - Cobar - Coonamble,Lower Murray,0
+Bourke - Cobar - Coonamble,Maitland,0
+Bourke - Cobar - Coonamble,Moree - Narrabri,22
+Bourke - Cobar - Coonamble,Moree - Narrabri,477
+Bourke - Cobar - Coonamble,Moree - Narrabri,24
+Bourke - Cobar - Coonamble,Newcastle,595
+Bourke - Cobar - Coonamble,Newcastle,315
+Bourke - Cobar - Coonamble,Newcastle,52
+Bourke - Cobar - Coonamble,Orange,1
+Bourke - Cobar - Coonamble,Queanbeyan,2
+Bourke - Cobar - Coonamble,Richmond Valley - Hinterland,0
+Bourke - Cobar - Coonamble,Snowy Mountains,0
+Bourke - Cobar - Coonamble,South Coast,0
+Bourke - Cobar - Coonamble,Southern Highlands,0
+Bourke - Cobar - Coonamble,Tamworth - Gunnedah,21
+Bourke - Cobar - Coonamble,Taree - Gloucester,0
+Bourke - Cobar - Coonamble,Upper Hunter,5
+Bourke - Cobar - Coonamble,Upper Murray exc. Albury,0
+Bourke - Cobar - Coonamble,Wagga Wagga,4
+Bringelly - Green Valley,Auburn,17
+Bringelly - Green Valley,Bankstown,106
+Bringelly - Green Valley,Bankstown,1
+Bringelly - Green Valley,Baulkham Hills,18
+Bringelly - Green Valley,Blacktown,48
+Bringelly - Green Valley,Blacktown - North,6
+Bringelly - Green Valley,Blue Mountains,4
+Bringelly - Green Valley,Blue Mountains - South,0
+Bringelly - Green Valley,Botany,34
+Bringelly - Green Valley,Botany,4
+Bringelly - Green Valley,Bringelly - Green Valley,89
+Bringelly - Green Valley,Camden,42
+Bringelly - Green Valley,Campbelltown (NSW),51
+Bringelly - Green Valley,Canada Bay,6
+Bringelly - Green Valley,Canterbury,35
+Bringelly - Green Valley,Carlingford,6
+Bringelly - Green Valley,Chatswood - Lane Cove,7
+Bringelly - Green Valley,Cronulla - Miranda - Caringbah,5
+Bringelly - Green Valley,Dapto - Port Kembla,27
+Bringelly - Green Valley,Dural - Wisemans Ferry,1
+Bringelly - Green Valley,Eastern Suburbs - North,5
+Bringelly - Green Valley,Eastern Suburbs - South,5
+Bringelly - Green Valley,Fairfield,128
+Bringelly - Green Valley,Gosford,42
+Bringelly - Green Valley,Hawkesbury,0
+Bringelly - Green Valley,Hornsby,4
+Bringelly - Green Valley,Hurstville,9
+Bringelly - Green Valley,Illawarra Catchment Reserve,0
+Bringelly - Green Valley,Kiama - Shellharbour,7
+Bringelly - Green Valley,Kogarah - Rockdale,7
+Bringelly - Green Valley,Ku-ring-gai,5
+Bringelly - Green Valley,Lake Macquarie - East,0
+Bringelly - Green Valley,Lake Macquarie - West,0
+Bringelly - Green Valley,Leichhardt,3
+Bringelly - Green Valley,Liverpool,68
+Bringelly - Green Valley,Lower Hunter,0
+Bringelly - Green Valley,Maitland,0
+Bringelly - Green Valley,Manly,0
+Bringelly - Green Valley,Marrickville - Sydenham - Petersham,4
+Bringelly - Green Valley,Merrylands - Guildford,44
+Bringelly - Green Valley,Mount Druitt,28
+Bringelly - Green Valley,Newcastle,4
+Bringelly - Green Valley,North Sydney - Mosman,2
+Bringelly - Green Valley,Parramatta,37
+Bringelly - Green Valley,Pennant Hills - Epping,2
+Bringelly - Green Valley,Penrith,36
+Bringelly - Green Valley,Pittwater,0
+Bringelly - Green Valley,Port Stephens,0
+Bringelly - Green Valley,Richmond - Windsor,2
+Bringelly - Green Valley,Rouse Hill - McGraths Hill,1
+Bringelly - Green Valley,Ryde - Hunters Hill,13
+Bringelly - Green Valley,Shoalhaven,12
+Bringelly - Green Valley,Southern Highlands,30
+Bringelly - Green Valley,St Marys,9
+Bringelly - Green Valley,Strathfield - Burwood - Ashfield,50
+Bringelly - Green Valley,Strathfield - Burwood - Ashfield,0
+Bringelly - Green Valley,Sutherland - Menai - Heathcote,4
+Bringelly - Green Valley,Sydney Inner City,11
+Bringelly - Green Valley,Upper Hunter,15
+Bringelly - Green Valley,Warringah,5
+Bringelly - Green Valley,Wollondilly,3
+Bringelly - Green Valley,Wollongong,6
+Bringelly - Green Valley,Wyong,1
+Broken Hill and Far West,Albury,0
+Broken Hill and Far West,Bourke - Cobar - Coonamble,0
+Broken Hill and Far West,Broken Hill and Far West,372
+Broken Hill and Far West,Broken Hill and Far West,9
+Broken Hill and Far West,Dubbo,1
+Broken Hill and Far West,Goulburn - Yass,0
+Broken Hill and Far West,Griffith - Murrumbidgee (West),0
+Broken Hill and Far West,Lachlan Valley,0
+Broken Hill and Far West,Lithgow - Mudgee,0
+Broken Hill and Far West,Lower Murray,0
+Broken Hill and Far West,Moree - Narrabri,0
+Broken Hill and Far West,Newcastle,46
+Broken Hill and Far West,Orange,0
+Broken Hill and Far West,Richmond Valley - Hinterland,0
+Broken Hill and Far West,South Coast,0
+Broken Hill and Far West,Southern Highlands,0
+Broken Hill and Far West,Tamworth - Gunnedah,0
+Broken Hill and Far West,Upper Hunter,0
+Broken Hill and Far West,Upper Murray exc. Albury,0
+Broken Hill and Far West,Wagga Wagga,1
+Camden,Albury,0
+Camden,Armidale,0
+Camden,Auburn,21
+Camden,Bankstown,44
+Camden,Bathurst,0
+Camden,Baulkham Hills,16
+Camden,Blacktown,23
+Camden,Blacktown - North,4
+Camden,Blue Mountains,2
+Camden,Botany,44
+Camden,Botany,10
+Camden,Bourke - Cobar - Coonamble,0
+Camden,Bringelly - Green Valley,119
+Camden,Broken Hill and Far West,0
+Camden,Camden,339
+Camden,Campbelltown (NSW),177
+Camden,Canada Bay,7
+Camden,Canterbury,14
+Camden,Carlingford,8
+Camden,Chatswood - Lane Cove,13
+Camden,Clarence Valley,0
+Camden,Coffs Harbour,1
+Camden,Cronulla - Miranda - Caringbah,8
+Camden,Dapto - Port Kembla,17
+Camden,Dubbo,0
+Camden,Dural - Wisemans Ferry,29
+Camden,Eastern Suburbs - North,5
+Camden,Eastern Suburbs - South,5
+Camden,Fairfield,69
+Camden,Gosford,2
+Camden,Goulburn - Yass,0
+Camden,Great Lakes,1
+Camden,Griffith - Murrumbidgee (West),1
+Camden,Hawkesbury,2
+Camden,Hornsby,5
+Camden,Hurstville,9
+Camden,Illawarra Catchment Reserve,1
+Camden,Inverell - Tenterfield,0
+Camden,Kempsey - Nambucca,0
+Camden,Kiama - Shellharbour,2
+Camden,Kogarah - Rockdale,6
+Camden,Ku-ring-gai,2
+Camden,Lachlan Valley,0
+Camden,Lake Macquarie - East,1
+Camden,Lake Macquarie - West,1
+Camden,Leichhardt,3
+Camden,Lithgow - Mudgee,0
+Camden,Liverpool,136
+Camden,Lord Howe Island,0
+Camden,Lower Hunter,1
+Camden,Lower Murray,1
+Camden,Maitland,0
+Camden,Manly,1
+Camden,Marrickville - Sydenham - Petersham,8
+Camden,Merrylands - Guildford,29
+Camden,Moree - Narrabri,1
+Camden,Mount Druitt,21
+Camden,Newcastle,1
+Camden,Orange,1
+Camden,Penrith,37
+Camden,Pittwater,2
+Camden,Port Stephens,1
+Camden,Queanbeyan,1
+Camden,Richmond - Windsor,2
+Camden,Richmond Valley - Coastal,3
+Camden,Richmond Valley - Hinterland,1
+Camden,Rouse Hill - McGraths Hill,2
+Camden,Ryde - Hunters Hill,20
+Camden,Shoalhaven,0
+Camden,Snowy Mountains,0
+Camden,South Coast,1
+Camden,Southern Highlands,9
+Camden,St Marys,8
+Camden,Strathfield - Burwood - Ashfield,16
+Camden,Sutherland - Menai - Heathcote,139
+Camden,Sydney Inner City,7
+Camden,Tamworth - Gunnedah,0
+Camden,Taree - Gloucester,0
+Camden,Tumut - Tumbarumba,0
+Camden,Tweed Valley,0
+Camden,Upper Hunter,19
+Camden,Upper Murray exc. Albury,0
+Camden,Wagga Wagga,0
+Camden,Warringah,8
+Camden,Wollondilly,38
+Camden,Wollongong,8
+Camden,Wyong,4
+Campbelltown (NSW),Auburn,67
+Campbelltown (NSW),Bankstown,110
+Campbelltown (NSW),Bankstown,20
+Campbelltown (NSW),Baulkham Hills,50
+Campbelltown (NSW),Blacktown,72
+Campbelltown (NSW),Blacktown - North,12
+Campbelltown (NSW),Blue Mountains,7
+Campbelltown (NSW),Botany,99
+Campbelltown (NSW),Botany,631
+Campbelltown (NSW),Botany,100
+Campbelltown (NSW),Botany,113
+Campbelltown (NSW),Botany,61
+Campbelltown (NSW),Bringelly - Green Valley,106
+Campbelltown (NSW),Camden,216
+Campbelltown (NSW),Campbelltown (NSW),1479
+Campbelltown (NSW),Canada Bay,23
+Campbelltown (NSW),Canterbury,34
+Campbelltown (NSW),Carlingford,19
+Campbelltown (NSW),Chatswood - Lane Cove,40
+Campbelltown (NSW),Cronulla - Miranda - Caringbah,28
+Campbelltown (NSW),Dapto - Port Kembla,122
+Campbelltown (NSW),Dapto - Port Kembla,13
+Campbelltown (NSW),Dural - Wisemans Ferry,7
+Campbelltown (NSW),Eastern Suburbs - North,24
+Campbelltown (NSW),Eastern Suburbs - South,18
+Campbelltown (NSW),Fairfield,131
+Campbelltown (NSW),Gosford,12
+Campbelltown (NSW),Great Lakes,0
+Campbelltown (NSW),Hawkesbury,1
+Campbelltown (NSW),Hornsby,13
+Campbelltown (NSW),Hurstville,34
+Campbelltown (NSW),Kiama - Shellharbour,4
+Campbelltown (NSW),Kogarah - Rockdale,28
+Campbelltown (NSW),Ku-ring-gai,9
+Campbelltown (NSW),Lake Macquarie - East,3
+Campbelltown (NSW),Lake Macquarie - West,2
+Campbelltown (NSW),Leichhardt,14
+Campbelltown (NSW),Liverpool,235
+Campbelltown (NSW),Lower Hunter,6
+Campbelltown (NSW),Maitland,2
+Campbelltown (NSW),Manly,1
+Campbelltown (NSW),Marrickville - Sydenham - Petersham,17
+Campbelltown (NSW),Merrylands - Guildford,114
+Campbelltown (NSW),Mount Druitt,560
+Campbelltown (NSW),Newcastle,23
+Campbelltown (NSW),North Sydney - Mosman,16
+Campbelltown (NSW),Parramatta,24
+Campbelltown (NSW),Pennant Hills - Epping,0
+Campbelltown (NSW),Penrith,55
+Campbelltown (NSW),Pittwater,8
+Campbelltown (NSW),Port Stephens,1
+Campbelltown (NSW),Richmond - Windsor,10
+Campbelltown (NSW),Rouse Hill - McGraths Hill,6
+Campbelltown (NSW),Ryde - Hunters Hill,65
+Campbelltown (NSW),Shoalhaven,6
+Campbelltown (NSW),Southern Highlands,5
+Campbelltown (NSW),St Marys,20
+Campbelltown (NSW),Strathfield - Burwood - Ashfield,50
+Campbelltown (NSW),Strathfield - Burwood - Ashfield,58
+Campbelltown (NSW),Strathfield - Burwood - Ashfield,6
+Campbelltown (NSW),Sutherland - Menai - Heathcote,20
+Campbelltown (NSW),Sydney Inner City,16
+Campbelltown (NSW),Upper Hunter,93
+Campbelltown (NSW),Warringah,35
+Campbelltown (NSW),Wollondilly,30
+Campbelltown (NSW),Wollongong,26
+Campbelltown (NSW),Wyong,9
+Canada Bay,Auburn,91
+Canada Bay,Bankstown,27
+Canada Bay,Baulkham Hills,2
+Canada Bay,Blacktown,2
+Canada Bay,Botany,19
+Canada Bay,Botany,22
+Canada Bay,Campbelltown (NSW),2
+Canada Bay,Canada Bay,69
+Canada Bay,Canterbury,5
+Canada Bay,Carlingford,2
+Canada Bay,Chatswood - Lane Cove,9
+Canada Bay,Cronulla - Miranda - Caringbah,1
+Canada Bay,Dapto - Port Kembla,11
+Canada Bay,Eastern Suburbs - North,4
+Canada Bay,Eastern Suburbs - South,1
+Canada Bay,Fairfield,3
+Canada Bay,Hornsby,1
+Canada Bay,Hurstville,1
+Canada Bay,Kogarah - Rockdale,2
+Canada Bay,Ku-ring-gai,1
+Canada Bay,Leichhardt,49
+Canada Bay,Liverpool,2
+Canada Bay,Marrickville - Sydenham - Petersham,6
+Canada Bay,Merrylands - Guildford,22
+Canada Bay,Mount Druitt,2
+Canada Bay,Newcastle,3
+Canada Bay,Ryde - Hunters Hill,37
+Canada Bay,Strathfield - Burwood - Ashfield,51
+Canada Bay,Sydney Inner City,13
+Canada Bay,Upper Hunter,5
+Canada Bay,Warringah,2
+Canterbury,Auburn,160
+Canterbury,Bankstown,265
+Canterbury,Baulkham Hills,12
+Canterbury,Blacktown,14
+Canterbury,Blacktown - North,2
+Canterbury,Blue Mountains,1
+Canterbury,Botany,128
+Canterbury,Botany,37
+Canterbury,Bringelly - Green Valley,6
+Canterbury,Camden,8
+Canterbury,Campbelltown (NSW),16
+Canterbury,Canada Bay,18
+Canterbury,Canterbury,145
+Canterbury,Carlingford,10
+Canterbury,Chatswood - Lane Cove,16
+Canterbury,Cronulla - Miranda - Caringbah,11
+Canterbury,Dapto - Port Kembla,31
+Canterbury,Dural - Wisemans Ferry,0
+Canterbury,Eastern Suburbs - North,8
+Canterbury,Eastern Suburbs - South,8
+Canterbury,Fairfield,22
+Canterbury,Gosford,2
+Canterbury,Great Lakes,0
+Canterbury,Hawkesbury,0
+Canterbury,Hornsby,4
+Canterbury,Hurstville,38
+Canterbury,Kiama - Shellharbour,9
+Canterbury,Kogarah - Rockdale,25
+Canterbury,Ku-ring-gai,5
+Canterbury,Lake Macquarie - East,0
+Canterbury,Lake Macquarie - West,0
+Canterbury,Leichhardt,10
+Canterbury,Liverpool,33
+Canterbury,Lower Hunter,0
+Canterbury,Maitland,0
+Canterbury,Manly,0
+Canterbury,Marrickville - Sydenham - Petersham,26
+Canterbury,Merrylands - Guildford,26
+Canterbury,Mount Druitt,8
+Canterbury,Newcastle,6
+Canterbury,North Sydney - Mosman,2
+Canterbury,Parramatta,2
+Canterbury,Pennant Hills - Epping,0
+Canterbury,Penrith,6
+Canterbury,Pittwater,2
+Canterbury,Port Stephens,0
+Canterbury,Richmond - Windsor,0
+Canterbury,Rouse Hill - McGraths Hill,0
+Canterbury,Ryde - Hunters Hill,36
+Canterbury,Shoalhaven,0
+Canterbury,Southern Highlands,0
+Canterbury,St Marys,3
+Canterbury,Strathfield - Burwood - Ashfield,69
+Canterbury,Sutherland - Menai - Heathcote,7
+Canterbury,Sydney Inner City,20
+Canterbury,Upper Hunter,19
+Canterbury,Warringah,9
+Canterbury,Wollondilly,0
+Canterbury,Wollongong,5
+Canterbury,Wyong,1
+Carlingford,Auburn,230
+Carlingford,Bankstown,39
+Carlingford,Baulkham Hills,33
+Carlingford,Blacktown,50
+Carlingford,Blacktown - North,20
+Carlingford,Blue Mountains,1
+Carlingford,Botany,273
+Carlingford,Botany,7
+Carlingford,Bringelly - Green Valley,7
+Carlingford,Camden,1
+Carlingford,Campbelltown (NSW),8
+Carlingford,Canada Bay,19
+Carlingford,Canterbury,12
+Carlingford,Carlingford,449
+Carlingford,Chatswood - Lane Cove,31
+Carlingford,Cronulla - Miranda - Caringbah,5
+Carlingford,Dapto - Port Kembla,24
+Carlingford,Dural - Wisemans Ferry,5
+Carlingford,Eastern Suburbs - North,9
+Carlingford,Eastern Suburbs - South,3
+Carlingford,Fairfield,27
+Carlingford,Gosford,4
+Carlingford,Hornsby,16
+Carlingford,Hurstville,5
+Carlingford,Kogarah - Rockdale,5
+Carlingford,Ku-ring-gai,12
+Carlingford,Leichhardt,7
+Carlingford,Liverpool,11
+Carlingford,Manly,1
+Carlingford,Marrickville - Sydenham - Petersham,7
+Carlingford,Merrylands - Guildford,65
+Carlingford,Mount Druitt,13
+Carlingford,Newcastle,12
+Carlingford,North Sydney - Mosman,2
+Carlingford,Pennant Hills - Epping,6
+Carlingford,Penrith,13
+Carlingford,Pittwater,3
+Carlingford,Richmond - Windsor,1
+Carlingford,Rouse Hill - McGraths Hill,1
+Carlingford,Ryde - Hunters Hill,119
+Carlingford,St Marys,4
+Carlingford,Strathfield - Burwood - Ashfield,39
+Carlingford,Sutherland - Menai - Heathcote,2
+Carlingford,Sydney Inner City,16
+Carlingford,Upper Hunter,47
+Carlingford,Warringah,12
+Carlingford,Wollongong,1
+Carlingford,Wyong,3
+Chatswood - Lane Cove,Auburn,48
+Chatswood - Lane Cove,Bankstown,22
+Chatswood - Lane Cove,Bankstown,7
+Chatswood - Lane Cove,Baulkham Hills,48
+Chatswood - Lane Cove,Blacktown,33
+Chatswood - Lane Cove,Blacktown - North,15
+Chatswood - Lane Cove,Botany,217
+Chatswood - Lane Cove,Botany,35
+Chatswood - Lane Cove,Bringelly - Green Valley,1
+Chatswood - Lane Cove,Camden,1
+Chatswood - Lane Cove,Campbelltown (NSW),5
+Chatswood - Lane Cove,Canada Bay,39
+Chatswood - Lane Cove,Canterbury,20
+Chatswood - Lane Cove,Carlingford,61
+Chatswood - Lane Cove,Chatswood - Lane Cove,687
+Chatswood - Lane Cove,Cronulla - Miranda - Caringbah,5
+Chatswood - Lane Cove,Dapto - Port Kembla,9
+Chatswood - Lane Cove,Dural - Wisemans Ferry,2
+Chatswood - Lane Cove,Eastern Suburbs - North,38
+Chatswood - Lane Cove,Eastern Suburbs - South,26
+Chatswood - Lane Cove,Fairfield,11
+Chatswood - Lane Cove,Gosford,3
+Chatswood - Lane Cove,Hornsby,31
+Chatswood - Lane Cove,Hurstville,4
+Chatswood - Lane Cove,Kogarah - Rockdale,22
+Chatswood - Lane Cove,Ku-ring-gai,42
+Chatswood - Lane Cove,Leichhardt,16
+Chatswood - Lane Cove,Liverpool,5
+Chatswood - Lane Cove,Manly,10
+Chatswood - Lane Cove,Marrickville - Sydenham - Petersham,19
+Chatswood - Lane Cove,Merrylands - Guildford,34
+Chatswood - Lane Cove,Mount Druitt,16
+Chatswood - Lane Cove,Newcastle,3
+Chatswood - Lane Cove,North Sydney - Mosman,33
+Chatswood - Lane Cove,Parramatta,24
+Chatswood - Lane Cove,Pennant Hills - Epping,8
+Chatswood - Lane Cove,Penrith,2
+Chatswood - Lane Cove,Pittwater,30
+Chatswood - Lane Cove,Richmond - Windsor,1
+Chatswood - Lane Cove,Rouse Hill - McGraths Hill,1
+Chatswood - Lane Cove,Ryde - Hunters Hill,198
+Chatswood - Lane Cove,St Marys,2
+Chatswood - Lane Cove,Strathfield - Burwood - Ashfield,52
+Chatswood - Lane Cove,Strathfield - Burwood - Ashfield,1
+Chatswood - Lane Cove,Sutherland - Menai - Heathcote,2
+Chatswood - Lane Cove,Sydney Inner City,194
+Chatswood - Lane Cove,Upper Hunter,30
+Chatswood - Lane Cove,Warringah,191
+Chatswood - Lane Cove,Wollongong,1
+Chatswood - Lane Cove,Wyong,2
+Clarence Valley,Albury,0
+Clarence Valley,Armidale,2
+Clarence Valley,Bourke - Cobar - Coonamble,0
+Clarence Valley,Clarence Valley,166
+Clarence Valley,Dubbo,0
+Clarence Valley,Goulburn - Yass,0
+Clarence Valley,Griffith - Murrumbidgee (West),0
+Clarence Valley,Inverell - Tenterfield,11
+Clarence Valley,Kempsey - Nambucca,2
+Clarence Valley,Lachlan Valley,0
+Clarence Valley,Lake Macquarie - East,1
+Clarence Valley,Lithgow - Mudgee,0
+Clarence Valley,Lower Murray,0
+Clarence Valley,Maitland,1
+Clarence Valley,Moree - Narrabri,0
+Clarence Valley,Orange,0
+Clarence Valley,Richmond Valley - Coastal,15
+Clarence Valley,Richmond Valley - Hinterland,129
+Clarence Valley,Southern Highlands,0
+Clarence Valley,Sydney Inner City,10
+Clarence Valley,Tamworth - Gunnedah,7
+Clarence Valley,Taree - Gloucester,2
+Clarence Valley,Upper Hunter,3
+Clarence Valley,Wagga Wagga,0
+Coffs Harbour,Armidale,0
+Coffs Harbour,Bathurst,27
+Coffs Harbour,Clarence Valley,1
+Coffs Harbour,Coffs Harbour,15
+Coffs Harbour,Hawkesbury,0
+Coffs Harbour,Inverell - Tenterfield,0
+Coffs Harbour,Kempsey - Nambucca,0
+Coffs Harbour,Lithgow - Mudgee,39
+Coffs Harbour,Richmond Valley - Hinterland,0
+Coffs Harbour,Snowy Mountains,0
+Coffs Harbour,Sydney Inner City,2
+Coffs Harbour,Tamworth - Gunnedah,0
+Coffs Harbour,Taree - Gloucester,0
+Coffs Harbour,Tumut - Tumbarumba,0
+Coffs Harbour,Tweed Valley,0
+Coffs Harbour,Upper Hunter,0
+Cronulla - Miranda - Caringbah,Auburn,43
+Cronulla - Miranda - Caringbah,Bankstown,178
+Cronulla - Miranda - Caringbah,Baulkham Hills,13
+Cronulla - Miranda - Caringbah,Blacktown,33
+Cronulla - Miranda - Caringbah,Blacktown - North,11
+Cronulla - Miranda - Caringbah,Blue Mountains,1
+Cronulla - Miranda - Caringbah,Botany,183
+Cronulla - Miranda - Caringbah,Botany,56
+Cronulla - Miranda - Caringbah,Bringelly - Green Valley,7
+Cronulla - Miranda - Caringbah,Camden,18
+Cronulla - Miranda - Caringbah,Campbelltown (NSW),25
+Cronulla - Miranda - Caringbah,Canada Bay,19
+Cronulla - Miranda - Caringbah,Canterbury,41
+Cronulla - Miranda - Caringbah,Carlingford,8
+Cronulla - Miranda - Caringbah,Chatswood - Lane Cove,40
+Cronulla - Miranda - Caringbah,Cronulla - Miranda - Caringbah,240
+Cronulla - Miranda - Caringbah,Dapto - Port Kembla,57
+Cronulla - Miranda - Caringbah,Dural - Wisemans Ferry,0
+Cronulla - Miranda - Caringbah,Eastern Suburbs - North,24
+Cronulla - Miranda - Caringbah,Eastern Suburbs - South,31
+Cronulla - Miranda - Caringbah,Fairfield,28
+Cronulla - Miranda - Caringbah,Gosford,2
+Cronulla - Miranda - Caringbah,Hornsby,5
+Cronulla - Miranda - Caringbah,Hurstville,42
+Cronulla - Miranda - Caringbah,Kiama - Shellharbour,0
+Cronulla - Miranda - Caringbah,Kogarah - Rockdale,64
+Cronulla - Miranda - Caringbah,Ku-ring-gai,7
+Cronulla - Miranda - Caringbah,Lake Macquarie - East,0
+Cronulla - Miranda - Caringbah,Lake Macquarie - West,0
+Cronulla - Miranda - Caringbah,Leichhardt,12
+Cronulla - Miranda - Caringbah,Liverpool,39
+Cronulla - Miranda - Caringbah,Lower Hunter,0
+Cronulla - Miranda - Caringbah,Maitland,0
+Cronulla - Miranda - Caringbah,Manly,0
+Cronulla - Miranda - Caringbah,Marrickville - Sydenham - Petersham,34
+Cronulla - Miranda - Caringbah,Merrylands - Guildford,39
+Cronulla - Miranda - Caringbah,Mount Druitt,20
+Cronulla - Miranda - Caringbah,Newcastle,7
+Cronulla - Miranda - Caringbah,North Sydney - Mosman,4
+Cronulla - Miranda - Caringbah,Parramatta,17
+Cronulla - Miranda - Caringbah,Penrith,16
+Cronulla - Miranda - Caringbah,Pittwater,3
+Cronulla - Miranda - Caringbah,Port Stephens,0
+Cronulla - Miranda - Caringbah,Richmond - Windsor,7
+Cronulla - Miranda - Caringbah,Rouse Hill - McGraths Hill,1
+Cronulla - Miranda - Caringbah,Ryde - Hunters Hill,38
+Cronulla - Miranda - Caringbah,Shoalhaven,0
+Cronulla - Miranda - Caringbah,Southern Highlands,2
+Cronulla - Miranda - Caringbah,St Marys,4
+Cronulla - Miranda - Caringbah,Strathfield - Burwood - Ashfield,60
+Cronulla - Miranda - Caringbah,Sutherland - Menai - Heathcote,73
+Cronulla - Miranda - Caringbah,Sydney Inner City,133
+Cronulla - Miranda - Caringbah,Upper Hunter,360
+Cronulla - Miranda - Caringbah,Warringah,38
+Cronulla - Miranda - Caringbah,Wollondilly,10
+Cronulla - Miranda - Caringbah,Wollongong,11
+Cronulla - Miranda - Caringbah,Wyong,2
+Dapto - Port Kembla,Albury,7
+Dapto - Port Kembla,Albury,5
+Dapto - Port Kembla,Armidale,4
+Dapto - Port Kembla,Armidale,3
+Dapto - Port Kembla,Auburn,170
+Dapto - Port Kembla,Auburn,8
+Dapto - Port Kembla,Bankstown,196
+Dapto - Port Kembla,Bankstown,15
+Dapto - Port Kembla,Bathurst,5
+Dapto - Port Kembla,Bathurst,4
+Dapto - Port Kembla,Baulkham Hills,84
+Dapto - Port Kembla,Baulkham Hills,13
+Dapto - Port Kembla,Blacktown,124
+Dapto - Port Kembla,Blacktown,12
+Dapto - Port Kembla,Blacktown - North,42
+Dapto - Port Kembla,Blacktown - North,8
+Dapto - Port Kembla,Blue Mountains,22
+Dapto - Port Kembla,Blue Mountains,7
+Dapto - Port Kembla,Botany,127
+Dapto - Port Kembla,Botany,4
+Dapto - Port Kembla,Botany,16
+Dapto - Port Kembla,Bourke - Cobar - Coonamble,3
+Dapto - Port Kembla,Bourke - Cobar - Coonamble,2
+Dapto - Port Kembla,Bringelly - Green Valley,47
+Dapto - Port Kembla,Bringelly - Green Valley,9
+Dapto - Port Kembla,Broken Hill and Far West,2
+Dapto - Port Kembla,Broken Hill and Far West,2
+Dapto - Port Kembla,Camden,90
+Dapto - Port Kembla,Camden,6
+Dapto - Port Kembla,Campbelltown (NSW),134
+Dapto - Port Kembla,Campbelltown (NSW),14
+Dapto - Port Kembla,Campbelltown (NSW),11
+Dapto - Port Kembla,Canada Bay,48
+Dapto - Port Kembla,Canada Bay,8
+Dapto - Port Kembla,Canterbury,74
+Dapto - Port Kembla,Canterbury,12
+Dapto - Port Kembla,Carlingford,53
+Dapto - Port Kembla,Carlingford,6
+Dapto - Port Kembla,Chatswood - Lane Cove,139
+Dapto - Port Kembla,Chatswood - Lane Cove,10
+Dapto - Port Kembla,Clarence Valley,6
+Dapto - Port Kembla,Clarence Valley,4
+Dapto - Port Kembla,Coffs Harbour,10
+Dapto - Port Kembla,Coffs Harbour,8
+Dapto - Port Kembla,Cronulla - Miranda - Caringbah,155
+Dapto - Port Kembla,Cronulla - Miranda - Caringbah,10
+Dapto - Port Kembla,Dapto - Port Kembla,1485
+Dapto - Port Kembla,Dapto - Port Kembla,7
+Dapto - Port Kembla,Dubbo,8
+Dapto - Port Kembla,Dubbo,6
+Dapto - Port Kembla,Dural - Wisemans Ferry,21
+Dapto - Port Kembla,Dural - Wisemans Ferry,2
+Dapto - Port Kembla,Eastern Suburbs - North,67
+Dapto - Port Kembla,Eastern Suburbs - South,54
+Dapto - Port Kembla,Fairfield,152
+Dapto - Port Kembla,Fairfield,16
+Dapto - Port Kembla,Gosford,67
+Dapto - Port Kembla,Gosford,15
+Dapto - Port Kembla,Goulburn - Yass,15
+Dapto - Port Kembla,Goulburn - Yass,6
+Dapto - Port Kembla,Great Lakes,0
+Dapto - Port Kembla,Griffith - Murrumbidgee (West),5
+Dapto - Port Kembla,Griffith - Murrumbidgee (West),4
+Dapto - Port Kembla,Hawkesbury,10
+Dapto - Port Kembla,Hawkesbury,2
+Dapto - Port Kembla,Hornsby,55
+Dapto - Port Kembla,Hornsby,7
+Dapto - Port Kembla,Hurstville,67
+Dapto - Port Kembla,Hurstville,11
+Dapto - Port Kembla,Illawarra Catchment Reserve,4
+Dapto - Port Kembla,Inverell - Tenterfield,4
+Dapto - Port Kembla,Inverell - Tenterfield,3
+Dapto - Port Kembla,Kempsey - Nambucca,6
+Dapto - Port Kembla,Kempsey - Nambucca,4
+Dapto - Port Kembla,Kiama - Shellharbour,784
+Dapto - Port Kembla,Kiama - Shellharbour,8
+Dapto - Port Kembla,Kogarah - Rockdale,72
+Dapto - Port Kembla,Kogarah - Rockdale,12
+Dapto - Port Kembla,Ku-ring-gai,35
+Dapto - Port Kembla,Ku-ring-gai,11
+Dapto - Port Kembla,Lachlan Valley,6
+Dapto - Port Kembla,Lachlan Valley,5
+Dapto - Port Kembla,Lake Macquarie - East,49
+Dapto - Port Kembla,Lake Macquarie - East,11
+Dapto - Port Kembla,Lake Macquarie - West,39
+Dapto - Port Kembla,Lake Macquarie - West,6
+Dapto - Port Kembla,Leichhardt,37
+Dapto - Port Kembla,Leichhardt,5
+Dapto - Port Kembla,Lithgow - Mudgee,5
+Dapto - Port Kembla,Lithgow - Mudgee,4
+Dapto - Port Kembla,Liverpool,149
+Dapto - Port Kembla,Liverpool,11
+Dapto - Port Kembla,Lord Howe Island,0
+Dapto - Port Kembla,Lower Hunter,100
+Dapto - Port Kembla,Lower Hunter,8
+Dapto - Port Kembla,Lower Murray,1
+Dapto - Port Kembla,Lower Murray,1
+Dapto - Port Kembla,Maitland,33
+Dapto - Port Kembla,Maitland,6
+Dapto - Port Kembla,Manly,15
+Dapto - Port Kembla,Manly,4
+Dapto - Port Kembla,Marrickville - Sydenham - Petersham,60
+Dapto - Port Kembla,Marrickville - Sydenham - Petersham,5
+Dapto - Port Kembla,Merrylands - Guildford,149
+Dapto - Port Kembla,Merrylands - Guildford,13
+Dapto - Port Kembla,Moree - Narrabri,3
+Dapto - Port Kembla,Moree - Narrabri,2
+Dapto - Port Kembla,Mount Druitt,88
+Dapto - Port Kembla,Mount Druitt,10
+Dapto - Port Kembla,Newcastle,84
+Dapto - Port Kembla,Newcastle,15
+Dapto - Port Kembla,North Sydney - Mosman,90
+Dapto - Port Kembla,North Sydney - Mosman,9
+Dapto - Port Kembla,Orange,7
+Dapto - Port Kembla,Orange,5
+Dapto - Port Kembla,Parramatta,139
+Dapto - Port Kembla,Parramatta,12
+Dapto - Port Kembla,Pennant Hills - Epping,12
+Dapto - Port Kembla,Pennant Hills - Epping,4
+Dapto - Port Kembla,Penrith,94
+Dapto - Port Kembla,Penrith,12
+Dapto - Port Kembla,Pittwater,34
+Dapto - Port Kembla,Pittwater,5
+Dapto - Port Kembla,Port Macquarie,9
+Dapto - Port Kembla,Port Macquarie,7
+Dapto - Port Kembla,Port Stephens,25
+Dapto - Port Kembla,Port Stephens,7
+Dapto - Port Kembla,Queanbeyan,7
+Dapto - Port Kembla,Queanbeyan,5
+Dapto - Port Kembla,Richmond - Windsor,39
+Dapto - Port Kembla,Richmond - Windsor,3
+Dapto - Port Kembla,Richmond Valley - Coastal,9
+Dapto - Port Kembla,Richmond Valley - Coastal,7
+Dapto - Port Kembla,Richmond Valley - Hinterland,9
+Dapto - Port Kembla,Richmond Valley - Hinterland,6
+Dapto - Port Kembla,Rouse Hill - McGraths Hill,22
+Dapto - Port Kembla,Rouse Hill - McGraths Hill,3
+Dapto - Port Kembla,Ryde - Hunters Hill,132
+Dapto - Port Kembla,Ryde - Hunters Hill,12
+Dapto - Port Kembla,Shoalhaven,451
+Dapto - Port Kembla,Shoalhaven,8
+Dapto - Port Kembla,Snowy Mountains,2
+Dapto - Port Kembla,Snowy Mountains,2
+Dapto - Port Kembla,South Coast,8
+Dapto - Port Kembla,South Coast,6
+Dapto - Port Kembla,Southern Highlands,304
+Dapto - Port Kembla,Southern Highlands,4
+Dapto - Port Kembla,St Marys,35
+Dapto - Port Kembla,St Marys,5
+Dapto - Port Kembla,Strathfield - Burwood - Ashfield,99
+Dapto - Port Kembla,Strathfield - Burwood - Ashfield,13
+Dapto - Port Kembla,Sutherland - Menai - Heathcote,97
+Dapto - Port Kembla,Sutherland - Menai - Heathcote,10
+Dapto - Port Kembla,Sydney Inner City,477
+Dapto - Port Kembla,Sydney Inner City,19
+Dapto - Port Kembla,Tamworth - Gunnedah,10
+Dapto - Port Kembla,Tamworth - Gunnedah,7
+Dapto - Port Kembla,Taree - Gloucester,6
+Dapto - Port Kembla,Taree - Gloucester,5
+Dapto - Port Kembla,Tumut - Tumbarumba,1
+Dapto - Port Kembla,Tumut - Tumbarumba,1
+Dapto - Port Kembla,Tweed Valley,13
+Dapto - Port Kembla,Tweed Valley,8
+Dapto - Port Kembla,Upper Hunter,337
+Dapto - Port Kembla,Upper Hunter,3
+Dapto - Port Kembla,Upper Murray exc. Albury,5
+Dapto - Port Kembla,Upper Murray exc. Albury,4
+Dapto - Port Kembla,Wagga Wagga,11
+Dapto - Port Kembla,Wagga Wagga,8
+Dapto - Port Kembla,Warringah,104
+Dapto - Port Kembla,Warringah,13
+Dapto - Port Kembla,Wollondilly,165
+Dapto - Port Kembla,Wollondilly,4
+Dapto - Port Kembla,Wollongong,1010
+Dapto - Port Kembla,Wollongong,11
+Dapto - Port Kembla,Wyong,63
+Dapto - Port Kembla,Wyong,14
+Dubbo,Albury,0
+Dubbo,Armidale,1
+Dubbo,Bankstown,0
+Dubbo,Bathurst,0
+Dubbo,Baulkham Hills,0
+Dubbo,Blacktown,3
+Dubbo,Blacktown - North,0
+Dubbo,Blue Mountains,0
+Dubbo,Botany,0
+Dubbo,Botany,426
+Dubbo,Botany,1
+Dubbo,Bourke - Cobar - Coonamble,75
+Dubbo,Bringelly - Green Valley,0
+Dubbo,Broken Hill and Far West,0
+Dubbo,Camden,0
+Dubbo,Campbelltown (NSW),0
+Dubbo,Canada Bay,0
+Dubbo,Canterbury,0
+Dubbo,Carlingford,0
+Dubbo,Chatswood - Lane Cove,0
+Dubbo,Clarence Valley,0
+Dubbo,Coffs Harbour,0
+Dubbo,Cronulla - Miranda - Caringbah,0
+Dubbo,Dapto - Port Kembla,0
+Dubbo,Dubbo,552
+Dubbo,Dural - Wisemans Ferry,0
+Dubbo,Eastern Suburbs - North,0
+Dubbo,Eastern Suburbs - South,0
+Dubbo,Fairfield,0
+Dubbo,Gosford,0
+Dubbo,Goulburn - Yass,9
+Dubbo,Griffith - Murrumbidgee (West),1
+Dubbo,Hawkesbury,0
+Dubbo,Hornsby,0
+Dubbo,Hurstville,0
+Dubbo,Inverell - Tenterfield,1
+Dubbo,Kempsey - Nambucca,4
+Dubbo,Kiama - Shellharbour,0
+Dubbo,Kogarah - Rockdale,0
+Dubbo,Ku-ring-gai,0
+Dubbo,Lachlan Valley,5
+Dubbo,Lachlan Valley,4
+Dubbo,Lake Macquarie - East,0
+Dubbo,Lake Macquarie - West,0
+Dubbo,Lithgow - Mudgee,6
+Dubbo,Liverpool,0
+Dubbo,Lower Murray,0
+Dubbo,Maitland,2
+Dubbo,Manly,0
+Dubbo,Marrickville - Sydenham - Petersham,0
+Dubbo,Merrylands - Guildford,0
+Dubbo,Moree - Narrabri,3
+Dubbo,Mount Druitt,6
+Dubbo,Newcastle,0
+Dubbo,Newcastle,130
+Dubbo,North Sydney - Mosman,0
+Dubbo,Orange,22
+Dubbo,Orange,26
+Dubbo,Parramatta,0
+Dubbo,Penrith,0
+Dubbo,Pittwater,0
+Dubbo,Port Macquarie,0
+Dubbo,Port Stephens,0
+Dubbo,Queanbeyan,0
+Dubbo,Richmond - Windsor,0
+Dubbo,Richmond Valley - Coastal,0
+Dubbo,Richmond Valley - Hinterland,2
+Dubbo,Rouse Hill - McGraths Hill,0
+Dubbo,Ryde - Hunters Hill,0
+Dubbo,Shoalhaven,0
+Dubbo,Snowy Mountains,0
+Dubbo,South Coast,0
+Dubbo,Southern Highlands,1
+Dubbo,St Marys,0
+Dubbo,Strathfield - Burwood - Ashfield,0
+Dubbo,Sutherland - Menai - Heathcote,0
+Dubbo,Sydney Inner City,10
+Dubbo,Tamworth - Gunnedah,103
+Dubbo,Taree - Gloucester,2
+Dubbo,Tumut - Tumbarumba,0
+Dubbo,Tweed Valley,0
+Dubbo,Upper Hunter,20
+Dubbo,Upper Murray exc. Albury,0
+Dubbo,Wagga Wagga,12
+Dubbo,Warringah,0
+Dubbo,Wollondilly,0
+Dubbo,Wollongong,0
+Dubbo,Wyong,0
+Dural - Wisemans Ferry,Auburn,36
+Dural - Wisemans Ferry,Bankstown,23
+Dural - Wisemans Ferry,Baulkham Hills,23
+Dural - Wisemans Ferry,Blacktown,61
+Dural - Wisemans Ferry,Blacktown - North,27
+Dural - Wisemans Ferry,Blue Mountains,6
+Dural - Wisemans Ferry,Botany,15
+Dural - Wisemans Ferry,Botany,41
+Dural - Wisemans Ferry,Bringelly - Green Valley,5
+Dural - Wisemans Ferry,Camden,14
+Dural - Wisemans Ferry,Campbelltown (NSW),13
+Dural - Wisemans Ferry,Canada Bay,5
+Dural - Wisemans Ferry,Canterbury,5
+Dural - Wisemans Ferry,Carlingford,10
+Dural - Wisemans Ferry,Chatswood - Lane Cove,19
+Dural - Wisemans Ferry,Cronulla - Miranda - Caringbah,8
+Dural - Wisemans Ferry,Dapto - Port Kembla,15
+Dural - Wisemans Ferry,Dural - Wisemans Ferry,7
+Dural - Wisemans Ferry,Eastern Suburbs - North,4
+Dural - Wisemans Ferry,Eastern Suburbs - South,3
+Dural - Wisemans Ferry,Fairfield,16
+Dural - Wisemans Ferry,Gosford,4
+Dural - Wisemans Ferry,Hawkesbury,19
+Dural - Wisemans Ferry,Hornsby,39
+Dural - Wisemans Ferry,Hurstville,3
+Dural - Wisemans Ferry,Kiama - Shellharbour,1
+Dural - Wisemans Ferry,Kogarah - Rockdale,6
+Dural - Wisemans Ferry,Ku-ring-gai,9
+Dural - Wisemans Ferry,Lake Macquarie - East,0
+Dural - Wisemans Ferry,Lake Macquarie - West,0
+Dural - Wisemans Ferry,Leichhardt,1
+Dural - Wisemans Ferry,Liverpool,3
+Dural - Wisemans Ferry,Lower Hunter,0
+Dural - Wisemans Ferry,Maitland,0
+Dural - Wisemans Ferry,Manly,1
+Dural - Wisemans Ferry,Marrickville - Sydenham - Petersham,8
+Dural - Wisemans Ferry,Merrylands - Guildford,23
+Dural - Wisemans Ferry,Mount Druitt,21
+Dural - Wisemans Ferry,Newcastle,1
+Dural - Wisemans Ferry,North Sydney - Mosman,3
+Dural - Wisemans Ferry,Parramatta,19
+Dural - Wisemans Ferry,Pennant Hills - Epping,4
+Dural - Wisemans Ferry,Penrith,19
+Dural - Wisemans Ferry,Pittwater,3
+Dural - Wisemans Ferry,Port Stephens,0
+Dural - Wisemans Ferry,Richmond - Windsor,11
+Dural - Wisemans Ferry,Rouse Hill - McGraths Hill,3
+Dural - Wisemans Ferry,Ryde - Hunters Hill,21
+Dural - Wisemans Ferry,Shoalhaven,0
+Dural - Wisemans Ferry,Southern Highlands,5
+Dural - Wisemans Ferry,St Marys,4
+Dural - Wisemans Ferry,Strathfield - Burwood - Ashfield,16
+Dural - Wisemans Ferry,Sutherland - Menai - Heathcote,1
+Dural - Wisemans Ferry,Sydney Inner City,46
+Dural - Wisemans Ferry,Upper Hunter,6
+Dural - Wisemans Ferry,Warringah,28
+Dural - Wisemans Ferry,Wollondilly,9
+Dural - Wisemans Ferry,Wollongong,3
+Dural - Wisemans Ferry,Wyong,3
+Eastern Suburbs - North,Auburn,2
+Eastern Suburbs - North,Bankstown,15
+Eastern Suburbs - North,Botany,76
+Eastern Suburbs - North,Botany,8
+Eastern Suburbs - North,Campbelltown (NSW),1
+Eastern Suburbs - North,Canada Bay,3
+Eastern Suburbs - North,Chatswood - Lane Cove,3
+Eastern Suburbs - North,Cronulla - Miranda - Caringbah,26
+Eastern Suburbs - North,Dapto - Port Kembla,3
+Eastern Suburbs - North,Eastern Suburbs - North,32
+Eastern Suburbs - North,Eastern Suburbs - South,3
+Eastern Suburbs - North,Leichhardt,11
+Eastern Suburbs - North,Liverpool,5
+Eastern Suburbs - North,Marrickville - Sydenham - Petersham,118
+Eastern Suburbs - North,Merrylands - Guildford,10
+Eastern Suburbs - North,Newcastle,1
+Eastern Suburbs - North,Ryde - Hunters Hill,7
+Eastern Suburbs - North,Strathfield - Burwood - Ashfield,4
+Eastern Suburbs - North,Sydney Inner City,17
+Eastern Suburbs - North,Upper Hunter,4
+Eastern Suburbs - North,Warringah,1
+Eastern Suburbs - South,Auburn,4
+Eastern Suburbs - South,Bankstown,16
+Eastern Suburbs - South,Baulkham Hills,2
+Eastern Suburbs - South,Blacktown,1
+Eastern Suburbs - South,Botany,287
+Eastern Suburbs - South,Botany,18
+Eastern Suburbs - South,Campbelltown (NSW),3
+Eastern Suburbs - South,Canada Bay,2
+Eastern Suburbs - South,Canterbury,4
+Eastern Suburbs - South,Carlingford,1
+Eastern Suburbs - South,Chatswood - Lane Cove,7
+Eastern Suburbs - South,Cronulla - Miranda - Caringbah,33
+Eastern Suburbs - South,Dapto - Port Kembla,7
+Eastern Suburbs - South,Eastern Suburbs - North,5
+Eastern Suburbs - South,Eastern Suburbs - South,20
+Eastern Suburbs - South,Fairfield,2
+Eastern Suburbs - South,Hurstville,2
+Eastern Suburbs - South,Kogarah - Rockdale,5
+Eastern Suburbs - South,Ku-ring-gai,1
+Eastern Suburbs - South,Leichhardt,2
+Eastern Suburbs - South,Liverpool,7
+Eastern Suburbs - South,Marrickville - Sydenham - Petersham,6
+Eastern Suburbs - South,Merrylands - Guildford,2
+Eastern Suburbs - South,Newcastle,2
+Eastern Suburbs - South,Ryde - Hunters Hill,10
+Eastern Suburbs - South,Strathfield - Burwood - Ashfield,5
+Eastern Suburbs - South,Sydney Inner City,10
+Eastern Suburbs - South,Upper Hunter,10
+Eastern Suburbs - South,Warringah,4
+Fairfield,Auburn,325
+Fairfield,Bankstown,288
+Fairfield,Bankstown,33
+Fairfield,Baulkham Hills,122
+Fairfield,Blacktown,266
+Fairfield,Blacktown - North,51
+Fairfield,Blue Mountains,17
+Fairfield,Botany,616
+Fairfield,Botany,203
+Fairfield,Bringelly - Green Valley,207
+Fairfield,Camden,72
+Fairfield,Campbelltown (NSW),161
+Fairfield,Canada Bay,50
+Fairfield,Canterbury,151
+Fairfield,Carlingford,79
+Fairfield,Chatswood - Lane Cove,10
+Fairfield,Cronulla - Miranda - Caringbah,28
+Fairfield,Dapto - Port Kembla,103
+Fairfield,Dural - Wisemans Ferry,13
+Fairfield,Eastern Suburbs - North,30
+Fairfield,Eastern Suburbs - South,24
+Fairfield,Fairfield,1638
+Fairfield,Gosford,147
+Fairfield,Great Lakes,0
+Fairfield,Hawkesbury,5
+Fairfield,Hornsby,27
+Fairfield,Hurstville,41
+Fairfield,Illawarra Catchment Reserve,0
+Fairfield,Kiama - Shellharbour,5
+Fairfield,Kogarah - Rockdale,36
+Fairfield,Ku-ring-gai,29
+Fairfield,Lake Macquarie - East,1
+Fairfield,Lake Macquarie - West,1
+Fairfield,Leichhardt,20
+Fairfield,Liverpool,276
+Fairfield,Lower Hunter,2
+Fairfield,Maitland,2
+Fairfield,Manly,3
+Fairfield,Marrickville - Sydenham - Petersham,29
+Fairfield,Merrylands - Guildford,672
+Fairfield,Mount Druitt,124
+Fairfield,Newcastle,26
+Fairfield,North Sydney - Mosman,11
+Fairfield,Parramatta,154
+Fairfield,Pennant Hills - Epping,11
+Fairfield,Penrith,225
+Fairfield,Pittwater,10
+Fairfield,Port Stephens,2
+Fairfield,Richmond - Windsor,12
+Fairfield,Rouse Hill - McGraths Hill,17
+Fairfield,Ryde - Hunters Hill,22
+Fairfield,Shoalhaven,6
+Fairfield,Southern Highlands,83
+Fairfield,St Marys,43
+Fairfield,Strathfield - Burwood - Ashfield,124
+Fairfield,Strathfield - Burwood - Ashfield,13
+Fairfield,Sutherland - Menai - Heathcote,27
+Fairfield,Sydney Inner City,73
+Fairfield,Upper Hunter,228
+Fairfield,Warringah,7
+Fairfield,Wollondilly,11
+Fairfield,Wollongong,23
+Fairfield,Wyong,13
+Gosford,Albury,2
+Gosford,Armidale,1
+Gosford,Auburn,108
+Gosford,Bankstown,77
+Gosford,Baulkham Hills,32
+Gosford,Blacktown,102
+Gosford,Blacktown - North,49
+Gosford,Blue Mountains,6
+Gosford,Blue Mountains - South,2
+Gosford,Botany,42
+Gosford,Botany,2
+Gosford,Bringelly - Green Valley,15
+Gosford,Camden,70
+Gosford,Campbelltown (NSW),64
+Gosford,Canada Bay,18
+Gosford,Canterbury,18
+Gosford,Carlingford,13
+Gosford,Chatswood - Lane Cove,59
+Gosford,Cronulla - Miranda - Caringbah,40
+Gosford,Dapto - Port Kembla,69
+Gosford,Dural - Wisemans Ferry,6
+Gosford,Eastern Suburbs - North,12
+Gosford,Eastern Suburbs - South,12
+Gosford,Fairfield,37
+Gosford,Gosford,2140
+Gosford,Great Lakes,3
+Gosford,Griffith - Murrumbidgee (West),0
+Gosford,Hawkesbury,1
+Gosford,Hornsby,93
+Gosford,Hurstville,17
+Gosford,Inverell - Tenterfield,0
+Gosford,Kiama - Shellharbour,3
+Gosford,Kogarah - Rockdale,36
+Gosford,Ku-ring-gai,20
+Gosford,Lake Macquarie - East,188
+Gosford,Lake Macquarie - West,46
+Gosford,Leichhardt,6
+Gosford,Liverpool,2
+Gosford,Lord Howe Island,0
+Gosford,Lower Hunter,32
+Gosford,Lower Murray,1
+Gosford,Maitland,17
+Gosford,Manly,3
+Gosford,Marrickville - Sydenham - Petersham,38
+Gosford,Merrylands - Guildford,71
+Gosford,Migratory - Offshore - Shipping (NSW),1
+Gosford,Mount Druitt,62
+Gosford,Newcastle,73
+Gosford,North Sydney - Mosman,17
+Gosford,Other Territories,0
+Gosford,Parramatta,86
+Gosford,Pennant Hills - Epping,4
+Gosford,Penrith,68
+Gosford,Pittwater,14
+Gosford,Port Macquarie,0
+Gosford,Port Stephens,19
+Gosford,Richmond - Windsor,37
+Gosford,Richmond Valley - Coastal,0
+Gosford,Richmond Valley - Hinterland,1
+Gosford,Rouse Hill - McGraths Hill,6
+Gosford,Ryde - Hunters Hill,27
+Gosford,Shoalhaven,1
+Gosford,Southern Highlands,11
+Gosford,St Marys,13
+Gosford,Strathfield - Burwood - Ashfield,45
+Gosford,Sutherland - Menai - Heathcote,9
+Gosford,Sydney Inner City,161
+Gosford,Tamworth - Gunnedah,0
+Gosford,Taree - Gloucester,3
+Gosford,Tumut - Tumbarumba,0
+Gosford,Tweed Valley,2
+Gosford,Upper Hunter,87
+Gosford,Upper Murray exc. Albury,1
+Gosford,Wagga Wagga,0
+Gosford,Warringah,80
+Gosford,Wollondilly,46
+Gosford,Wollongong,8
+Gosford,Wyong,1364
+Goulburn - Yass,Albury,0
+Goulburn - Yass,Armidale,0
+Goulburn - Yass,Auburn,52
+Goulburn - Yass,Bankstown,700
+Goulburn - Yass,Bankstown,48
+Goulburn - Yass,Bathurst,2
+Goulburn - Yass,Baulkham Hills,7
+Goulburn - Yass,Blacktown,80
+Goulburn - Yass,Blacktown - North,36
+Goulburn - Yass,Blue Mountains,3
+Goulburn - Yass,Botany,14
+Goulburn - Yass,Botany,17
+Goulburn - Yass,Bourke - Cobar - Coonamble,1
+Goulburn - Yass,Bringelly - Green Valley,13
+Goulburn - Yass,Broken Hill and Far West,1
+Goulburn - Yass,Camden,59
+Goulburn - Yass,Campbelltown (NSW),12
+Goulburn - Yass,Campbelltown (NSW),55
+Goulburn - Yass,Canada Bay,11
+Goulburn - Yass,Canterbury,9
+Goulburn - Yass,Carlingford,2
+Goulburn - Yass,Chatswood - Lane Cove,9
+Goulburn - Yass,Clarence Valley,1
+Goulburn - Yass,Coffs Harbour,0
+Goulburn - Yass,Cronulla - Miranda - Caringbah,31
+Goulburn - Yass,Dapto - Port Kembla,43
+Goulburn - Yass,Dapto - Port Kembla,109
+Goulburn - Yass,Dubbo,5
+Goulburn - Yass,Dural - Wisemans Ferry,2
+Goulburn - Yass,Eastern Suburbs - North,6
+Goulburn - Yass,Eastern Suburbs - South,9
+Goulburn - Yass,Fairfield,24
+Goulburn - Yass,Gosford,2
+Goulburn - Yass,Goulburn - Yass,354
+Goulburn - Yass,Great Lakes,0
+Goulburn - Yass,Griffith - Murrumbidgee (West),0
+Goulburn - Yass,Hawkesbury,0
+Goulburn - Yass,Hornsby,1
+Goulburn - Yass,Hurstville,10
+Goulburn - Yass,Illawarra Catchment Reserve,0
+Goulburn - Yass,Inverell - Tenterfield,0
+Goulburn - Yass,Kempsey - Nambucca,0
+Goulburn - Yass,Kiama - Shellharbour,3
+Goulburn - Yass,Kogarah - Rockdale,19
+Goulburn - Yass,Ku-ring-gai,9
+Goulburn - Yass,Lachlan Valley,31
+Goulburn - Yass,Lake Macquarie - East,1
+Goulburn - Yass,Lake Macquarie - West,0
+Goulburn - Yass,Leichhardt,3
+Goulburn - Yass,Lithgow - Mudgee,3
+Goulburn - Yass,Liverpool,2
+Goulburn - Yass,Lower Hunter,1
+Goulburn - Yass,Lower Murray,2
+Goulburn - Yass,Maitland,0
+Goulburn - Yass,Manly,2
+Goulburn - Yass,Marrickville - Sydenham - Petersham,700
+Goulburn - Yass,Marrickville - Sydenham - Petersham,20
+Goulburn - Yass,Merrylands - Guildford,34
+Goulburn - Yass,Moree - Narrabri,0
+Goulburn - Yass,Mount Druitt,490
+Goulburn - Yass,Mount Druitt,60
+Goulburn - Yass,Newcastle,1
+Goulburn - Yass,North Sydney - Mosman,3
+Goulburn - Yass,Orange,1
+Goulburn - Yass,Parramatta,46
+Goulburn - Yass,Pennant Hills - Epping,0
+Goulburn - Yass,Penrith,48
+Goulburn - Yass,Pittwater,5
+Goulburn - Yass,Port Macquarie,0
+Goulburn - Yass,Port Stephens,0
+Goulburn - Yass,Queanbeyan,1
+Goulburn - Yass,Richmond - Windsor,24
+Goulburn - Yass,Richmond Valley - Coastal,0
+Goulburn - Yass,Richmond Valley - Hinterland,1
+Goulburn - Yass,Rouse Hill - McGraths Hill,1
+Goulburn - Yass,Ryde - Hunters Hill,0
+Goulburn - Yass,Shoalhaven,15
+Goulburn - Yass,Snowy Mountains,0
+Goulburn - Yass,South Coast,1
+Goulburn - Yass,Southern Highlands,160
+Goulburn - Yass,St Marys,7
+Goulburn - Yass,Strathfield - Burwood - Ashfield,25
+Goulburn - Yass,Sutherland - Menai - Heathcote,4
+Goulburn - Yass,Sydney Inner City,98
+Goulburn - Yass,Tamworth - Gunnedah,8
+Goulburn - Yass,Taree - Gloucester,4
+Goulburn - Yass,Tumut - Tumbarumba,0
+Goulburn - Yass,Tweed Valley,0
+Goulburn - Yass,Upper Hunter,9
+Goulburn - Yass,Upper Murray exc. Albury,0
+Goulburn - Yass,Wagga Wagga,53
+Goulburn - Yass,Warringah,49
+Goulburn - Yass,Wollondilly,700
+Goulburn - Yass,Wollondilly,35
+Goulburn - Yass,Wollongong,9
+Goulburn - Yass,Wyong,4
+Great Lakes,Albury,0
+Great Lakes,Armidale,1
+Great Lakes,Bourke - Cobar - Coonamble,0
+Great Lakes,Clarence Valley,0
+Great Lakes,Dubbo,0
+Great Lakes,Great Lakes,26
+Great Lakes,Inverell - Tenterfield,0
+Great Lakes,Kempsey - Nambucca,3
+Great Lakes,Lachlan Valley,1
+Great Lakes,Lithgow - Mudgee,0
+Great Lakes,Maitland,1
+Great Lakes,Manly,0
+Great Lakes,Moree - Narrabri,0
+Great Lakes,Newcastle,1271
+Great Lakes,Orange,0
+Great Lakes,Port Stephens,46
+Great Lakes,Queanbeyan,0
+Great Lakes,Richmond Valley - Hinterland,1
+Great Lakes,Southern Highlands,0
+Great Lakes,Sydney Inner City,2
+Great Lakes,Tamworth - Gunnedah,0
+Great Lakes,Taree - Gloucester,8
+Great Lakes,Upper Hunter,1
+Great Lakes,Wagga Wagga,0
+Griffith - Murrumbidgee (West),Albury,0
+Griffith - Murrumbidgee (West),Armidale,0
+Griffith - Murrumbidgee (West),Auburn,0
+Griffith - Murrumbidgee (West),Bankstown,0
+Griffith - Murrumbidgee (West),Bathurst,0
+Griffith - Murrumbidgee (West),Baulkham Hills,0
+Griffith - Murrumbidgee (West),Blacktown,7
+Griffith - Murrumbidgee (West),Blacktown - North,0
+Griffith - Murrumbidgee (West),Blue Mountains,7
+Griffith - Murrumbidgee (West),Bourke - Cobar - Coonamble,0
+Griffith - Murrumbidgee (West),Bringelly - Green Valley,0
+Griffith - Murrumbidgee (West),Broken Hill and Far West,0
+Griffith - Murrumbidgee (West),Camden,3
+Griffith - Murrumbidgee (West),Campbelltown (NSW),18
+Griffith - Murrumbidgee (West),Campbelltown (NSW),0
+Griffith - Murrumbidgee (West),Canada Bay,0
+Griffith - Murrumbidgee (West),Canterbury,0
+Griffith - Murrumbidgee (West),Carlingford,0
+Griffith - Murrumbidgee (West),Chatswood - Lane Cove,0
+Griffith - Murrumbidgee (West),Clarence Valley,0
+Griffith - Murrumbidgee (West),Coffs Harbour,0
+Griffith - Murrumbidgee (West),Cronulla - Miranda - Caringbah,0
+Griffith - Murrumbidgee (West),Dapto - Port Kembla,0
+Griffith - Murrumbidgee (West),Dapto - Port Kembla,141
+Griffith - Murrumbidgee (West),Dubbo,0
+Griffith - Murrumbidgee (West),Dural - Wisemans Ferry,0
+Griffith - Murrumbidgee (West),Eastern Suburbs - North,0
+Griffith - Murrumbidgee (West),Eastern Suburbs - South,0
+Griffith - Murrumbidgee (West),Fairfield,0
+Griffith - Murrumbidgee (West),Gosford,0
+Griffith - Murrumbidgee (West),Goulburn - Yass,10
+Griffith - Murrumbidgee (West),Griffith - Murrumbidgee (West),60
+Griffith - Murrumbidgee (West),Griffith - Murrumbidgee (West),1146
+Griffith - Murrumbidgee (West),Griffith - Murrumbidgee (West),52
+Griffith - Murrumbidgee (West),Hawkesbury,0
+Griffith - Murrumbidgee (West),Hornsby,0
+Griffith - Murrumbidgee (West),Hurstville,0
+Griffith - Murrumbidgee (West),Inverell - Tenterfield,0
+Griffith - Murrumbidgee (West),Kempsey - Nambucca,0
+Griffith - Murrumbidgee (West),Kiama - Shellharbour,0
+Griffith - Murrumbidgee (West),Kogarah - Rockdale,0
+Griffith - Murrumbidgee (West),Ku-ring-gai,0
+Griffith - Murrumbidgee (West),Lachlan Valley,10
+Griffith - Murrumbidgee (West),Lake Macquarie - East,0
+Griffith - Murrumbidgee (West),Lake Macquarie - West,0
+Griffith - Murrumbidgee (West),Leichhardt,0
+Griffith - Murrumbidgee (West),Lithgow - Mudgee,0
+Griffith - Murrumbidgee (West),Liverpool,5
+Griffith - Murrumbidgee (West),Lord Howe Island,193
+Griffith - Murrumbidgee (West),Lower Hunter,0
+Griffith - Murrumbidgee (West),Lower Murray,19
+Griffith - Murrumbidgee (West),Maitland,0
+Griffith - Murrumbidgee (West),Manly,0
+Griffith - Murrumbidgee (West),Marrickville - Sydenham - Petersham,0
+Griffith - Murrumbidgee (West),Merrylands - Guildford,2
+Griffith - Murrumbidgee (West),Moree - Narrabri,0
+Griffith - Murrumbidgee (West),Mount Druitt,24
+Griffith - Murrumbidgee (West),Newcastle,0
+Griffith - Murrumbidgee (West),North Sydney - Mosman,0
+Griffith - Murrumbidgee (West),Orange,0
+Griffith - Murrumbidgee (West),Penrith,11
+Griffith - Murrumbidgee (West),Pittwater,0
+Griffith - Murrumbidgee (West),Port Macquarie,0
+Griffith - Murrumbidgee (West),Port Stephens,0
+Griffith - Murrumbidgee (West),Queanbeyan,0
+Griffith - Murrumbidgee (West),Richmond - Windsor,0
+Griffith - Murrumbidgee (West),Richmond Valley - Coastal,0
+Griffith - Murrumbidgee (West),Richmond Valley - Hinterland,0
+Griffith - Murrumbidgee (West),Rouse Hill - McGraths Hill,0
+Griffith - Murrumbidgee (West),Ryde - Hunters Hill,0
+Griffith - Murrumbidgee (West),Shoalhaven,0
+Griffith - Murrumbidgee (West),Snowy Mountains,0
+Griffith - Murrumbidgee (West),South Coast,7
+Griffith - Murrumbidgee (West),Southern Highlands,0
+Griffith - Murrumbidgee (West),St Marys,49
+Griffith - Murrumbidgee (West),Strathfield - Burwood - Ashfield,0
+Griffith - Murrumbidgee (West),Sutherland - Menai - Heathcote,0
+Griffith - Murrumbidgee (West),Sydney Inner City,1
+Griffith - Murrumbidgee (West),Tamworth - Gunnedah,0
+Griffith - Murrumbidgee (West),Taree - Gloucester,0
+Griffith - Murrumbidgee (West),Tumut - Tumbarumba,0
+Griffith - Murrumbidgee (West),Tweed Valley,0
+Griffith - Murrumbidgee (West),Upper Hunter,0
+Griffith - Murrumbidgee (West),Upper Murray exc. Albury,1
+Griffith - Murrumbidgee (West),Wagga Wagga,227
+Griffith - Murrumbidgee (West),Wagga Wagga,88
+Griffith - Murrumbidgee (West),Warringah,0
+Griffith - Murrumbidgee (West),Wollondilly,44
+Griffith - Murrumbidgee (West),Wollongong,0
+Griffith - Murrumbidgee (West),Wyong,2
+Hawkesbury,Auburn,4
+Hawkesbury,Bankstown,3
+Hawkesbury,Baulkham Hills,9
+Hawkesbury,Blacktown,13
+Hawkesbury,Blacktown - North,3
+Hawkesbury,Blue Mountains,1
+Hawkesbury,Botany,7
+Hawkesbury,Bringelly - Green Valley,1
+Hawkesbury,Camden,1
+Hawkesbury,Campbelltown (NSW),2
+Hawkesbury,Canada Bay,2
+Hawkesbury,Canterbury,1
+Hawkesbury,Carlingford,3
+Hawkesbury,Chatswood - Lane Cove,3
+Hawkesbury,Cronulla - Miranda - Caringbah,1
+Hawkesbury,Dapto - Port Kembla,2
+Hawkesbury,Dural - Wisemans Ferry,3
+Hawkesbury,Eastern Suburbs - North,1
+Hawkesbury,Eastern Suburbs - South,1
+Hawkesbury,Fairfield,6
+Hawkesbury,Gosford,1
+Hawkesbury,Hawkesbury,4
+Hawkesbury,Hornsby,2
+Hawkesbury,Hurstville,1
+Hawkesbury,Kempsey - Nambucca,12
+Hawkesbury,Ku-ring-gai,1
+Hawkesbury,Lake Macquarie - West,50
+Hawkesbury,Liverpool,3
+Hawkesbury,Marrickville - Sydenham - Petersham,1
+Hawkesbury,Merrylands - Guildford,6
+Hawkesbury,Mount Druitt,34
+Hawkesbury,Newcastle,1
+Hawkesbury,Penrith,6
+Hawkesbury,Pittwater,1
+Hawkesbury,Richmond - Windsor,10
+Hawkesbury,Rouse Hill - McGraths Hill,8
+Hawkesbury,Ryde - Hunters Hill,6
+Hawkesbury,St Marys,3
+Hawkesbury,Strathfield - Burwood - Ashfield,2
+Hawkesbury,Sydney Inner City,1
+Hawkesbury,Upper Hunter,2
+Hawkesbury,Warringah,2
+Hawkesbury,Wyong,1
+Hornsby,Auburn,81
+Hornsby,Bankstown,23
+Hornsby,Baulkham Hills,95
+Hornsby,Blacktown,165
+Hornsby,Blacktown - North,22
+Hornsby,Botany,60
+Hornsby,Botany,10
+Hornsby,Bringelly - Green Valley,7
+Hornsby,Camden,1
+Hornsby,Campbelltown (NSW),6
+Hornsby,Canada Bay,35
+Hornsby,Canterbury,9
+Hornsby,Carlingford,60
+Hornsby,Chatswood - Lane Cove,97
+Hornsby,Cronulla - Miranda - Caringbah,5
+Hornsby,Dapto - Port Kembla,17
+Hornsby,Dural - Wisemans Ferry,38
+Hornsby,Eastern Suburbs - North,10
+Hornsby,Eastern Suburbs - South,4
+Hornsby,Fairfield,20
+Hornsby,Gosford,27
+Hornsby,Hornsby,185
+Hornsby,Hurstville,4
+Hornsby,Kogarah - Rockdale,4
+Hornsby,Ku-ring-gai,89
+Hornsby,Leichhardt,6
+Hornsby,Liverpool,11
+Hornsby,Manly,8
+Hornsby,Marrickville - Sydenham - Petersham,8
+Hornsby,Merrylands - Guildford,42
+Hornsby,Mount Druitt,17
+Hornsby,Newcastle,11
+Hornsby,North Sydney - Mosman,28
+Hornsby,Parramatta,42
+Hornsby,Pennant Hills - Epping,26
+Hornsby,Penrith,6
+Hornsby,Pittwater,38
+Hornsby,Richmond - Windsor,4
+Hornsby,Rouse Hill - McGraths Hill,8
+Hornsby,Ryde - Hunters Hill,127
+Hornsby,St Marys,4
+Hornsby,Strathfield - Burwood - Ashfield,23
+Hornsby,Sutherland - Menai - Heathcote,4
+Hornsby,Sydney Inner City,18
+Hornsby,Upper Hunter,45
+Hornsby,Warringah,86
+Hornsby,Wollongong,1
+Hornsby,Wyong,11
+Hurstville,Auburn,40
+Hurstville,Bankstown,41
+Hurstville,Baulkham Hills,3
+Hurstville,Blacktown,4
+Hurstville,Botany,50
+Hurstville,Botany,14
+Hurstville,Bringelly - Green Valley,1
+Hurstville,Camden,1
+Hurstville,Campbelltown (NSW),8
+Hurstville,Canada Bay,6
+Hurstville,Canterbury,38
+Hurstville,Carlingford,2
+Hurstville,Chatswood - Lane Cove,8
+Hurstville,Cronulla - Miranda - Caringbah,24
+Hurstville,Dapto - Port Kembla,17
+Hurstville,Eastern Suburbs - North,3
+Hurstville,Eastern Suburbs - South,5
+Hurstville,Fairfield,10
+Hurstville,Hurstville,175
+Hurstville,Kogarah - Rockdale,69
+Hurstville,Leichhardt,3
+Hurstville,Liverpool,49
+Hurstville,Marrickville - Sydenham - Petersham,11
+Hurstville,Merrylands - Guildford,12
+Hurstville,Mount Druitt,2
+Hurstville,Newcastle,2
+Hurstville,Penrith,1
+Hurstville,Ryde - Hunters Hill,14
+Hurstville,Strathfield - Burwood - Ashfield,18
+Hurstville,Sutherland - Menai - Heathcote,16
+Hurstville,Sydney Inner City,9
+Hurstville,Upper Hunter,10
+Hurstville,Warringah,3
+Hurstville,Wollongong,1
+Inverell - Tenterfield,Albury,0
+Inverell - Tenterfield,Armidale,5
+Inverell - Tenterfield,Auburn,0
+Inverell - Tenterfield,Bankstown,0
+Inverell - Tenterfield,Bathurst,0
+Inverell - Tenterfield,Baulkham Hills,0
+Inverell - Tenterfield,Blacktown,0
+Inverell - Tenterfield,Blacktown - North,0
+Inverell - Tenterfield,Blue Mountains,0
+Inverell - Tenterfield,Botany,0
+Inverell - Tenterfield,Bourke - Cobar - Coonamble,1
+Inverell - Tenterfield,Bringelly - Green Valley,0
+Inverell - Tenterfield,Broken Hill and Far West,0
+Inverell - Tenterfield,Camden,0
+Inverell - Tenterfield,Campbelltown (NSW),0
+Inverell - Tenterfield,Canada Bay,0
+Inverell - Tenterfield,Canterbury,0
+Inverell - Tenterfield,Carlingford,0
+Inverell - Tenterfield,Chatswood - Lane Cove,0
+Inverell - Tenterfield,Clarence Valley,0
+Inverell - Tenterfield,Coffs Harbour,0
+Inverell - Tenterfield,Cronulla - Miranda - Caringbah,0
+Inverell - Tenterfield,Dapto - Port Kembla,0
+Inverell - Tenterfield,Dubbo,2
+Inverell - Tenterfield,Dural - Wisemans Ferry,0
+Inverell - Tenterfield,Eastern Suburbs - North,0
+Inverell - Tenterfield,Eastern Suburbs - South,0
+Inverell - Tenterfield,Fairfield,0
+Inverell - Tenterfield,Gosford,0
+Inverell - Tenterfield,Goulburn - Yass,0
+Inverell - Tenterfield,Griffith - Murrumbidgee (West),0
+Inverell - Tenterfield,Hawkesbury,0
+Inverell - Tenterfield,Hornsby,0
+Inverell - Tenterfield,Hurstville,0
+Inverell - Tenterfield,Inverell - Tenterfield,70
+Inverell - Tenterfield,Kempsey - Nambucca,3
+Inverell - Tenterfield,Kiama - Shellharbour,0
+Inverell - Tenterfield,Kogarah - Rockdale,0
+Inverell - Tenterfield,Ku-ring-gai,0
+Inverell - Tenterfield,Lachlan Valley,0
+Inverell - Tenterfield,Lake Macquarie - East,0
+Inverell - Tenterfield,Lake Macquarie - West,0
+Inverell - Tenterfield,Leichhardt,0
+Inverell - Tenterfield,Lithgow - Mudgee,0
+Inverell - Tenterfield,Liverpool,0
+Inverell - Tenterfield,Lower Hunter,0
+Inverell - Tenterfield,Lower Murray,0
+Inverell - Tenterfield,Maitland,0
+Inverell - Tenterfield,Manly,0
+Inverell - Tenterfield,Marrickville - Sydenham - Petersham,0
+Inverell - Tenterfield,Merrylands - Guildford,0
+Inverell - Tenterfield,Moree - Narrabri,33
+Inverell - Tenterfield,Moree - Narrabri,217
+Inverell - Tenterfield,Mount Druitt,0
+Inverell - Tenterfield,Newcastle,0
+Inverell - Tenterfield,Newcastle,9
+Inverell - Tenterfield,North Sydney - Mosman,0
+Inverell - Tenterfield,Orange,0
+Inverell - Tenterfield,Parramatta,0
+Inverell - Tenterfield,Penrith,0
+Inverell - Tenterfield,Pittwater,0
+Inverell - Tenterfield,Port Macquarie,0
+Inverell - Tenterfield,Port Stephens,0
+Inverell - Tenterfield,Queanbeyan,0
+Inverell - Tenterfield,Richmond - Windsor,0
+Inverell - Tenterfield,Richmond Valley - Coastal,0
+Inverell - Tenterfield,Richmond Valley - Hinterland,113
+Inverell - Tenterfield,Rouse Hill - McGraths Hill,0
+Inverell - Tenterfield,Ryde - Hunters Hill,0
+Inverell - Tenterfield,Shoalhaven,0
+Inverell - Tenterfield,South Coast,0
+Inverell - Tenterfield,Southern Highlands,0
+Inverell - Tenterfield,St Marys,0
+Inverell - Tenterfield,Strathfield - Burwood - Ashfield,0
+Inverell - Tenterfield,Sutherland - Menai - Heathcote,0
+Inverell - Tenterfield,Sydney Inner City,6
+Inverell - Tenterfield,Tamworth - Gunnedah,46
+Inverell - Tenterfield,Taree - Gloucester,1
+Inverell - Tenterfield,Tumut - Tumbarumba,0
+Inverell - Tenterfield,Tweed Valley,23
+Inverell - Tenterfield,Upper Hunter,9
+Inverell - Tenterfield,Upper Murray exc. Albury,0
+Inverell - Tenterfield,Wagga Wagga,0
+Inverell - Tenterfield,Warringah,0
+Inverell - Tenterfield,Wollondilly,0
+Inverell - Tenterfield,Wollongong,0
+Inverell - Tenterfield,Wyong,0
+Kempsey - Nambucca,Albury,0
+Kempsey - Nambucca,Armidale,1
+Kempsey - Nambucca,Bankstown,0
+Kempsey - Nambucca,Bathurst,0
+Kempsey - Nambucca,Baulkham Hills,0
+Kempsey - Nambucca,Blacktown,3
+Kempsey - Nambucca,Blacktown - North,0
+Kempsey - Nambucca,Blue Mountains,0
+Kempsey - Nambucca,Bourke - Cobar - Coonamble,0
+Kempsey - Nambucca,Bringelly - Green Valley,0
+Kempsey - Nambucca,Broken Hill and Far West,0
+Kempsey - Nambucca,Camden,0
+Kempsey - Nambucca,Campbelltown (NSW),0
+Kempsey - Nambucca,Canada Bay,0
+Kempsey - Nambucca,Canterbury,0
+Kempsey - Nambucca,Carlingford,0
+Kempsey - Nambucca,Chatswood - Lane Cove,0
+Kempsey - Nambucca,Clarence Valley,2
+Kempsey - Nambucca,Coffs Harbour,64
+Kempsey - Nambucca,Dapto - Port Kembla,0
+Kempsey - Nambucca,Dubbo,0
+Kempsey - Nambucca,Dural - Wisemans Ferry,0
+Kempsey - Nambucca,Eastern Suburbs - North,0
+Kempsey - Nambucca,Fairfield,0
+Kempsey - Nambucca,Gosford,0
+Kempsey - Nambucca,Goulburn - Yass,0
+Kempsey - Nambucca,Hawkesbury,0
+Kempsey - Nambucca,Hornsby,0
+Kempsey - Nambucca,Inverell - Tenterfield,0
+Kempsey - Nambucca,Kempsey - Nambucca,133
+Kempsey - Nambucca,Kogarah - Rockdale,0
+Kempsey - Nambucca,Ku-ring-gai,0
+Kempsey - Nambucca,Lachlan Valley,0
+Kempsey - Nambucca,Lake Macquarie - East,0
+Kempsey - Nambucca,Lake Macquarie - West,0
+Kempsey - Nambucca,Leichhardt,0
+Kempsey - Nambucca,Lithgow - Mudgee,0
+Kempsey - Nambucca,Liverpool,0
+Kempsey - Nambucca,Lower Hunter,0
+Kempsey - Nambucca,Lower Murray,0
+Kempsey - Nambucca,Maitland,0
+Kempsey - Nambucca,Manly,0
+Kempsey - Nambucca,Marrickville - Sydenham - Petersham,0
+Kempsey - Nambucca,Merrylands - Guildford,0
+Kempsey - Nambucca,Moree - Narrabri,0
+Kempsey - Nambucca,Mount Druitt,4
+Kempsey - Nambucca,Newcastle,0
+Kempsey - Nambucca,Orange,0
+Kempsey - Nambucca,Port Macquarie,41
+Kempsey - Nambucca,Port Stephens,0
+Kempsey - Nambucca,Queanbeyan,0
+Kempsey - Nambucca,Richmond Valley - Coastal,0
+Kempsey - Nambucca,Richmond Valley - Hinterland,3
+Kempsey - Nambucca,Ryde - Hunters Hill,0
+Kempsey - Nambucca,Shoalhaven,0
+Kempsey - Nambucca,Snowy Mountains,0
+Kempsey - Nambucca,Southern Highlands,0
+Kempsey - Nambucca,Strathfield - Burwood - Ashfield,0
+Kempsey - Nambucca,Sydney Inner City,14
+Kempsey - Nambucca,Tamworth - Gunnedah,5
+Kempsey - Nambucca,Taree - Gloucester,11
+Kempsey - Nambucca,Tumut - Tumbarumba,0
+Kempsey - Nambucca,Tweed Valley,0
+Kempsey - Nambucca,Upper Hunter,1
+Kempsey - Nambucca,Upper Murray exc. Albury,0
+Kempsey - Nambucca,Wagga Wagga,0
+Kempsey - Nambucca,Warringah,0
+Kempsey - Nambucca,Wollondilly,0
+Kempsey - Nambucca,Wollongong,0
+Kempsey - Nambucca,Wyong,0
+Kiama - Shellharbour,Auburn,160
+Kiama - Shellharbour,Bankstown,126
+Kiama - Shellharbour,Baulkham Hills,19
+Kiama - Shellharbour,Blacktown,120
+Kiama - Shellharbour,Blacktown - North,70
+Kiama - Shellharbour,Blue Mountains,6
+Kiama - Shellharbour,Botany,32
+Kiama - Shellharbour,Botany,8
+Kiama - Shellharbour,Bringelly - Green Valley,24
+Kiama - Shellharbour,Camden,105
+Kiama - Shellharbour,Campbelltown (NSW),92
+Kiama - Shellharbour,Canada Bay,22
+Kiama - Shellharbour,Canterbury,21
+Kiama - Shellharbour,Carlingford,7
+Kiama - Shellharbour,Chatswood - Lane Cove,53
+Kiama - Shellharbour,Clarence Valley,0
+Kiama - Shellharbour,Cronulla - Miranda - Caringbah,75
+Kiama - Shellharbour,Dapto - Port Kembla,506
+Kiama - Shellharbour,Dural - Wisemans Ferry,6
+Kiama - Shellharbour,Eastern Suburbs - North,14
+Kiama - Shellharbour,Eastern Suburbs - South,18
+Kiama - Shellharbour,Fairfield,49
+Kiama - Shellharbour,Gosford,4
+Kiama - Shellharbour,Goulburn - Yass,3
+Kiama - Shellharbour,Griffith - Murrumbidgee (West),0
+Kiama - Shellharbour,Hornsby,5
+Kiama - Shellharbour,Hurstville,23
+Kiama - Shellharbour,Illawarra Catchment Reserve,0
+Kiama - Shellharbour,Kempsey - Nambucca,0
+Kiama - Shellharbour,Kiama - Shellharbour,282
+Kiama - Shellharbour,Kogarah - Rockdale,51
+Kiama - Shellharbour,Ku-ring-gai,17
+Kiama - Shellharbour,Lake Macquarie - East,1
+Kiama - Shellharbour,Lake Macquarie - West,1
+Kiama - Shellharbour,Leichhardt,6
+Kiama - Shellharbour,Lithgow - Mudgee,0
+Kiama - Shellharbour,Liverpool,4
+Kiama - Shellharbour,Lower Hunter,1
+Kiama - Shellharbour,Lower Murray,0
+Kiama - Shellharbour,Maitland,1
+Kiama - Shellharbour,Manly,5
+Kiama - Shellharbour,Marrickville - Sydenham - Petersham,46
+Kiama - Shellharbour,Merrylands - Guildford,96
+Kiama - Shellharbour,Mount Druitt,83
+Kiama - Shellharbour,Newcastle,2
+Kiama - Shellharbour,North Sydney - Mosman,12
+Kiama - Shellharbour,Parramatta,103
+Kiama - Shellharbour,Penrith,107
+Kiama - Shellharbour,Pittwater,13
+Kiama - Shellharbour,Port Stephens,1
+Kiama - Shellharbour,Queanbeyan,0
+Kiama - Shellharbour,Richmond - Windsor,53
+Kiama - Shellharbour,Richmond Valley - Hinterland,0
+Kiama - Shellharbour,Rouse Hill - McGraths Hill,6
+Kiama - Shellharbour,Ryde - Hunters Hill,10
+Kiama - Shellharbour,Shoalhaven,494
+Kiama - Shellharbour,Snowy Mountains,0
+Kiama - Shellharbour,South Coast,2
+Kiama - Shellharbour,Southern Highlands,40
+Kiama - Shellharbour,St Marys,15
+Kiama - Shellharbour,Strathfield - Burwood - Ashfield,61
+Kiama - Shellharbour,Sutherland - Menai - Heathcote,17
+Kiama - Shellharbour,Sydney Inner City,228
+Kiama - Shellharbour,Tamworth - Gunnedah,0
+Kiama - Shellharbour,Taree - Gloucester,1
+Kiama - Shellharbour,Upper Hunter,12
+Kiama - Shellharbour,Wagga Wagga,2
+Kiama - Shellharbour,Warringah,117
+Kiama - Shellharbour,Wollondilly,88
+Kiama - Shellharbour,Wollongong,48
+Kiama - Shellharbour,Wyong,2
+Kogarah - Rockdale,Auburn,24
+Kogarah - Rockdale,Bankstown,44
+Kogarah - Rockdale,Baulkham Hills,3
+Kogarah - Rockdale,Blacktown,4
+Kogarah - Rockdale,Botany,355
+Kogarah - Rockdale,Botany,33
+Kogarah - Rockdale,Bringelly - Green Valley,3
+Kogarah - Rockdale,Campbelltown (NSW),9
+Kogarah - Rockdale,Canada Bay,14
+Kogarah - Rockdale,Canterbury,32
+Kogarah - Rockdale,Carlingford,3
+Kogarah - Rockdale,Chatswood - Lane Cove,16
+Kogarah - Rockdale,Cronulla - Miranda - Caringbah,52
+Kogarah - Rockdale,Dapto - Port Kembla,27
+Kogarah - Rockdale,Eastern Suburbs - North,15
+Kogarah - Rockdale,Eastern Suburbs - South,18
+Kogarah - Rockdale,Fairfield,10
+Kogarah - Rockdale,Hornsby,1
+Kogarah - Rockdale,Hurstville,52
+Kogarah - Rockdale,Kogarah - Rockdale,103
+Kogarah - Rockdale,Ku-ring-gai,3
+Kogarah - Rockdale,Leichhardt,8
+Kogarah - Rockdale,Liverpool,34
+Kogarah - Rockdale,Marrickville - Sydenham - Petersham,29
+Kogarah - Rockdale,Merrylands - Guildford,13
+Kogarah - Rockdale,Mount Druitt,3
+Kogarah - Rockdale,Newcastle,5
+Kogarah - Rockdale,North Sydney - Mosman,4
+Kogarah - Rockdale,Ryde - Hunters Hill,22
+Kogarah - Rockdale,Strathfield - Burwood - Ashfield,38
+Kogarah - Rockdale,Sutherland - Menai - Heathcote,19
+Kogarah - Rockdale,Sydney Inner City,54
+Kogarah - Rockdale,Upper Hunter,12
+Kogarah - Rockdale,Warringah,6
+Kogarah - Rockdale,Wollongong,2
+Ku-ring-gai,Auburn,2
+Ku-ring-gai,Bankstown,1
+Ku-ring-gai,Baulkham Hills,1
+Ku-ring-gai,Blacktown,1
+Ku-ring-gai,Botany,4
+Ku-ring-gai,Botany,2
+Ku-ring-gai,Canada Bay,1
+Ku-ring-gai,Carlingford,15
+Ku-ring-gai,Chatswood - Lane Cove,6
+Ku-ring-gai,Dapto - Port Kembla,3
+Ku-ring-gai,Eastern Suburbs - North,1
+Ku-ring-gai,Fairfield,1
+Ku-ring-gai,Hornsby,2
+Ku-ring-gai,Ku-ring-gai,10
+Ku-ring-gai,Merrylands - Guildford,14
+Ku-ring-gai,Mount Druitt,1
+Ku-ring-gai,Newcastle,1
+Ku-ring-gai,Pennant Hills - Epping,1
+Ku-ring-gai,Pittwater,1
+Ku-ring-gai,Ryde - Hunters Hill,59
+Ku-ring-gai,Strathfield - Burwood - Ashfield,1
+Ku-ring-gai,Sydney Inner City,1
+Ku-ring-gai,Upper Hunter,1
+Ku-ring-gai,Warringah,122
+Lachlan Valley,Albury,0
+Lachlan Valley,Armidale,0
+Lachlan Valley,Auburn,0
+Lachlan Valley,Blacktown,0
+Lachlan Valley,Blue Mountains,0
+Lachlan Valley,Botany,50
+Lachlan Valley,Botany,0
+Lachlan Valley,Bourke - Cobar - Coonamble,0
+Lachlan Valley,Broken Hill and Far West,0
+Lachlan Valley,Camden,0
+Lachlan Valley,Campbelltown (NSW),104
+Lachlan Valley,Dapto - Port Kembla,160
+Lachlan Valley,Dapto - Port Kembla,865
+Lachlan Valley,Dubbo,38
+Lachlan Valley,Dural - Wisemans Ferry,3
+Lachlan Valley,Fairfield,0
+Lachlan Valley,Gosford,0
+Lachlan Valley,Goulburn - Yass,43
+Lachlan Valley,Griffith - Murrumbidgee (West),102
+Lachlan Valley,Hawkesbury,6
+Lachlan Valley,Inverell - Tenterfield,0
+Lachlan Valley,Kempsey - Nambucca,1
+Lachlan Valley,Kiama - Shellharbour,0
+Lachlan Valley,Lachlan Valley,632
+Lachlan Valley,Lachlan Valley,1757
+Lachlan Valley,Lake Macquarie - East,0
+Lachlan Valley,Lake Macquarie - West,0
+Lachlan Valley,Lithgow - Mudgee,4
+Lachlan Valley,Liverpool,0
+Lachlan Valley,Lower Hunter,24
+Lachlan Valley,Lower Murray,1
+Lachlan Valley,Maitland,10
+Lachlan Valley,Merrylands - Guildford,0
+Lachlan Valley,Moree - Narrabri,0
+Lachlan Valley,Mount Druitt,17
+Lachlan Valley,Newcastle,105
+Lachlan Valley,Newcastle,10
+Lachlan Valley,Orange,610
+Lachlan Valley,Orange,57
+Lachlan Valley,Pittwater,0
+Lachlan Valley,Port Stephens,10
+Lachlan Valley,Queanbeyan,0
+Lachlan Valley,Richmond Valley - Hinterland,0
+Lachlan Valley,Rouse Hill - McGraths Hill,2
+Lachlan Valley,Shoalhaven,0
+Lachlan Valley,Snowy Mountains,0
+Lachlan Valley,South Coast,1
+Lachlan Valley,Southern Highlands,0
+Lachlan Valley,St Marys,0
+Lachlan Valley,Sydney Inner City,3
+Lachlan Valley,Tamworth - Gunnedah,11
+Lachlan Valley,Taree - Gloucester,0
+Lachlan Valley,Upper Hunter,6
+Lachlan Valley,Upper Murray exc. Albury,0
+Lachlan Valley,Wagga Wagga,421
+Lachlan Valley,Wagga Wagga,77
+Lachlan Valley,Wollondilly,0
+Lachlan Valley,Wyong,0
+Lake Macquarie - East,Auburn,1
+Lake Macquarie - East,Bankstown,1
+Lake Macquarie - East,Baulkham Hills,1
+Lake Macquarie - East,Blacktown,1
+Lake Macquarie - East,Botany,16
+Lake Macquarie - East,Botany,61
+Lake Macquarie - East,Campbelltown (NSW),2
+Lake Macquarie - East,Chatswood - Lane Cove,1
+Lake Macquarie - East,Dapto - Port Kembla,20
+Lake Macquarie - East,Fairfield,1
+Lake Macquarie - East,Gosford,83
+Lake Macquarie - East,Lake Macquarie - East,238
+Lake Macquarie - East,Lake Macquarie - West,140
+Lake Macquarie - East,Lower Hunter,349
+Lake Macquarie - East,Maitland,307
+Lake Macquarie - East,Merrylands - Guildford,6
+Lake Macquarie - East,Newcastle,498
+Lake Macquarie - East,Newcastle,3372
+Lake Macquarie - East,North Sydney - Mosman,1
+Lake Macquarie - East,Parramatta,1
+Lake Macquarie - East,Port Stephens,272
+Lake Macquarie - East,Ryde - Hunters Hill,2
+Lake Macquarie - East,Strathfield - Burwood - Ashfield,9
+Lake Macquarie - East,Sydney Inner City,5
+Lake Macquarie - East,Upper Hunter,103
+Lake Macquarie - East,Warringah,1
+Lake Macquarie - East,Wyong,119
+Lake Macquarie - West,Auburn,18
+Lake Macquarie - West,Bankstown,14
+Lake Macquarie - West,Baulkham Hills,3
+Lake Macquarie - West,Blacktown,33
+Lake Macquarie - West,Blacktown - North,9
+Lake Macquarie - West,Blue Mountains,0
+Lake Macquarie - West,Botany,16
+Lake Macquarie - West,Botany,3
+Lake Macquarie - West,Bringelly - Green Valley,2
+Lake Macquarie - West,Camden,10
+Lake Macquarie - West,Campbelltown (NSW),6
+Lake Macquarie - West,Canada Bay,3
+Lake Macquarie - West,Canterbury,2
+Lake Macquarie - West,Carlingford,0
+Lake Macquarie - West,Chatswood - Lane Cove,11
+Lake Macquarie - West,Cronulla - Miranda - Caringbah,10
+Lake Macquarie - West,Dapto - Port Kembla,15
+Lake Macquarie - West,Dural - Wisemans Ferry,0
+Lake Macquarie - West,Eastern Suburbs - North,2
+Lake Macquarie - West,Eastern Suburbs - South,2
+Lake Macquarie - West,Fairfield,4
+Lake Macquarie - West,Gosford,45
+Lake Macquarie - West,Hornsby,4
+Lake Macquarie - West,Hurstville,3
+Lake Macquarie - West,Kiama - Shellharbour,0
+Lake Macquarie - West,Kogarah - Rockdale,8
+Lake Macquarie - West,Ku-ring-gai,3
+Lake Macquarie - West,Lake Macquarie - East,304
+Lake Macquarie - West,Lake Macquarie - West,172
+Lake Macquarie - West,Leichhardt,0
+Lake Macquarie - West,Lower Hunter,216
+Lake Macquarie - West,Maitland,174
+Lake Macquarie - West,Manly,1
+Lake Macquarie - West,Marrickville - Sydenham - Petersham,12
+Lake Macquarie - West,Merrylands - Guildford,9
+Lake Macquarie - West,Mount Druitt,11
+Lake Macquarie - West,Newcastle,242
+Lake Macquarie - West,Newcastle,6079
+Lake Macquarie - West,North Sydney - Mosman,1
+Lake Macquarie - West,Parramatta,14
+Lake Macquarie - West,Penrith,11
+Lake Macquarie - West,Pittwater,1
+Lake Macquarie - West,Port Stephens,149
+Lake Macquarie - West,Richmond - Windsor,6
+Lake Macquarie - West,Rouse Hill - McGraths Hill,1
+Lake Macquarie - West,Ryde - Hunters Hill,3
+Lake Macquarie - West,Shoalhaven,0
+Lake Macquarie - West,St Marys,2
+Lake Macquarie - West,Strathfield - Burwood - Ashfield,10
+Lake Macquarie - West,Sutherland - Menai - Heathcote,0
+Lake Macquarie - West,Sydney Inner City,36
+Lake Macquarie - West,Upper Hunter,71
+Lake Macquarie - West,Warringah,17
+Lake Macquarie - West,Wollondilly,8
+Lake Macquarie - West,Wollongong,0
+Lake Macquarie - West,Wyong,111
+Leichhardt,Auburn,26
+Leichhardt,Bankstown,19
+Leichhardt,Blacktown,12
+Leichhardt,Blacktown - North,4
+Leichhardt,Blue Mountains,0
+Leichhardt,Botany,1250
+Leichhardt,Botany,12
+Leichhardt,Bringelly - Green Valley,1
+Leichhardt,Camden,5
+Leichhardt,Campbelltown (NSW),2
+Leichhardt,Canada Bay,12
+Leichhardt,Canterbury,3
+Leichhardt,Carlingford,6
+Leichhardt,Chatswood - Lane Cove,15
+Leichhardt,Cronulla - Miranda - Caringbah,4
+Leichhardt,Dapto - Port Kembla,9
+Leichhardt,Eastern Suburbs - North,5
+Leichhardt,Eastern Suburbs - South,2
+Leichhardt,Fairfield,229
+Leichhardt,Gosford,3
+Leichhardt,Goulburn - Yass,0
+Leichhardt,Hornsby,182
+Leichhardt,Hurstville,1
+Leichhardt,Kiama - Shellharbour,1
+Leichhardt,Kogarah - Rockdale,5
+Leichhardt,Lake Macquarie - East,3
+Leichhardt,Lake Macquarie - West,1
+Leichhardt,Leichhardt,51
+Leichhardt,Liverpool,30
+Leichhardt,Lower Hunter,105
+Leichhardt,Maitland,2
+Leichhardt,Marrickville - Sydenham - Petersham,66
+Leichhardt,Merrylands - Guildford,42
+Leichhardt,Migratory - Offshore - Shipping (NSW),3
+Leichhardt,Mount Druitt,3
+Leichhardt,Newcastle,9
+Leichhardt,Other Territories,0
+Leichhardt,Parramatta,278
+Leichhardt,Pennant Hills - Epping,3
+Leichhardt,Penrith,3
+Leichhardt,Port Stephens,103
+Leichhardt,Richmond - Windsor,109
+Leichhardt,Ryde - Hunters Hill,123
+Leichhardt,Shoalhaven,2
+Leichhardt,Southern Highlands,1
+Leichhardt,St Marys,1
+Leichhardt,Strathfield - Burwood - Ashfield,478
+Leichhardt,Sutherland - Menai - Heathcote,4
+Leichhardt,Sydney Inner City,35
+Leichhardt,Upper Hunter,7
+Leichhardt,Warringah,11
+Leichhardt,Wollondilly,4
+Leichhardt,Wyong,5
+Lithgow - Mudgee,Albury,0
+Lithgow - Mudgee,Armidale,0
+Lithgow - Mudgee,Auburn,46
+Lithgow - Mudgee,Bankstown,49
+Lithgow - Mudgee,Bathurst,12
+Lithgow - Mudgee,Baulkham Hills,16
+Lithgow - Mudgee,Blacktown,46
+Lithgow - Mudgee,Blacktown - North,25
+Lithgow - Mudgee,Blue Mountains,95
+Lithgow - Mudgee,Botany,10
+Lithgow - Mudgee,Botany,0
+Lithgow - Mudgee,Bourke - Cobar - Coonamble,1
+Lithgow - Mudgee,Bringelly - Green Valley,13
+Lithgow - Mudgee,Broken Hill and Far West,0
+Lithgow - Mudgee,Camden,53
+Lithgow - Mudgee,Campbelltown (NSW),36
+Lithgow - Mudgee,Canada Bay,10
+Lithgow - Mudgee,Canterbury,11
+Lithgow - Mudgee,Carlingford,4
+Lithgow - Mudgee,Chatswood - Lane Cove,20
+Lithgow - Mudgee,Clarence Valley,0
+Lithgow - Mudgee,Cronulla - Miranda - Caringbah,21
+Lithgow - Mudgee,Dapto - Port Kembla,22
+Lithgow - Mudgee,Dapto - Port Kembla,5124
+Lithgow - Mudgee,Dubbo,13
+Lithgow - Mudgee,Dural - Wisemans Ferry,3
+Lithgow - Mudgee,Eastern Suburbs - North,4
+Lithgow - Mudgee,Eastern Suburbs - South,7
+Lithgow - Mudgee,Fairfield,18
+Lithgow - Mudgee,Gosford,6
+Lithgow - Mudgee,Goulburn - Yass,16
+Lithgow - Mudgee,Great Lakes,1
+Lithgow - Mudgee,Griffith - Murrumbidgee (West),0
+Lithgow - Mudgee,Hawkesbury,1
+Lithgow - Mudgee,Hornsby,3
+Lithgow - Mudgee,Hurstville,10
+Lithgow - Mudgee,Illawarra Catchment Reserve,0
+Lithgow - Mudgee,Inverell - Tenterfield,1
+Lithgow - Mudgee,Kempsey - Nambucca,3
+Lithgow - Mudgee,Kiama - Shellharbour,8
+Lithgow - Mudgee,Kogarah - Rockdale,21
+Lithgow - Mudgee,Ku-ring-gai,10
+Lithgow - Mudgee,Lachlan Valley,47
+Lithgow - Mudgee,Lake Macquarie - East,10
+Lithgow - Mudgee,Lake Macquarie - West,2
+Lithgow - Mudgee,Leichhardt,3
+Lithgow - Mudgee,Lithgow - Mudgee,91
+Lithgow - Mudgee,Liverpool,7
+Lithgow - Mudgee,Lower Hunter,6365
+Lithgow - Mudgee,Lower Hunter,4
+Lithgow - Mudgee,Lower Murray,1
+Lithgow - Mudgee,Maitland,8
+Lithgow - Mudgee,Manly,1
+Lithgow - Mudgee,Marrickville - Sydenham - Petersham,13
+Lithgow - Mudgee,Merrylands - Guildford,37
+Lithgow - Mudgee,Moree - Narrabri,0
+Lithgow - Mudgee,Mount Druitt,36
+Lithgow - Mudgee,Newcastle,9
+Lithgow - Mudgee,Newcastle,21974
+Lithgow - Mudgee,North Sydney - Mosman,5
+Lithgow - Mudgee,Orange,1
+Lithgow - Mudgee,Parramatta,37
+Lithgow - Mudgee,Pennant Hills - Epping,1
+Lithgow - Mudgee,Penrith,173
+Lithgow - Mudgee,Pittwater,5
+Lithgow - Mudgee,Port Stephens,6
+Lithgow - Mudgee,Queanbeyan,0
+Lithgow - Mudgee,Richmond - Windsor,19
+Lithgow - Mudgee,Richmond Valley - Hinterland,1
+Lithgow - Mudgee,Rouse Hill - McGraths Hill,5
+Lithgow - Mudgee,Ryde - Hunters Hill,9
+Lithgow - Mudgee,Shoalhaven,0
+Lithgow - Mudgee,Snowy Mountains,0
+Lithgow - Mudgee,South Coast,0
+Lithgow - Mudgee,Southern Highlands,6
+Lithgow - Mudgee,St Marys,9
+Lithgow - Mudgee,Strathfield - Burwood - Ashfield,23
+Lithgow - Mudgee,Sutherland - Menai - Heathcote,6
+Lithgow - Mudgee,Sydney Inner City,65
+Lithgow - Mudgee,Tamworth - Gunnedah,44
+Lithgow - Mudgee,Taree - Gloucester,4
+Lithgow - Mudgee,Upper Hunter,21
+Lithgow - Mudgee,Upper Murray exc. Albury,0
+Lithgow - Mudgee,Wagga Wagga,12
+Lithgow - Mudgee,Warringah,34
+Lithgow - Mudgee,Wollondilly,21
+Lithgow - Mudgee,Wollongong,7
+Lithgow - Mudgee,Wyong,9
+Liverpool,Albury,1
+Liverpool,Armidale,0
+Liverpool,Auburn,113
+Liverpool,Bankstown,98
+Liverpool,Bankstown,19
+Liverpool,Bathurst,2
+Liverpool,Baulkham Hills,40
+Liverpool,Blacktown,79
+Liverpool,Blacktown - North,12
+Liverpool,Blue Mountains,6
+Liverpool,Blue Mountains - South,0
+Liverpool,Botany,218
+Liverpool,Botany,33
+Liverpool,Bourke - Cobar - Coonamble,0
+Liverpool,Bringelly - Green Valley,143
+Liverpool,Broken Hill and Far West,1
+Liverpool,Camden,86
+Liverpool,Campbelltown (NSW),231
+Liverpool,Canada Bay,26
+Liverpool,Canterbury,85
+Liverpool,Carlingford,30
+Liverpool,Chatswood - Lane Cove,33
+Liverpool,Clarence Valley,0
+Liverpool,Coffs Harbour,0
+Liverpool,Cronulla - Miranda - Caringbah,31
+Liverpool,Dapto - Port Kembla,94
+Liverpool,Dubbo,0
+Liverpool,Dural - Wisemans Ferry,7
+Liverpool,Eastern Suburbs - North,21
+Liverpool,Eastern Suburbs - South,19
+Liverpool,Fairfield,386
+Liverpool,Gosford,7
+Liverpool,Goulburn - Yass,0
+Liverpool,Great Lakes,0
+Liverpool,Griffith - Murrumbidgee (West),1
+Liverpool,Hawkesbury,1
+Liverpool,Hornsby,13
+Liverpool,Hurstville,67
+Liverpool,Kiama - Shellharbour,0
+Liverpool,Kogarah - Rockdale,58
+Liverpool,Ku-ring-gai,8
+Liverpool,Lachlan Valley,0
+Liverpool,Lake Macquarie - East,0
+Liverpool,Lake Macquarie - West,1
+Liverpool,Leichhardt,12
+Liverpool,Lithgow - Mudgee,0
+Liverpool,Liverpool,894
+Liverpool,Lord Howe Island,0
+Liverpool,Lower Hunter,0
+Liverpool,Lower Murray,1
+Liverpool,Maitland,0
+Liverpool,Manly,2
+Liverpool,Marrickville - Sydenham - Petersham,34
+Liverpool,Merrylands - Guildford,215
+Liverpool,Mount Druitt,77
+Liverpool,Newcastle,17
+Liverpool,North Sydney - Mosman,2
+Liverpool,Orange,0
+Liverpool,Parramatta,22
+Liverpool,Pennant Hills - Epping,7
+Liverpool,Penrith,57
+Liverpool,Pittwater,7
+Liverpool,Port Macquarie,3
+Liverpool,Port Stephens,0
+Liverpool,Queanbeyan,0
+Liverpool,Richmond - Windsor,6
+Liverpool,Richmond Valley - Coastal,0
+Liverpool,Richmond Valley - Hinterland,0
+Liverpool,Rouse Hill - McGraths Hill,6
+Liverpool,Ryde - Hunters Hill,62
+Liverpool,Shoalhaven,1
+Liverpool,Snowy Mountains,1
+Liverpool,South Coast,0
+Liverpool,Southern Highlands,0
+Liverpool,St Marys,24
+Liverpool,Strathfield - Burwood - Ashfield,108
+Liverpool,Strathfield - Burwood - Ashfield,6
+Liverpool,Sutherland - Menai - Heathcote,43
+Liverpool,Sydney Inner City,38
+Liverpool,Taree - Gloucester,0
+Liverpool,Tweed Valley,0
+Liverpool,Upper Hunter,76
+Liverpool,Wagga Wagga,1
+Liverpool,Warringah,28
+Liverpool,Wollondilly,8
+Liverpool,Wollongong,14
+Liverpool,Wyong,5
+Lower Hunter,Albury,0
+Lower Hunter,Armidale,1
+Lower Hunter,Auburn,54
+Lower Hunter,Bankstown,42
+Lower Hunter,Bathurst,0
+Lower Hunter,Baulkham Hills,7
+Lower Hunter,Blacktown,69
+Lower Hunter,Blacktown - North,28
+Lower Hunter,Blue Mountains,2
+Lower Hunter,Botany,1386
+Lower Hunter,Botany,0
+Lower Hunter,Botany,73
+Lower Hunter,Bourke - Cobar - Coonamble,0
+Lower Hunter,Bringelly - Green Valley,5
+Lower Hunter,Broken Hill and Far West,0
+Lower Hunter,Camden,44
+Lower Hunter,Campbelltown (NSW),19
+Lower Hunter,Canada Bay,9
+Lower Hunter,Canterbury,8
+Lower Hunter,Carlingford,2
+Lower Hunter,Chatswood - Lane Cove,29
+Lower Hunter,Clarence Valley,0
+Lower Hunter,Coffs Harbour,0
+Lower Hunter,Cronulla - Miranda - Caringbah,25
+Lower Hunter,Dapto - Port Kembla,340
+Lower Hunter,Dapto - Port Kembla,16
+Lower Hunter,Dubbo,0
+Lower Hunter,Dural - Wisemans Ferry,3
+Lower Hunter,Eastern Suburbs - North,6
+Lower Hunter,Eastern Suburbs - South,7
+Lower Hunter,Fairfield,11
+Lower Hunter,Gosford,19
+Lower Hunter,Goulburn - Yass,0
+Lower Hunter,Great Lakes,0
+Lower Hunter,Griffith - Murrumbidgee (West),0
+Lower Hunter,Hawkesbury,0
+Lower Hunter,Hornsby,5
+Lower Hunter,Hurstville,10
+Lower Hunter,Inverell - Tenterfield,0
+Lower Hunter,Kempsey - Nambucca,3
+Lower Hunter,Kiama - Shellharbour,1
+Lower Hunter,Kogarah - Rockdale,19
+Lower Hunter,Ku-ring-gai,11
+Lower Hunter,Lachlan Valley,0
+Lower Hunter,Lake Macquarie - East,166
+Lower Hunter,Lake Macquarie - West,88
+Lower Hunter,Leichhardt,3
+Lower Hunter,Lithgow - Mudgee,3
+Lower Hunter,Liverpool,0
+Lower Hunter,Lower Hunter,1375
+Lower Hunter,Lower Murray,0
+Lower Hunter,Maitland,200
+Lower Hunter,Manly,2
+Lower Hunter,Marrickville - Sydenham - Petersham,19
+Lower Hunter,Merrylands - Guildford,37
+Lower Hunter,Moree - Narrabri,0
+Lower Hunter,Mount Druitt,54
+Lower Hunter,Newcastle,550
+Lower Hunter,Newcastle,66757
+Lower Hunter,North Sydney - Mosman,4
+Lower Hunter,Orange,0
+Lower Hunter,Parramatta,65
+Lower Hunter,Penrith,34
+Lower Hunter,Pittwater,5
+Lower Hunter,Port Macquarie,0
+Lower Hunter,Port Stephens,23
+Lower Hunter,Queanbeyan,0
+Lower Hunter,Richmond - Windsor,26
+Lower Hunter,Richmond Valley - Coastal,0
+Lower Hunter,Richmond Valley - Hinterland,1
+Lower Hunter,Rouse Hill - McGraths Hill,3
+Lower Hunter,Ryde - Hunters Hill,3
+Lower Hunter,Shoalhaven,0
+Lower Hunter,Snowy Mountains,0
+Lower Hunter,South Coast,0
+Lower Hunter,Southern Highlands,3
+Lower Hunter,St Marys,8
+Lower Hunter,Strathfield - Burwood - Ashfield,30
+Lower Hunter,Sutherland - Menai - Heathcote,2
+Lower Hunter,Sydney Inner City,101
+Lower Hunter,Tamworth - Gunnedah,3
+Lower Hunter,Taree - Gloucester,2
+Lower Hunter,Tumut - Tumbarumba,0
+Lower Hunter,Tweed Valley,0
+Lower Hunter,Upper Hunter,16
+Lower Hunter,Upper Murray exc. Albury,0
+Lower Hunter,Wagga Wagga,0
+Lower Hunter,Warringah,63
+Lower Hunter,Wollondilly,42
+Lower Hunter,Wollongong,1
+Lower Hunter,Wyong,13
+Lower Murray,Albury,0
+Lower Murray,Armidale,0
+Lower Murray,Auburn,0
+Lower Murray,Blacktown,3
+Lower Murray,Bourke - Cobar - Coonamble,38
+Lower Murray,Broken Hill and Far West,780
+Lower Murray,Camden,2
+Lower Murray,Dubbo,0
+Lower Murray,Fairfield,0
+Lower Murray,Goulburn - Yass,0
+Lower Murray,Griffith - Murrumbidgee (West),30
+Lower Murray,Lachlan Valley,0
+Lower Murray,Lithgow - Mudgee,0
+Lower Murray,Liverpool,3
+Lower Murray,Lower Murray,48
+Lower Murray,Merrylands - Guildford,1
+Lower Murray,Moree - Narrabri,0
+Lower Murray,Mount Druitt,7
+Lower Murray,Orange,0
+Lower Murray,Queanbeyan,0
+Lower Murray,Richmond Valley - Hinterland,0
+Lower Murray,Snowy Mountains,0
+Lower Murray,Southern Highlands,0
+Lower Murray,St Marys,10
+Lower Murray,Tamworth - Gunnedah,1
+Lower Murray,Upper Hunter,0
+Lower Murray,Upper Murray exc. Albury,159
+Lower Murray,Wagga Wagga,48
+Lower Murray,Wyong,1
+Maitland,Albury,0
+Maitland,Armidale,0
+Maitland,Auburn,1
+Maitland,Blacktown,0
+Maitland,Botany,33
+Maitland,Botany,0
+Maitland,Botany,16
+Maitland,Bourke - Cobar - Coonamble,0
+Maitland,Camden,0
+Maitland,Clarence Valley,0
+Maitland,Dapto - Port Kembla,8
+Maitland,Dubbo,0
+Maitland,Fairfield,0
+Maitland,Goulburn - Yass,0
+Maitland,Kempsey - Nambucca,0
+Maitland,Lachlan Valley,0
+Maitland,Lake Macquarie - East,286
+Maitland,Lake Macquarie - West,160
+Maitland,Lithgow - Mudgee,0
+Maitland,Liverpool,0
+Maitland,Lower Hunter,55
+Maitland,Maitland,70
+Maitland,Merrylands - Guildford,0
+Maitland,Moree - Narrabri,0
+Maitland,Mount Druitt,0
+Maitland,Newcastle,651
+Maitland,Newcastle,1060
+Maitland,Orange,0
+Maitland,Port Stephens,11
+Maitland,Queanbeyan,0
+Maitland,Richmond Valley - Hinterland,0
+Maitland,Ryde - Hunters Hill,1
+Maitland,Snowy Mountains,0
+Maitland,Southern Highlands,0
+Maitland,St Marys,0
+Maitland,Strathfield - Burwood - Ashfield,1
+Maitland,Sydney Inner City,1
+Maitland,Tamworth - Gunnedah,1
+Maitland,Taree - Gloucester,4
+Maitland,Upper Hunter,222
+Maitland,Wagga Wagga,0
+Maitland,Wyong,0
+Manly,Botany,3
+Manly,Botany,2
+Manly,Carlingford,10
+Manly,Chatswood - Lane Cove,3
+Manly,Dapto - Port Kembla,1
+Manly,Manly,13
+Manly,North Sydney - Mosman,1
+Manly,Ryde - Hunters Hill,2
+Manly,Strathfield - Burwood - Ashfield,0
+Manly,Sydney Inner City,2
+Manly,Upper Hunter,1
+Manly,Warringah,79
+Marrickville - Sydenham - Petersham,Auburn,44
+Marrickville - Sydenham - Petersham,Bankstown,64
+Marrickville - Sydenham - Petersham,Baulkham Hills,38
+Marrickville - Sydenham - Petersham,Blacktown,6
+Marrickville - Sydenham - Petersham,Blue Mountains,1
+Marrickville - Sydenham - Petersham,Botany,237
+Marrickville - Sydenham - Petersham,Botany,33
+Marrickville - Sydenham - Petersham,Bringelly - Green Valley,27
+Marrickville - Sydenham - Petersham,Camden,1
+Marrickville - Sydenham - Petersham,Campbelltown (NSW),14
+Marrickville - Sydenham - Petersham,Canada Bay,37
+Marrickville - Sydenham - Petersham,Canterbury,40
+Marrickville - Sydenham - Petersham,Carlingford,32
+Marrickville - Sydenham - Petersham,Chatswood - Lane Cove,126
+Marrickville - Sydenham - Petersham,Cronulla - Miranda - Caringbah,30
+Marrickville - Sydenham - Petersham,Dapto - Port Kembla,39
+Marrickville - Sydenham - Petersham,Dural - Wisemans Ferry,0
+Marrickville - Sydenham - Petersham,Eastern Suburbs - North,34
+Marrickville - Sydenham - Petersham,Eastern Suburbs - South,32
+Marrickville - Sydenham - Petersham,Fairfield,91
+Marrickville - Sydenham - Petersham,Gosford,1
+Marrickville - Sydenham - Petersham,Hornsby,79
+Marrickville - Sydenham - Petersham,Hurstville,26
+Marrickville - Sydenham - Petersham,Kogarah - Rockdale,49
+Marrickville - Sydenham - Petersham,Ku-ring-gai,12
+Marrickville - Sydenham - Petersham,Leichhardt,55
+Marrickville - Sydenham - Petersham,Liverpool,202
+Marrickville - Sydenham - Petersham,Manly,8
+Marrickville - Sydenham - Petersham,Marrickville - Sydenham - Petersham,307
+Marrickville - Sydenham - Petersham,Merrylands - Guildford,98
+Marrickville - Sydenham - Petersham,Mount Druitt,4
+Marrickville - Sydenham - Petersham,Newcastle,10
+Marrickville - Sydenham - Petersham,North Sydney - Mosman,39
+Marrickville - Sydenham - Petersham,Parramatta,48
+Marrickville - Sydenham - Petersham,Pennant Hills - Epping,22
+Marrickville - Sydenham - Petersham,Penrith,2
+Marrickville - Sydenham - Petersham,Pittwater,2
+Marrickville - Sydenham - Petersham,Rouse Hill - McGraths Hill,1
+Marrickville - Sydenham - Petersham,Ryde - Hunters Hill,157
+Marrickville - Sydenham - Petersham,Southern Highlands,3
+Marrickville - Sydenham - Petersham,Strathfield - Burwood - Ashfield,110
+Marrickville - Sydenham - Petersham,Sutherland - Menai - Heathcote,48
+Marrickville - Sydenham - Petersham,Sydney Inner City,130
+Marrickville - Sydenham - Petersham,Upper Hunter,21
+Marrickville - Sydenham - Petersham,Warringah,10
+Marrickville - Sydenham - Petersham,Wollongong,3
+Marrickville - Sydenham - Petersham,Wyong,1
+Merrylands - Guildford,Auburn,578
+Merrylands - Guildford,Bankstown,354
+Merrylands - Guildford,Bankstown,25
+Merrylands - Guildford,Baulkham Hills,114
+Merrylands - Guildford,Blacktown,129
+Merrylands - Guildford,Blacktown - North,38
+Merrylands - Guildford,Blue Mountains,4
+Merrylands - Guildford,Botany,846
+Merrylands - Guildford,Botany,165
+Merrylands - Guildford,Botany,240
+Merrylands - Guildford,Bringelly - Green Valley,50
+Merrylands - Guildford,Camden,11
+Merrylands - Guildford,Campbelltown (NSW),78
+Merrylands - Guildford,Canada Bay,55
+Merrylands - Guildford,Canterbury,51
+Merrylands - Guildford,Carlingford,94
+Merrylands - Guildford,Chatswood - Lane Cove,33
+Merrylands - Guildford,Cronulla - Miranda - Caringbah,20
+Merrylands - Guildford,Dapto - Port Kembla,78
+Merrylands - Guildford,Dural - Wisemans Ferry,5
+Merrylands - Guildford,Eastern Suburbs - North,26
+Merrylands - Guildford,Eastern Suburbs - South,12
+Merrylands - Guildford,Fairfield,428
+Merrylands - Guildford,Gosford,14
+Merrylands - Guildford,Hawkesbury,1
+Merrylands - Guildford,Hornsby,26
+Merrylands - Guildford,Hurstville,44
+Merrylands - Guildford,Kiama - Shellharbour,2
+Merrylands - Guildford,Kogarah - Rockdale,24
+Merrylands - Guildford,Ku-ring-gai,18
+Merrylands - Guildford,Lake Macquarie - East,3
+Merrylands - Guildford,Lake Macquarie - West,2
+Merrylands - Guildford,Leichhardt,20
+Merrylands - Guildford,Liverpool,139
+Merrylands - Guildford,Lower Hunter,10
+Merrylands - Guildford,Maitland,2
+Merrylands - Guildford,Manly,2
+Merrylands - Guildford,Marrickville - Sydenham - Petersham,21
+Merrylands - Guildford,Merrylands - Guildford,1503
+Merrylands - Guildford,Mount Druitt,776
+Merrylands - Guildford,Newcastle,22
+Merrylands - Guildford,North Sydney - Mosman,18
+Merrylands - Guildford,Parramatta,91
+Merrylands - Guildford,Pennant Hills - Epping,11
+Merrylands - Guildford,Penrith,83
+Merrylands - Guildford,Pittwater,8
+Merrylands - Guildford,Port Stephens,1
+Merrylands - Guildford,Richmond - Windsor,6
+Merrylands - Guildford,Rouse Hill - McGraths Hill,11
+Merrylands - Guildford,Ryde - Hunters Hill,71
+Merrylands - Guildford,Shoalhaven,1
+Merrylands - Guildford,Southern Highlands,2
+Merrylands - Guildford,St Marys,30
+Merrylands - Guildford,Strathfield - Burwood - Ashfield,175
+Merrylands - Guildford,Strathfield - Burwood - Ashfield,8
+Merrylands - Guildford,Sutherland - Menai - Heathcote,19
+Merrylands - Guildford,Sydney Inner City,45
+Merrylands - Guildford,Upper Hunter,130
+Merrylands - Guildford,Warringah,12
+Merrylands - Guildford,Wollondilly,7
+Merrylands - Guildford,Wollongong,13
+Merrylands - Guildford,Wyong,11
+Moree - Narrabri,Albury,0
+Moree - Narrabri,Armidale,1
+Moree - Narrabri,Auburn,0
+Moree - Narrabri,Blacktown,5
+Moree - Narrabri,Botany,279
+Moree - Narrabri,Bourke - Cobar - Coonamble,25
+Moree - Narrabri,Camden,3
+Moree - Narrabri,Clarence Valley,0
+Moree - Narrabri,Dubbo,23
+Moree - Narrabri,Fairfield,0
+Moree - Narrabri,Gosford,59
+Moree - Narrabri,Goulburn - Yass,1
+Moree - Narrabri,Great Lakes,35
+Moree - Narrabri,Griffith - Murrumbidgee (West),0
+Moree - Narrabri,Inverell - Tenterfield,64
+Moree - Narrabri,Kempsey - Nambucca,1
+Moree - Narrabri,Lachlan Valley,0
+Moree - Narrabri,Lithgow - Mudgee,0
+Moree - Narrabri,Liverpool,5
+Moree - Narrabri,Lower Murray,0
+Moree - Narrabri,Maitland,0
+Moree - Narrabri,Merrylands - Guildford,2
+Moree - Narrabri,Moree - Narrabri,101
+Moree - Narrabri,Moree - Narrabri,302
+Moree - Narrabri,Moree - Narrabri,1387
+Moree - Narrabri,Mount Druitt,12
+Moree - Narrabri,Newcastle,13372
+Moree - Narrabri,Richmond Valley - Hinterland,53
+Moree - Narrabri,Snowy Mountains,0
+Moree - Narrabri,South Coast,0
+Moree - Narrabri,Southern Highlands,0
+Moree - Narrabri,St Marys,2
+Moree - Narrabri,Tamworth - Gunnedah,390
+Moree - Narrabri,Tamworth - Gunnedah,157
+Moree - Narrabri,Taree - Gloucester,0
+Moree - Narrabri,Tweed Valley,12
+Moree - Narrabri,Upper Hunter,3
+Moree - Narrabri,Upper Murray exc. Albury,0
+Moree - Narrabri,Wagga Wagga,0
+Moree - Narrabri,Wyong,2
+Mount Druitt,Albury,6
+Mount Druitt,Armidale,4
+Mount Druitt,Auburn,121
+Mount Druitt,Bankstown,157
+Mount Druitt,Bankstown,13
+Mount Druitt,Bathurst,5
+Mount Druitt,Baulkham Hills,151
+Mount Druitt,Blacktown,296
+Mount Druitt,Blacktown - North,49
+Mount Druitt,Blue Mountains,19
+Mount Druitt,Botany,84
+Mount Druitt,Botany,41
+Mount Druitt,Bourke - Cobar - Coonamble,4
+Mount Druitt,Bringelly - Green Valley,88
+Mount Druitt,Broken Hill and Far West,5
+Mount Druitt,Camden,31
+Mount Druitt,Campbelltown (NSW),82
+Mount Druitt,Canada Bay,19
+Mount Druitt,Canterbury,16
+Mount Druitt,Carlingford,50
+Mount Druitt,Chatswood - Lane Cove,33
+Mount Druitt,Clarence Valley,10
+Mount Druitt,Coffs Harbour,6
+Mount Druitt,Cronulla - Miranda - Caringbah,18
+Mount Druitt,Dapto - Port Kembla,89
+Mount Druitt,Dubbo,5
+Mount Druitt,Dural - Wisemans Ferry,13
+Mount Druitt,Eastern Suburbs - North,17
+Mount Druitt,Eastern Suburbs - South,12
+Mount Druitt,Fairfield,235
+Mount Druitt,Gosford,25
+Mount Druitt,Goulburn - Yass,13
+Mount Druitt,Great Lakes,1
+Mount Druitt,Griffith - Murrumbidgee (West),4
+Mount Druitt,Hawkesbury,13
+Mount Druitt,Hornsby,196
+Mount Druitt,Hurstville,10
+Mount Druitt,Illawarra Catchment Reserve,3
+Mount Druitt,Inverell - Tenterfield,2
+Mount Druitt,Kempsey - Nambucca,4
+Mount Druitt,Kiama - Shellharbour,7
+Mount Druitt,Kogarah - Rockdale,15
+Mount Druitt,Ku-ring-gai,13
+Mount Druitt,Lachlan Valley,3
+Mount Druitt,Lake Macquarie - East,17
+Mount Druitt,Lake Macquarie - West,6
+Mount Druitt,Leichhardt,15
+Mount Druitt,Lithgow - Mudgee,2
+Mount Druitt,Liverpool,190
+Mount Druitt,Lord Howe Island,4
+Mount Druitt,Lower Hunter,13
+Mount Druitt,Lower Murray,1
+Mount Druitt,Maitland,9
+Mount Druitt,Manly,2
+Mount Druitt,Marrickville - Sydenham - Petersham,15
+Mount Druitt,Merrylands - Guildford,148
+Mount Druitt,Moree - Narrabri,5
+Mount Druitt,Mount Druitt,694
+Mount Druitt,Newcastle,40
+Mount Druitt,North Sydney - Mosman,2
+Mount Druitt,Orange,4
+Mount Druitt,Parramatta,39
+Mount Druitt,Pennant Hills - Epping,31
+Mount Druitt,Penrith,122
+Mount Druitt,Pittwater,5
+Mount Druitt,Port Macquarie,7
+Mount Druitt,Port Stephens,0
+Mount Druitt,Queanbeyan,3
+Mount Druitt,Richmond - Windsor,43
+Mount Druitt,Richmond Valley - Coastal,9
+Mount Druitt,Richmond Valley - Hinterland,5
+Mount Druitt,Rouse Hill - McGraths Hill,14
+Mount Druitt,Ryde - Hunters Hill,86
+Mount Druitt,Shoalhaven,8
+Mount Druitt,Snowy Mountains,2
+Mount Druitt,South Coast,7
+Mount Druitt,Southern Highlands,15
+Mount Druitt,St Marys,75
+Mount Druitt,Strathfield - Burwood - Ashfield,90
+Mount Druitt,Strathfield - Burwood - Ashfield,6
+Mount Druitt,Sutherland - Menai - Heathcote,7
+Mount Druitt,Sydney Inner City,39
+Mount Druitt,Tamworth - Gunnedah,7
+Mount Druitt,Taree - Gloucester,6
+Mount Druitt,Tumut - Tumbarumba,0
+Mount Druitt,Tweed Valley,12
+Mount Druitt,Upper Hunter,64
+Mount Druitt,Upper Murray exc. Albury,5
+Mount Druitt,Wagga Wagga,7
+Mount Druitt,Warringah,44
+Mount Druitt,Wollondilly,23
+Mount Druitt,Wollongong,8
+Mount Druitt,Wyong,26
+Newcastle,Albury,7
+Newcastle,Albury,1
+Newcastle,Armidale,4
+Newcastle,Armidale,35
+Newcastle,Auburn,69
+Newcastle,Bankstown,45
+Newcastle,Bathurst,5
+Newcastle,Bathurst,57
+Newcastle,Baulkham Hills,10
+Newcastle,Blacktown,58
+Newcastle,Blacktown - North,22
+Newcastle,Blue Mountains,3
+Newcastle,Botany,59
+Newcastle,Botany,590
+Newcastle,Botany,143
+Newcastle,Bourke - Cobar - Coonamble,3
+Newcastle,Bourke - Cobar - Coonamble,110
+Newcastle,Bringelly - Green Valley,3
+Newcastle,Broken Hill and Far West,2
+Newcastle,Broken Hill and Far West,0
+Newcastle,Camden,34
+Newcastle,Campbelltown (NSW),19
+Newcastle,Canada Bay,5
+Newcastle,Canterbury,5
+Newcastle,Carlingford,5
+Newcastle,Chatswood - Lane Cove,32
+Newcastle,Clarence Valley,6
+Newcastle,Clarence Valley,30
+Newcastle,Coffs Harbour,10
+Newcastle,Coffs Harbour,41
+Newcastle,Cronulla - Miranda - Caringbah,25
+Newcastle,Dapto - Port Kembla,50
+Newcastle,Dubbo,30
+Newcastle,Dubbo,78
+Newcastle,Dural - Wisemans Ferry,2
+Newcastle,Eastern Suburbs - North,5
+Newcastle,Eastern Suburbs - South,5
+Newcastle,Fairfield,27
+Newcastle,Gosford,80
+Newcastle,Goulburn - Yass,10
+Newcastle,Goulburn - Yass,2
+Newcastle,Great Lakes,20
+Newcastle,Great Lakes,36
+Newcastle,Griffith - Murrumbidgee (West),5
+Newcastle,Griffith - Murrumbidgee (West),1
+Newcastle,Hornsby,38
+Newcastle,Hurstville,5
+Newcastle,Inverell - Tenterfield,44
+Newcastle,Inverell - Tenterfield,13
+Newcastle,Kempsey - Nambucca,5
+Newcastle,Kempsey - Nambucca,47
+Newcastle,Kiama - Shellharbour,5
+Newcastle,Kogarah - Rockdale,17
+Newcastle,Ku-ring-gai,5
+Newcastle,Lachlan Valley,6
+Newcastle,Lachlan Valley,114
+Newcastle,Lake Macquarie - East,277
+Newcastle,Lake Macquarie - East,116
+Newcastle,Lake Macquarie - West,227
+Newcastle,Lake Macquarie - West,86
+Newcastle,Leichhardt,4
+Newcastle,Lithgow - Mudgee,35
+Newcastle,Lithgow - Mudgee,226
+Newcastle,Liverpool,30
+Newcastle,Lord Howe Island,0
+Newcastle,Lord Howe Island,0
+Newcastle,Lower Hunter,413
+Newcastle,Lower Hunter,791
+Newcastle,Lower Murray,1
+Newcastle,Lower Murray,0
+Newcastle,Maitland,361
+Newcastle,Maitland,73
+Newcastle,Manly,0
+Newcastle,Marrickville - Sydenham - Petersham,26
+Newcastle,Merrylands - Guildford,58
+Newcastle,Moree - Narrabri,3
+Newcastle,Moree - Narrabri,121
+Newcastle,Mount Druitt,38
+Newcastle,Newcastle,1231
+Newcastle,Newcastle,12
+Newcastle,Newcastle,164
+Newcastle,North Sydney - Mosman,5
+Newcastle,Orange,6
+Newcastle,Orange,122
+Newcastle,Parramatta,38
+Newcastle,Pennant Hills - Epping,2
+Newcastle,Penrith,24
+Newcastle,Pittwater,6
+Newcastle,Port Macquarie,9
+Newcastle,Port Macquarie,76
+Newcastle,Port Stephens,560
+Newcastle,Port Stephens,1272
+Newcastle,Queanbeyan,7
+Newcastle,Queanbeyan,1
+Newcastle,Richmond - Windsor,21
+Newcastle,Richmond Valley - Coastal,9
+Newcastle,Richmond Valley - Coastal,2
+Newcastle,Richmond Valley - Hinterland,8
+Newcastle,Richmond Valley - Hinterland,2
+Newcastle,Rouse Hill - McGraths Hill,2
+Newcastle,Ryde - Hunters Hill,13
+Newcastle,Shoalhaven,10
+Newcastle,Snowy Mountains,2
+Newcastle,Snowy Mountains,0
+Newcastle,South Coast,8
+Newcastle,South Coast,2
+Newcastle,Southern Highlands,10
+Newcastle,St Marys,7
+Newcastle,Strathfield - Burwood - Ashfield,40
+Newcastle,Sutherland - Menai - Heathcote,2
+Newcastle,Sydney Inner City,99
+Newcastle,Tamworth - Gunnedah,107
+Newcastle,Tamworth - Gunnedah,142
+Newcastle,Taree - Gloucester,6
+Newcastle,Taree - Gloucester,59
+Newcastle,Tumut - Tumbarumba,1
+Newcastle,Tumut - Tumbarumba,0
+Newcastle,Tweed Valley,27
+Newcastle,Tweed Valley,2
+Newcastle,Upper Hunter,458
+Newcastle,Upper Hunter,288
+Newcastle,Upper Murray exc. Albury,4
+Newcastle,Upper Murray exc. Albury,1
+Newcastle,Wagga Wagga,11
+Newcastle,Wagga Wagga,2
+Newcastle,Warringah,58
+Newcastle,Wollondilly,28
+Newcastle,Wollongong,3
+Newcastle,Wyong,109
+North Sydney - Mosman,Auburn,46
+North Sydney - Mosman,Botany,13
+North Sydney - Mosman,Botany,9
+North Sydney - Mosman,Carlingford,36
+North Sydney - Mosman,Chatswood - Lane Cove,75
+North Sydney - Mosman,Dapto - Port Kembla,2
+North Sydney - Mosman,Eastern Suburbs - North,1
+North Sydney - Mosman,Mount Druitt,18
+North Sydney - Mosman,Newcastle,1
+North Sydney - Mosman,North Sydney - Mosman,63
+North Sydney - Mosman,Ryde - Hunters Hill,14
+North Sydney - Mosman,Strathfield - Burwood - Ashfield,1
+North Sydney - Mosman,Sydney Inner City,7
+North Sydney - Mosman,Upper Hunter,4
+North Sydney - Mosman,Warringah,97
+Orange,Albury,0
+Orange,Armidale,0
+Orange,Auburn,6
+Orange,Bankstown,8
+Orange,Bathurst,24
+Orange,Blacktown,11
+Orange,Blacktown - North,7
+Orange,Blue Mountains,1
+Orange,Botany,6
+Orange,Botany,24
+Orange,Botany,0
+Orange,Bourke - Cobar - Coonamble,1
+Orange,Bringelly - Green Valley,1
+Orange,Broken Hill and Far West,0
+Orange,Camden,12
+Orange,Campbelltown (NSW),5
+Orange,Canada Bay,1
+Orange,Canterbury,2
+Orange,Chatswood - Lane Cove,0
+Orange,Cronulla - Miranda - Caringbah,8
+Orange,Dapto - Port Kembla,340
+Orange,Dapto - Port Kembla,2
+Orange,Dubbo,9
+Orange,Eastern Suburbs - North,2
+Orange,Eastern Suburbs - South,3
+Orange,Fairfield,2
+Orange,Gosford,87
+Orange,Goulburn - Yass,11
+Orange,Griffith - Murrumbidgee (West),1
+Orange,Hurstville,1
+Orange,Inverell - Tenterfield,5
+Orange,Kempsey - Nambucca,0
+Orange,Kiama - Shellharbour,1
+Orange,Kogarah - Rockdale,5
+Orange,Ku-ring-gai,0
+Orange,Lachlan Valley,83
+Orange,Lake Macquarie - East,72
+Orange,Lake Macquarie - West,73
+Orange,Leichhardt,0
+Orange,Lithgow - Mudgee,20
+Orange,Liverpool,1
+Orange,Lower Hunter,95
+Orange,Lower Murray,2
+Orange,Maitland,162
+Orange,Manly,1
+Orange,Marrickville - Sydenham - Petersham,6
+Orange,Merrylands - Guildford,5
+Orange,Moree - Narrabri,0
+Orange,Mount Druitt,15
+Orange,Newcastle,317
+Orange,Orange,187
+Orange,Parramatta,3
+Orange,Penrith,16
+Orange,Pittwater,2
+Orange,Port Stephens,38
+Orange,Queanbeyan,0
+Orange,Richmond - Windsor,6
+Orange,Richmond Valley - Hinterland,1
+Orange,Shoalhaven,0
+Orange,Snowy Mountains,0
+Orange,South Coast,0
+Orange,Southern Highlands,2
+Orange,St Marys,3
+Orange,Strathfield - Burwood - Ashfield,5
+Orange,Sutherland - Menai - Heathcote,0
+Orange,Sydney Inner City,26
+Orange,Tamworth - Gunnedah,26
+Orange,Taree - Gloucester,1
+Orange,Tweed Valley,0
+Orange,Upper Hunter,6
+Orange,Upper Murray exc. Albury,0
+Orange,Wagga Wagga,23
+Orange,Warringah,20
+Orange,Wollondilly,9
+Orange,Wollongong,0
+Orange,Wyong,90
+Other Territories,Leichhardt,2
+Parramatta,Auburn,560
+Parramatta,Auburn,51
+Parramatta,Bankstown,135
+Parramatta,Bankstown,19
+Parramatta,Bankstown,67
+Parramatta,Baulkham Hills,129
+Parramatta,Baulkham Hills,101
+Parramatta,Blacktown,137
+Parramatta,Blacktown,82
+Parramatta,Blacktown - North,47
+Parramatta,Blacktown - North,63
+Parramatta,Blue Mountains,9
+Parramatta,Blue Mountains,50
+Parramatta,Botany,532
+Parramatta,Botany,4
+Parramatta,Botany,122
+Parramatta,Bringelly - Green Valley,66
+Parramatta,Bringelly - Green Valley,68
+Parramatta,Broken Hill and Far West,34
+Parramatta,Camden,22
+Parramatta,Camden,13
+Parramatta,Campbelltown (NSW),39
+Parramatta,Campbelltown (NSW),25
+Parramatta,Canada Bay,52
+Parramatta,Canada Bay,45
+Parramatta,Canterbury,42
+Parramatta,Canterbury,33
+Parramatta,Carlingford,209
+Parramatta,Carlingford,44
+Parramatta,Chatswood - Lane Cove,24
+Parramatta,Chatswood - Lane Cove,55
+Parramatta,Cronulla - Miranda - Caringbah,13
+Parramatta,Cronulla - Miranda - Caringbah,14
+Parramatta,Dapto - Port Kembla,54
+Parramatta,Dapto - Port Kembla,89
+Parramatta,Dural - Wisemans Ferry,5
+Parramatta,Dural - Wisemans Ferry,21
+Parramatta,Eastern Suburbs - North,22
+Parramatta,Eastern Suburbs - North,15
+Parramatta,Eastern Suburbs - South,13
+Parramatta,Fairfield,133
+Parramatta,Fairfield,118
+Parramatta,Gosford,24
+Parramatta,Gosford,158
+Parramatta,Goulburn - Yass,66
+Parramatta,Great Lakes,1
+Parramatta,Hawkesbury,2
+Parramatta,Hawkesbury,21
+Parramatta,Hornsby,37
+Parramatta,Hornsby,51
+Parramatta,Hurstville,26
+Parramatta,Hurstville,22
+Parramatta,Kiama - Shellharbour,1
+Parramatta,Kiama - Shellharbour,77
+Parramatta,Kogarah - Rockdale,21
+Parramatta,Kogarah - Rockdale,13
+Parramatta,Ku-ring-gai,32
+Parramatta,Ku-ring-gai,58
+Parramatta,Lachlan Valley,24
+Parramatta,Lake Macquarie - East,9
+Parramatta,Lake Macquarie - West,6
+Parramatta,Leichhardt,18
+Parramatta,Leichhardt,18
+Parramatta,Liverpool,56
+Parramatta,Liverpool,27
+Parramatta,Lower Hunter,12
+Parramatta,Maitland,16
+Parramatta,Manly,4
+Parramatta,Marrickville - Sydenham - Petersham,20
+Parramatta,Marrickville - Sydenham - Petersham,8
+Parramatta,Merrylands - Guildford,315
+Parramatta,Merrylands - Guildford,88
+Parramatta,Mount Druitt,77
+Parramatta,Mount Druitt,67
+Parramatta,Newcastle,44
+Parramatta,North Sydney - Mosman,16
+Parramatta,North Sydney - Mosman,32
+Parramatta,Orange,41
+Parramatta,Parramatta,52
+Parramatta,Parramatta,98
+Parramatta,Pennant Hills - Epping,14
+Parramatta,Pennant Hills - Epping,37
+Parramatta,Penrith,70
+Parramatta,Penrith,87
+Parramatta,Pittwater,13
+Parramatta,Pittwater,4
+Parramatta,Port Stephens,16
+Parramatta,Queanbeyan,55
+Parramatta,Richmond - Windsor,5
+Parramatta,Richmond - Windsor,24
+Parramatta,Rouse Hill - McGraths Hill,9
+Parramatta,Rouse Hill - McGraths Hill,17
+Parramatta,Ryde - Hunters Hill,37
+Parramatta,Ryde - Hunters Hill,81
+Parramatta,Shoalhaven,1
+Parramatta,Shoalhaven,94
+Parramatta,Snowy Mountains,20
+Parramatta,South Coast,73
+Parramatta,Southern Highlands,1
+Parramatta,Southern Highlands,44
+Parramatta,St Marys,25
+Parramatta,St Marys,38
+Parramatta,Strathfield - Burwood - Ashfield,110
+Parramatta,Strathfield - Burwood - Ashfield,6
+Parramatta,Strathfield - Burwood - Ashfield,63
+Parramatta,Sutherland - Menai - Heathcote,11
+Parramatta,Sutherland - Menai - Heathcote,16
+Parramatta,Sydney Inner City,74
+Parramatta,Sydney Inner City,48
+Parramatta,Tumut - Tumbarumba,19
+Parramatta,Upper Hunter,223
+Parramatta,Wagga Wagga,37
+Parramatta,Warringah,14
+Parramatta,Warringah,37
+Parramatta,Wollondilly,2
+Parramatta,Wollondilly,13
+Parramatta,Wollongong,8
+Parramatta,Wollongong,114
+Parramatta,Wyong,31
+Parramatta,Wyong,148
+Pennant Hills - Epping,Auburn,14
+Pennant Hills - Epping,Bankstown,1
+Pennant Hills - Epping,Baulkham Hills,3
+Pennant Hills - Epping,Blacktown,56
+Pennant Hills - Epping,Botany,5
+Pennant Hills - Epping,Bringelly - Green Valley,3
+Pennant Hills - Epping,Canada Bay,1
+Pennant Hills - Epping,Canterbury,1
+Pennant Hills - Epping,Carlingford,7
+Pennant Hills - Epping,Chatswood - Lane Cove,4
+Pennant Hills - Epping,Dapto - Port Kembla,3
+Pennant Hills - Epping,Eastern Suburbs - North,1
+Pennant Hills - Epping,Fairfield,1
+Pennant Hills - Epping,Gosford,1
+Pennant Hills - Epping,Hornsby,5
+Pennant Hills - Epping,Ku-ring-gai,4
+Pennant Hills - Epping,Liverpool,1
+Pennant Hills - Epping,Marrickville - Sydenham - Petersham,1
+Pennant Hills - Epping,Merrylands - Guildford,1
+Pennant Hills - Epping,Mount Druitt,1
+Pennant Hills - Epping,Newcastle,2
+Pennant Hills - Epping,Pennant Hills - Epping,4
+Pennant Hills - Epping,Penrith,2
+Pennant Hills - Epping,Pittwater,1
+Pennant Hills - Epping,Ryde - Hunters Hill,9
+Pennant Hills - Epping,Strathfield - Burwood - Ashfield,1
+Pennant Hills - Epping,Sydney Inner City,1
+Pennant Hills - Epping,Upper Hunter,2
+Pennant Hills - Epping,Warringah,2
+Pennant Hills - Epping,Wyong,1
+Penrith,Albury,0
+Penrith,Auburn,157
+Penrith,Bankstown,54
+Penrith,Bankstown,9
+Penrith,Bathurst,5
+Penrith,Baulkham Hills,46
+Penrith,Blacktown,113
+Penrith,Blacktown - North,38
+Penrith,Blue Mountains,52
+Penrith,Botany,54
+Penrith,Botany,26
+Penrith,Bourke - Cobar - Coonamble,2
+Penrith,Bringelly - Green Valley,57
+Penrith,Broken Hill and Far West,2
+Penrith,Camden,46
+Penrith,Campbelltown (NSW),51
+Penrith,Canada Bay,16
+Penrith,Canterbury,19
+Penrith,Carlingford,18
+Penrith,Chatswood - Lane Cove,36
+Penrith,Cronulla - Miranda - Caringbah,24
+Penrith,Dapto - Port Kembla,42
+Penrith,Dubbo,7
+Penrith,Dural - Wisemans Ferry,8
+Penrith,Eastern Suburbs - North,12
+Penrith,Eastern Suburbs - South,12
+Penrith,Fairfield,70
+Penrith,Gosford,9
+Penrith,Goulburn - Yass,0
+Penrith,Great Lakes,0
+Penrith,Hawkesbury,15
+Penrith,Hornsby,15
+Penrith,Hurstville,14
+Penrith,Kiama - Shellharbour,2
+Penrith,Kogarah - Rockdale,21
+Penrith,Ku-ring-gai,14
+Penrith,Lake Macquarie - East,0
+Penrith,Lake Macquarie - West,0
+Penrith,Leichhardt,6
+Penrith,Liverpool,39
+Penrith,Lower Hunter,2
+Penrith,Maitland,1
+Penrith,Manly,2
+Penrith,Marrickville - Sydenham - Petersham,14
+Penrith,Merrylands - Guildford,97
+Penrith,Mount Druitt,145
+Penrith,Newcastle,8
+Penrith,North Sydney - Mosman,6
+Penrith,Orange,6
+Penrith,Parramatta,40
+Penrith,Pennant Hills - Epping,5
+Penrith,Penrith,859
+Penrith,Pittwater,6
+Penrith,Port Stephens,0
+Penrith,Richmond - Windsor,40
+Penrith,Rouse Hill - McGraths Hill,18
+Penrith,Ryde - Hunters Hill,39
+Penrith,Shoalhaven,2
+Penrith,Southern Highlands,3
+Penrith,St Marys,76
+Penrith,Strathfield - Burwood - Ashfield,34
+Penrith,Strathfield - Burwood - Ashfield,2
+Penrith,Sutherland - Menai - Heathcote,9
+Penrith,Sydney Inner City,52
+Penrith,Upper Hunter,92
+Penrith,Warringah,32
+Penrith,Wollondilly,17
+Penrith,Wollongong,10
+Penrith,Wyong,8
+Pittwater,Auburn,10
+Pittwater,Bankstown,7
+Pittwater,Baulkham Hills,7
+Pittwater,Blacktown,7
+Pittwater,Botany,28
+Pittwater,Botany,19
+Pittwater,Campbelltown (NSW),2
+Pittwater,Canada Bay,3
+Pittwater,Canterbury,3
+Pittwater,Carlingford,24
+Pittwater,Chatswood - Lane Cove,22
+Pittwater,Cronulla - Miranda - Caringbah,3
+Pittwater,Dapto - Port Kembla,4
+Pittwater,Eastern Suburbs - North,3
+Pittwater,Eastern Suburbs - South,2
+Pittwater,Fairfield,5
+Pittwater,Gosford,3
+Pittwater,Hornsby,6
+Pittwater,Kogarah - Rockdale,2
+Pittwater,Ku-ring-gai,9
+Pittwater,Leichhardt,2
+Pittwater,Liverpool,3
+Pittwater,Manly,3
+Pittwater,Marrickville - Sydenham - Petersham,3
+Pittwater,Merrylands - Guildford,5
+Pittwater,Mount Druitt,3
+Pittwater,Newcastle,3
+Pittwater,North Sydney - Mosman,3
+Pittwater,Pennant Hills - Epping,1
+Pittwater,Penrith,2
+Pittwater,Pittwater,143
+Pittwater,Ryde - Hunters Hill,22
+Pittwater,Strathfield - Burwood - Ashfield,7
+Pittwater,Sydney Inner City,7
+Pittwater,Upper Hunter,15
+Pittwater,Warringah,178
+Pittwater,Wyong,3
+Port Macquarie,Armidale,0
+Port Macquarie,Bourke - Cobar - Coonamble,0
+Port Macquarie,Clarence Valley,0
+Port Macquarie,Dubbo,0
+Port Macquarie,Inverell - Tenterfield,0
+Port Macquarie,Kempsey - Nambucca,3
+Port Macquarie,Lithgow - Mudgee,0
+Port Macquarie,Maitland,0
+Port Macquarie,Orange,3
+Port Macquarie,Richmond Valley - Hinterland,0
+Port Macquarie,Sydney Inner City,1
+Port Macquarie,Tamworth - Gunnedah,0
+Port Macquarie,Taree - Gloucester,0
+Port Macquarie,Upper Hunter,0
+Port Macquarie,Upper Murray exc. Albury,0
+Port Stephens,Auburn,84
+Port Stephens,Bankstown,70
+Port Stephens,Baulkham Hills,7
+Port Stephens,Blacktown,86
+Port Stephens,Blacktown - North,42
+Port Stephens,Blue Mountains,2
+Port Stephens,Botany,59
+Port Stephens,Botany,14
+Port Stephens,Bringelly - Green Valley,4
+Port Stephens,Camden,46
+Port Stephens,Campbelltown (NSW),28
+Port Stephens,Canada Bay,16
+Port Stephens,Canterbury,15
+Port Stephens,Carlingford,4
+Port Stephens,Chatswood - Lane Cove,27
+Port Stephens,Cronulla - Miranda - Caringbah,44
+Port Stephens,Dapto - Port Kembla,26
+Port Stephens,Dural - Wisemans Ferry,4
+Port Stephens,Eastern Suburbs - North,9
+Port Stephens,Eastern Suburbs - South,14
+Port Stephens,Fairfield,13
+Port Stephens,Gosford,11
+Port Stephens,Great Lakes,13
+Port Stephens,Hornsby,3
+Port Stephens,Hurstville,13
+Port Stephens,Kiama - Shellharbour,1
+Port Stephens,Kogarah - Rockdale,35
+Port Stephens,Ku-ring-gai,12
+Port Stephens,Lake Macquarie - East,454
+Port Stephens,Lake Macquarie - West,205
+Port Stephens,Leichhardt,5
+Port Stephens,Lower Hunter,31
+Port Stephens,Maitland,0
+Port Stephens,Manly,4
+Port Stephens,Marrickville - Sydenham - Petersham,31
+Port Stephens,Merrylands - Guildford,44
+Port Stephens,Mount Druitt,55
+Port Stephens,Newcastle,1488
+Port Stephens,North Sydney - Mosman,4
+Port Stephens,Parramatta,49
+Port Stephens,Penrith,40
+Port Stephens,Pittwater,7
+Port Stephens,Port Stephens,100
+Port Stephens,Richmond - Windsor,24
+Port Stephens,Rouse Hill - McGraths Hill,1
+Port Stephens,Ryde - Hunters Hill,1
+Port Stephens,Shoalhaven,0
+Port Stephens,St Marys,10
+Port Stephens,Strathfield - Burwood - Ashfield,42
+Port Stephens,Sutherland - Menai - Heathcote,3
+Port Stephens,Sydney Inner City,163
+Port Stephens,Tweed Valley,223
+Port Stephens,Upper Hunter,124
+Port Stephens,Warringah,75
+Port Stephens,Wollondilly,34
+Port Stephens,Wollongong,1
+Port Stephens,Wyong,5
+Queanbeyan,Albury,0
+Queanbeyan,Clarence Valley,0
+Queanbeyan,Dubbo,0
+Queanbeyan,Goulburn - Yass,4
+Queanbeyan,Griffith - Murrumbidgee (West),0
+Queanbeyan,Inverell - Tenterfield,0
+Queanbeyan,Lachlan Valley,0
+Queanbeyan,Lithgow - Mudgee,0
+Queanbeyan,Lower Murray,0
+Queanbeyan,Maitland,0
+Queanbeyan,Orange,0
+Queanbeyan,Queanbeyan,15
+Queanbeyan,Richmond Valley - Hinterland,0
+Queanbeyan,Shoalhaven,30
+Queanbeyan,Snowy Mountains,0
+Queanbeyan,South Coast,2
+Queanbeyan,Southern Highlands,0
+Queanbeyan,Tamworth - Gunnedah,0
+Queanbeyan,Taree - Gloucester,1
+Queanbeyan,Upper Hunter,0
+Queanbeyan,Upper Murray exc. Albury,0
+Queanbeyan,Wagga Wagga,4
+Richmond - Windsor,Auburn,85
+Richmond - Windsor,Bankstown,16
+Richmond - Windsor,Baulkham Hills,70
+Richmond - Windsor,Blacktown,76
+Richmond - Windsor,Blacktown - North,33
+Richmond - Windsor,Blue Mountains,17
+Richmond - Windsor,Botany,40
+Richmond - Windsor,Botany,2
+Richmond - Windsor,Bringelly - Green Valley,5
+Richmond - Windsor,Camden,5
+Richmond - Windsor,Campbelltown (NSW),14
+Richmond - Windsor,Canada Bay,7
+Richmond - Windsor,Canterbury,7
+Richmond - Windsor,Carlingford,12
+Richmond - Windsor,Chatswood - Lane Cove,24
+Richmond - Windsor,Cronulla - Miranda - Caringbah,4
+Richmond - Windsor,Dapto - Port Kembla,6
+Richmond - Windsor,Dural - Wisemans Ferry,26
+Richmond - Windsor,Eastern Suburbs - North,7
+Richmond - Windsor,Eastern Suburbs - South,3
+Richmond - Windsor,Fairfield,26
+Richmond - Windsor,Gosford,7
+Richmond - Windsor,Griffith - Murrumbidgee (West),3
+Richmond - Windsor,Hawkesbury,50
+Richmond - Windsor,Hornsby,12
+Richmond - Windsor,Hurstville,3
+Richmond - Windsor,Kogarah - Rockdale,3
+Richmond - Windsor,Ku-ring-gai,7
+Richmond - Windsor,Leichhardt,3
+Richmond - Windsor,Liverpool,16
+Richmond - Windsor,Manly,1
+Richmond - Windsor,Marrickville - Sydenham - Petersham,5
+Richmond - Windsor,Merrylands - Guildford,27
+Richmond - Windsor,Mount Druitt,100
+Richmond - Windsor,Newcastle,1
+Richmond - Windsor,North Sydney - Mosman,2
+Richmond - Windsor,Parramatta,11
+Richmond - Windsor,Pennant Hills - Epping,3
+Richmond - Windsor,Penrith,81
+Richmond - Windsor,Pittwater,3
+Richmond - Windsor,Richmond - Windsor,75
+Richmond - Windsor,Rouse Hill - McGraths Hill,53
+Richmond - Windsor,Ryde - Hunters Hill,32
+Richmond - Windsor,St Marys,27
+Richmond - Windsor,Strathfield - Burwood - Ashfield,11
+Richmond - Windsor,Sutherland - Menai - Heathcote,3
+Richmond - Windsor,Sydney Inner City,8
+Richmond - Windsor,Upper Hunter,13
+Richmond - Windsor,Warringah,12
+Richmond - Windsor,Wollondilly,1
+Richmond - Windsor,Wollongong,3
+Richmond - Windsor,Wyong,5
+Richmond Valley - Coastal,Armidale,0
+Richmond Valley - Coastal,Dubbo,0
+Richmond Valley - Coastal,Griffith - Murrumbidgee (West),0
+Richmond Valley - Coastal,Illawarra Catchment Reserve,3
+Richmond Valley - Coastal,Inverell - Tenterfield,0
+Richmond Valley - Coastal,Kempsey - Nambucca,0
+Richmond Valley - Coastal,Richmond Valley - Hinterland,8
+Richmond Valley - Coastal,Tamworth - Gunnedah,1
+Richmond Valley - Coastal,Upper Hunter,0
+Richmond Valley - Hinterland,Albury,0
+Richmond Valley - Hinterland,Armidale,6
+Richmond Valley - Hinterland,Auburn,0
+Richmond Valley - Hinterland,Bankstown,0
+Richmond Valley - Hinterland,Bathurst,0
+Richmond Valley - Hinterland,Baulkham Hills,0
+Richmond Valley - Hinterland,Blacktown,24
+Richmond Valley - Hinterland,Blacktown - North,0
+Richmond Valley - Hinterland,Blue Mountains,0
+Richmond Valley - Hinterland,Botany,0
+Richmond Valley - Hinterland,Bourke - Cobar - Coonamble,0
+Richmond Valley - Hinterland,Bringelly - Green Valley,0
+Richmond Valley - Hinterland,Broken Hill and Far West,0
+Richmond Valley - Hinterland,Camden,0
+Richmond Valley - Hinterland,Campbelltown (NSW),0
+Richmond Valley - Hinterland,Canada Bay,0
+Richmond Valley - Hinterland,Canterbury,0
+Richmond Valley - Hinterland,Carlingford,0
+Richmond Valley - Hinterland,Chatswood - Lane Cove,0
+Richmond Valley - Hinterland,Clarence Valley,6
+Richmond Valley - Hinterland,Coffs Harbour,9
+Richmond Valley - Hinterland,Cronulla - Miranda - Caringbah,0
+Richmond Valley - Hinterland,Dapto - Port Kembla,0
+Richmond Valley - Hinterland,Dubbo,0
+Richmond Valley - Hinterland,Dural - Wisemans Ferry,0
+Richmond Valley - Hinterland,Eastern Suburbs - North,0
+Richmond Valley - Hinterland,Eastern Suburbs - South,0
+Richmond Valley - Hinterland,Fairfield,0
+Richmond Valley - Hinterland,Gosford,0
+Richmond Valley - Hinterland,Goulburn - Yass,0
+Richmond Valley - Hinterland,Great Lakes,0
+Richmond Valley - Hinterland,Griffith - Murrumbidgee (West),0
+Richmond Valley - Hinterland,Hawkesbury,0
+Richmond Valley - Hinterland,Hornsby,0
+Richmond Valley - Hinterland,Hurstville,0
+Richmond Valley - Hinterland,Inverell - Tenterfield,6
+Richmond Valley - Hinterland,Kempsey - Nambucca,5
+Richmond Valley - Hinterland,Kiama - Shellharbour,1
+Richmond Valley - Hinterland,Kogarah - Rockdale,0
+Richmond Valley - Hinterland,Ku-ring-gai,0
+Richmond Valley - Hinterland,Lachlan Valley,6
+Richmond Valley - Hinterland,Lake Macquarie - East,13
+Richmond Valley - Hinterland,Lake Macquarie - West,8
+Richmond Valley - Hinterland,Leichhardt,0
+Richmond Valley - Hinterland,Lithgow - Mudgee,0
+Richmond Valley - Hinterland,Liverpool,0
+Richmond Valley - Hinterland,Lower Hunter,0
+Richmond Valley - Hinterland,Maitland,0
+Richmond Valley - Hinterland,Manly,0
+Richmond Valley - Hinterland,Marrickville - Sydenham - Petersham,0
+Richmond Valley - Hinterland,Merrylands - Guildford,0
+Richmond Valley - Hinterland,Moree - Narrabri,11
+Richmond Valley - Hinterland,Mount Druitt,19
+Richmond Valley - Hinterland,Newcastle,0
+Richmond Valley - Hinterland,North Sydney - Mosman,0
+Richmond Valley - Hinterland,Orange,0
+Richmond Valley - Hinterland,Other Territories,0
+Richmond Valley - Hinterland,Parramatta,0
+Richmond Valley - Hinterland,Pennant Hills - Epping,0
+Richmond Valley - Hinterland,Penrith,0
+Richmond Valley - Hinterland,Pittwater,0
+Richmond Valley - Hinterland,Port Macquarie,8
+Richmond Valley - Hinterland,Port Stephens,8
+Richmond Valley - Hinterland,Queanbeyan,0
+Richmond Valley - Hinterland,Richmond - Windsor,0
+Richmond Valley - Hinterland,Richmond Valley - Coastal,8
+Richmond Valley - Hinterland,Richmond Valley - Hinterland,109
+Richmond Valley - Hinterland,Rouse Hill - McGraths Hill,0
+Richmond Valley - Hinterland,Ryde - Hunters Hill,0
+Richmond Valley - Hinterland,Shoalhaven,0
+Richmond Valley - Hinterland,South Coast,0
+Richmond Valley - Hinterland,Southern Highlands,0
+Richmond Valley - Hinterland,St Marys,0
+Richmond Valley - Hinterland,Strathfield - Burwood - Ashfield,0
+Richmond Valley - Hinterland,Sutherland - Menai - Heathcote,0
+Richmond Valley - Hinterland,Sydney Inner City,27
+Richmond Valley - Hinterland,Tamworth - Gunnedah,16
+Richmond Valley - Hinterland,Taree - Gloucester,5
+Richmond Valley - Hinterland,Tumut - Tumbarumba,0
+Richmond Valley - Hinterland,Tweed Valley,10
+Richmond Valley - Hinterland,Upper Hunter,5
+Richmond Valley - Hinterland,Upper Murray exc. Albury,0
+Richmond Valley - Hinterland,Wagga Wagga,0
+Richmond Valley - Hinterland,Warringah,0
+Richmond Valley - Hinterland,Wollondilly,0
+Richmond Valley - Hinterland,Wollongong,0
+Richmond Valley - Hinterland,Wyong,11
+Rouse Hill - McGraths Hill,Auburn,19
+Rouse Hill - McGraths Hill,Bankstown,6
+Rouse Hill - McGraths Hill,Baulkham Hills,21
+Rouse Hill - McGraths Hill,Blacktown,35
+Rouse Hill - McGraths Hill,Blacktown - North,25
+Rouse Hill - McGraths Hill,Blue Mountains,1
+Rouse Hill - McGraths Hill,Blue Mountains - South,1
+Rouse Hill - McGraths Hill,Botany,15
+Rouse Hill - McGraths Hill,Bringelly - Green Valley,9
+Rouse Hill - McGraths Hill,Camden,1
+Rouse Hill - McGraths Hill,Campbelltown (NSW),4
+Rouse Hill - McGraths Hill,Canada Bay,4
+Rouse Hill - McGraths Hill,Canterbury,2
+Rouse Hill - McGraths Hill,Carlingford,13
+Rouse Hill - McGraths Hill,Chatswood - Lane Cove,8
+Rouse Hill - McGraths Hill,Cronulla - Miranda - Caringbah,2
+Rouse Hill - McGraths Hill,Dapto - Port Kembla,5
+Rouse Hill - McGraths Hill,Dural - Wisemans Ferry,5
+Rouse Hill - McGraths Hill,Eastern Suburbs - North,3
+Rouse Hill - McGraths Hill,Eastern Suburbs - South,1
+Rouse Hill - McGraths Hill,Fairfield,15
+Rouse Hill - McGraths Hill,Gosford,3
+Rouse Hill - McGraths Hill,Hawkesbury,7
+Rouse Hill - McGraths Hill,Hornsby,4
+Rouse Hill - McGraths Hill,Hurstville,1
+Rouse Hill - McGraths Hill,Ku-ring-gai,3
+Rouse Hill - McGraths Hill,Liverpool,15
+Rouse Hill - McGraths Hill,Marrickville - Sydenham - Petersham,2
+Rouse Hill - McGraths Hill,Merrylands - Guildford,18
+Rouse Hill - McGraths Hill,Migratory - Offshore - Shipping (NSW),12
+Rouse Hill - McGraths Hill,Mount Druitt,29
+Rouse Hill - McGraths Hill,Newcastle,1
+Rouse Hill - McGraths Hill,Other Territories,2
+Rouse Hill - McGraths Hill,Parramatta,10
+Rouse Hill - McGraths Hill,Penrith,14
+Rouse Hill - McGraths Hill,Pittwater,1
+Rouse Hill - McGraths Hill,Richmond - Windsor,32
+Rouse Hill - McGraths Hill,Richmond Valley - Coastal,0
+Rouse Hill - McGraths Hill,Rouse Hill - McGraths Hill,17
+Rouse Hill - McGraths Hill,Ryde - Hunters Hill,17
+Rouse Hill - McGraths Hill,St Marys,11
+Rouse Hill - McGraths Hill,Strathfield - Burwood - Ashfield,4
+Rouse Hill - McGraths Hill,Sutherland - Menai - Heathcote,14
+Rouse Hill - McGraths Hill,Sydney Inner City,2
+Rouse Hill - McGraths Hill,Upper Hunter,15
+Rouse Hill - McGraths Hill,Warringah,4
+Rouse Hill - McGraths Hill,Wyong,1
+Ryde - Hunters Hill,Auburn,360
+Ryde - Hunters Hill,Bankstown,16
+Ryde - Hunters Hill,Baulkham Hills,9
+Ryde - Hunters Hill,Blacktown,10
+Ryde - Hunters Hill,Blacktown - North,13
+Ryde - Hunters Hill,Botany,59
+Ryde - Hunters Hill,Botany,13
+Ryde - Hunters Hill,Bringelly - Green Valley,0
+Ryde - Hunters Hill,Campbelltown (NSW),4
+Ryde - Hunters Hill,Canada Bay,27
+Ryde - Hunters Hill,Canterbury,7
+Ryde - Hunters Hill,Carlingford,32
+Ryde - Hunters Hill,Chatswood - Lane Cove,44
+Ryde - Hunters Hill,Cronulla - Miranda - Caringbah,2
+Ryde - Hunters Hill,Dapto - Port Kembla,17
+Ryde - Hunters Hill,Dural - Wisemans Ferry,1
+Ryde - Hunters Hill,Eastern Suburbs - North,9
+Ryde - Hunters Hill,Eastern Suburbs - South,2
+Ryde - Hunters Hill,Fairfield,8
+Ryde - Hunters Hill,Gosford,2
+Ryde - Hunters Hill,Hornsby,5
+Ryde - Hunters Hill,Hurstville,2
+Ryde - Hunters Hill,Kogarah - Rockdale,2
+Ryde - Hunters Hill,Ku-ring-gai,9
+Ryde - Hunters Hill,Leichhardt,11
+Ryde - Hunters Hill,Liverpool,3
+Ryde - Hunters Hill,Marrickville - Sydenham - Petersham,9
+Ryde - Hunters Hill,Merrylands - Guildford,52
+Ryde - Hunters Hill,Mount Druitt,2
+Ryde - Hunters Hill,Newcastle,7
+Ryde - Hunters Hill,North Sydney - Mosman,2
+Ryde - Hunters Hill,Pennant Hills - Epping,3
+Ryde - Hunters Hill,Penrith,2
+Ryde - Hunters Hill,Pittwater,2
+Ryde - Hunters Hill,Ryde - Hunters Hill,666
+Ryde - Hunters Hill,St Marys,1
+Ryde - Hunters Hill,Strathfield - Burwood - Ashfield,31
+Ryde - Hunters Hill,Sydney Inner City,26
+Ryde - Hunters Hill,Upper Hunter,56
+Ryde - Hunters Hill,Warringah,10
+Shoalhaven,Blue Mountains,0
+Shoalhaven,Botany,84
+Shoalhaven,Botany,52
+Shoalhaven,Campbelltown (NSW),28
+Shoalhaven,Cronulla - Miranda - Caringbah,0
+Shoalhaven,Dapto - Port Kembla,865
+Shoalhaven,Dubbo,0
+Shoalhaven,Gosford,5
+Shoalhaven,Goulburn - Yass,0
+Shoalhaven,Great Lakes,0
+Shoalhaven,Hawkesbury,0
+Shoalhaven,Kiama - Shellharbour,13
+Shoalhaven,Lake Macquarie - East,0
+Shoalhaven,Lake Macquarie - West,0
+Shoalhaven,Lithgow - Mudgee,0
+Shoalhaven,Lower Hunter,0
+Shoalhaven,Maitland,0
+Shoalhaven,Merrylands - Guildford,31
+Shoalhaven,Newcastle,3
+Shoalhaven,Pittwater,0
+Shoalhaven,Port Stephens,0
+Shoalhaven,Richmond Valley - Hinterland,0
+Shoalhaven,Shoalhaven,450
+Shoalhaven,South Coast,1
+Shoalhaven,Southern Highlands,9
+Shoalhaven,Sutherland - Menai - Heathcote,0
+Shoalhaven,Sydney Inner City,4
+Shoalhaven,Tamworth - Gunnedah,0
+Shoalhaven,Upper Hunter,27
+Shoalhaven,Wagga Wagga,0
+Shoalhaven,Wollondilly,0
+Shoalhaven,Wollongong,1
+Shoalhaven,Wyong,4
+Snowy Mountains,Albury,0
+Snowy Mountains,Armidale,0
+Snowy Mountains,Auburn,0
+Snowy Mountains,Bankstown,0
+Snowy Mountains,Bathurst,0
+Snowy Mountains,Baulkham Hills,0
+Snowy Mountains,Blacktown,0
+Snowy Mountains,Blacktown - North,0
+Snowy Mountains,Blue Mountains,0
+Snowy Mountains,Botany,0
+Snowy Mountains,Botany,4
+Snowy Mountains,Bourke - Cobar - Coonamble,0
+Snowy Mountains,Bringelly - Green Valley,0
+Snowy Mountains,Broken Hill and Far West,0
+Snowy Mountains,Camden,0
+Snowy Mountains,Campbelltown (NSW),0
+Snowy Mountains,Canada Bay,0
+Snowy Mountains,Canterbury,0
+Snowy Mountains,Carlingford,0
+Snowy Mountains,Chatswood - Lane Cove,0
+Snowy Mountains,Clarence Valley,0
+Snowy Mountains,Coffs Harbour,0
+Snowy Mountains,Cronulla - Miranda - Caringbah,0
+Snowy Mountains,Dapto - Port Kembla,0
+Snowy Mountains,Dubbo,0
+Snowy Mountains,Dural - Wisemans Ferry,0
+Snowy Mountains,Eastern Suburbs - North,0
+Snowy Mountains,Eastern Suburbs - South,0
+Snowy Mountains,Fairfield,0
+Snowy Mountains,Gosford,0
+Snowy Mountains,Goulburn - Yass,5
+Snowy Mountains,Griffith - Murrumbidgee (West),0
+Snowy Mountains,Hawkesbury,0
+Snowy Mountains,Hornsby,0
+Snowy Mountains,Hurstville,0
+Snowy Mountains,Inverell - Tenterfield,0
+Snowy Mountains,Kiama - Shellharbour,0
+Snowy Mountains,Kogarah - Rockdale,0
+Snowy Mountains,Ku-ring-gai,0
+Snowy Mountains,Lachlan Valley,0
+Snowy Mountains,Lake Macquarie - East,0
+Snowy Mountains,Lake Macquarie - West,0
+Snowy Mountains,Leichhardt,0
+Snowy Mountains,Lithgow - Mudgee,0
+Snowy Mountains,Liverpool,0
+Snowy Mountains,Lower Hunter,0
+Snowy Mountains,Lower Murray,0
+Snowy Mountains,Maitland,0
+Snowy Mountains,Manly,0
+Snowy Mountains,Marrickville - Sydenham - Petersham,0
+Snowy Mountains,Merrylands - Guildford,0
+Snowy Mountains,Moree - Narrabri,0
+Snowy Mountains,Mount Druitt,1
+Snowy Mountains,Newcastle,0
+Snowy Mountains,North Sydney - Mosman,0
+Snowy Mountains,Orange,0
+Snowy Mountains,Parramatta,0
+Snowy Mountains,Pennant Hills - Epping,0
+Snowy Mountains,Penrith,0
+Snowy Mountains,Pittwater,0
+Snowy Mountains,Port Stephens,0
+Snowy Mountains,Queanbeyan,0
+Snowy Mountains,Richmond - Windsor,0
+Snowy Mountains,Richmond Valley - Hinterland,0
+Snowy Mountains,Rouse Hill - McGraths Hill,0
+Snowy Mountains,Ryde - Hunters Hill,0
+Snowy Mountains,Shoalhaven,1
+Snowy Mountains,Snowy Mountains,115
+Snowy Mountains,Snowy Mountains,276
+Snowy Mountains,South Coast,201
+Snowy Mountains,Southern Highlands,0
+Snowy Mountains,St Marys,0
+Snowy Mountains,Strathfield - Burwood - Ashfield,0
+Snowy Mountains,Sutherland - Menai - Heathcote,0
+Snowy Mountains,Sydney Inner City,65
+Snowy Mountains,Tamworth - Gunnedah,0
+Snowy Mountains,Taree - Gloucester,0
+Snowy Mountains,Tumut - Tumbarumba,260
+Snowy Mountains,Tumut - Tumbarumba,163
+Snowy Mountains,Tweed Valley,0
+Snowy Mountains,Upper Hunter,0
+Snowy Mountains,Upper Murray exc. Albury,0
+Snowy Mountains,Wagga Wagga,8
+Snowy Mountains,Warringah,0
+Snowy Mountains,Wollondilly,0
+Snowy Mountains,Wollongong,0
+Snowy Mountains,Wyong,0
+South Coast,Albury,1
+South Coast,Armidale,1
+South Coast,Auburn,4
+South Coast,Bankstown,2
+South Coast,Baulkham Hills,2
+South Coast,Blacktown,1
+South Coast,Blacktown - North,2
+South Coast,Blue Mountains,2
+South Coast,Blue Mountains - South,0
+South Coast,Botany,1
+South Coast,Bourke - Cobar - Coonamble,0
+South Coast,Bringelly - Green Valley,1
+South Coast,Camden,0
+South Coast,Campbelltown (NSW),2
+South Coast,Canada Bay,2
+South Coast,Canterbury,2
+South Coast,Carlingford,1
+South Coast,Chatswood - Lane Cove,2
+South Coast,Cronulla - Miranda - Caringbah,1
+South Coast,Dapto - Port Kembla,1
+South Coast,Dubbo,0
+South Coast,Dural - Wisemans Ferry,2
+South Coast,Eastern Suburbs - North,1
+South Coast,Eastern Suburbs - South,2
+South Coast,Fairfield,3
+South Coast,Gosford,2
+South Coast,Goulburn - Yass,7
+South Coast,Griffith - Murrumbidgee (West),0
+South Coast,Hawkesbury,0
+South Coast,Hornsby,1
+South Coast,Hurstville,6
+South Coast,Inverell - Tenterfield,0
+South Coast,Kiama - Shellharbour,1
+South Coast,Kogarah - Rockdale,2
+South Coast,Ku-ring-gai,1
+South Coast,Lachlan Valley,0
+South Coast,Lake Macquarie - East,2
+South Coast,Lake Macquarie - West,0
+South Coast,Leichhardt,2
+South Coast,Lithgow - Mudgee,0
+South Coast,Liverpool,1
+South Coast,Lord Howe Island,0
+South Coast,Lower Hunter,1
+South Coast,Lower Murray,5
+South Coast,Maitland,1
+South Coast,Manly,0
+South Coast,Marrickville - Sydenham - Petersham,0
+South Coast,Merrylands - Guildford,2
+South Coast,Migratory - Offshore - Shipping (NSW),0
+South Coast,Mount Druitt,1
+South Coast,Newcastle,2
+South Coast,North Sydney - Mosman,1
+South Coast,Orange,0
+South Coast,Other Territories,0
+South Coast,Parramatta,2
+South Coast,Pennant Hills - Epping,0
+South Coast,Penrith,2
+South Coast,Pittwater,0
+South Coast,Port Macquarie,0
+South Coast,Queanbeyan,6
+South Coast,Richmond - Windsor,1
+South Coast,Richmond Valley - Coastal,0
+South Coast,Richmond Valley - Hinterland,1
+South Coast,Rouse Hill - McGraths Hill,0
+South Coast,Ryde - Hunters Hill,1
+South Coast,Shoalhaven,2
+South Coast,Snowy Mountains,2
+South Coast,South Coast,367
+South Coast,Southern Highlands,0
+South Coast,St Marys,0
+South Coast,Strathfield - Burwood - Ashfield,2
+South Coast,Sutherland - Menai - Heathcote,2
+South Coast,Sydney Inner City,3
+South Coast,Tamworth - Gunnedah,0
+South Coast,Taree - Gloucester,1
+South Coast,Tumut - Tumbarumba,2
+South Coast,Tweed Valley,2
+South Coast,Upper Hunter,0
+South Coast,Upper Murray exc. Albury,3
+South Coast,Wagga Wagga,0
+South Coast,Warringah,3
+South Coast,Wollondilly,0
+South Coast,Wollongong,1
+South Coast,Wyong,2
+Southern Highlands,Albury,0
+Southern Highlands,Armidale,0
+Southern Highlands,Auburn,72
+Southern Highlands,Bankstown,14
+Southern Highlands,Baulkham Hills,5
+Southern Highlands,Blacktown,14
+Southern Highlands,Blacktown - North,6
+Southern Highlands,Blue Mountains,1
+Southern Highlands,Botany,21
+Southern Highlands,Botany,0
+Southern Highlands,Botany,18
+Southern Highlands,Bourke - Cobar - Coonamble,0
+Southern Highlands,Bringelly - Green Valley,2
+Southern Highlands,Broken Hill and Far West,0
+Southern Highlands,Camden,78
+Southern Highlands,Campbelltown (NSW),24
+Southern Highlands,Canada Bay,2
+Southern Highlands,Canterbury,2
+Southern Highlands,Carlingford,2
+Southern Highlands,Chatswood - Lane Cove,11
+Southern Highlands,Cronulla - Miranda - Caringbah,6
+Southern Highlands,Dapto - Port Kembla,953
+Southern Highlands,Dubbo,0
+Southern Highlands,Dural - Wisemans Ferry,0
+Southern Highlands,Eastern Suburbs - North,0
+Southern Highlands,Eastern Suburbs - South,1
+Southern Highlands,Fairfield,11
+Southern Highlands,Gosford,12
+Southern Highlands,Goulburn - Yass,0
+Southern Highlands,Griffith - Murrumbidgee (West),0
+Southern Highlands,Hawkesbury,0
+Southern Highlands,Hornsby,10
+Southern Highlands,Hurstville,1
+Southern Highlands,Illawarra Catchment Reserve,0
+Southern Highlands,Inverell - Tenterfield,0
+Southern Highlands,Kempsey - Nambucca,0
+Southern Highlands,Kiama - Shellharbour,26
+Southern Highlands,Kogarah - Rockdale,5
+Southern Highlands,Ku-ring-gai,2
+Southern Highlands,Lachlan Valley,0
+Southern Highlands,Lake Macquarie - East,4
+Southern Highlands,Lake Macquarie - West,1
+Southern Highlands,Leichhardt,0
+Southern Highlands,Lithgow - Mudgee,0
+Southern Highlands,Liverpool,15
+Southern Highlands,Lower Hunter,3
+Southern Highlands,Lower Murray,0
+Southern Highlands,Maitland,2
+Southern Highlands,Manly,0
+Southern Highlands,Marrickville - Sydenham - Petersham,8
+Southern Highlands,Merrylands - Guildford,560
+Southern Highlands,Merrylands - Guildford,31
+Southern Highlands,Moree - Narrabri,3
+Southern Highlands,Mount Druitt,8
+Southern Highlands,Newcastle,210
+Southern Highlands,Newcastle,10
+Southern Highlands,North Sydney - Mosman,2
+Southern Highlands,Orange,0
+Southern Highlands,Parramatta,11
+Southern Highlands,Pennant Hills - Epping,0
+Southern Highlands,Penrith,114
+Southern Highlands,Pittwater,0
+Southern Highlands,Queanbeyan,0
+Southern Highlands,Richmond - Windsor,3
+Southern Highlands,Richmond Valley - Hinterland,0
+Southern Highlands,Rouse Hill - McGraths Hill,0
+Southern Highlands,Ryde - Hunters Hill,6
+Southern Highlands,Shoalhaven,28
+Southern Highlands,Snowy Mountains,0
+Southern Highlands,South Coast,0
+Southern Highlands,Southern Highlands,120
+Southern Highlands,St Marys,3
+Southern Highlands,Strathfield - Burwood - Ashfield,6
+Southern Highlands,Sutherland - Menai - Heathcote,1
+Southern Highlands,Sydney Inner City,24
+Southern Highlands,Tamworth - Gunnedah,0
+Southern Highlands,Taree - Gloucester,1
+Southern Highlands,Upper Hunter,33
+Southern Highlands,Upper Murray exc. Albury,0
+Southern Highlands,Wagga Wagga,1
+Southern Highlands,Warringah,10
+Southern Highlands,Wollondilly,14
+Southern Highlands,Wollongong,6
+Southern Highlands,Wyong,12
+St Marys,Albury,0
+St Marys,Auburn,136
+St Marys,Bankstown,97
+St Marys,Bankstown,7
+St Marys,Baulkham Hills,70
+St Marys,Blacktown,118
+St Marys,Blacktown - North,26
+St Marys,Blue Mountains,12
+St Marys,Botany,57
+St Marys,Botany,33
+St Marys,Bringelly - Green Valley,34
+St Marys,Camden,22
+St Marys,Campbelltown (NSW),50
+St Marys,Canada Bay,19
+St Marys,Canterbury,23
+St Marys,Carlingford,26
+St Marys,Chatswood - Lane Cove,38
+St Marys,Cronulla - Miranda - Caringbah,13
+St Marys,Dapto - Port Kembla,37
+St Marys,Dural - Wisemans Ferry,10
+St Marys,Eastern Suburbs - North,15
+St Marys,Eastern Suburbs - South,12
+St Marys,Fairfield,74
+St Marys,Gosford,14
+St Marys,Goulburn - Yass,0
+St Marys,Great Lakes,0
+St Marys,Hawkesbury,6
+St Marys,Hornsby,16
+St Marys,Hurstville,13
+St Marys,Illawarra Catchment Reserve,0
+St Marys,Kiama - Shellharbour,4
+St Marys,Kogarah - Rockdale,15
+St Marys,Ku-ring-gai,16
+St Marys,Lake Macquarie - East,0
+St Marys,Lake Macquarie - West,0
+St Marys,Leichhardt,8
+St Marys,Liverpool,51
+St Marys,Lower Hunter,4
+St Marys,Maitland,3
+St Marys,Manly,2
+St Marys,Marrickville - Sydenham - Petersham,10
+St Marys,Merrylands - Guildford,73
+St Marys,Mount Druitt,189
+St Marys,Newcastle,14
+St Marys,North Sydney - Mosman,7
+St Marys,Parramatta,8
+St Marys,Pennant Hills - Epping,6
+St Marys,Penrith,197
+St Marys,Pittwater,7
+St Marys,Port Stephens,0
+St Marys,Richmond - Windsor,15
+St Marys,Rouse Hill - McGraths Hill,15
+St Marys,Ryde - Hunters Hill,51
+St Marys,Shoalhaven,4
+St Marys,Southern Highlands,2
+St Marys,St Marys,139
+St Marys,Strathfield - Burwood - Ashfield,53
+St Marys,Strathfield - Burwood - Ashfield,1
+St Marys,Sutherland - Menai - Heathcote,12
+St Marys,Sydney Inner City,23
+St Marys,Upper Hunter,28
+St Marys,Warringah,24
+St Marys,Wollondilly,5
+St Marys,Wollongong,10
+St Marys,Wyong,13
+Strathfield - Burwood - Ashfield,Albury,7
+Strathfield - Burwood - Ashfield,Armidale,2
+Strathfield - Burwood - Ashfield,Auburn,195
+Strathfield - Burwood - Ashfield,Auburn,6
+Strathfield - Burwood - Ashfield,Bankstown,250
+Strathfield - Burwood - Ashfield,Bankstown,13
+Strathfield - Burwood - Ashfield,Bathurst,4
+Strathfield - Burwood - Ashfield,Baulkham Hills,34
+Strathfield - Burwood - Ashfield,Baulkham Hills,1
+Strathfield - Burwood - Ashfield,Blacktown,61
+Strathfield - Burwood - Ashfield,Blacktown,6
+Strathfield - Burwood - Ashfield,Blacktown - North,4
+Strathfield - Burwood - Ashfield,Blue Mountains,1
+Strathfield - Burwood - Ashfield,Botany,191
+Strathfield - Burwood - Ashfield,Botany,140
+Strathfield - Burwood - Ashfield,Botany,94
+Strathfield - Burwood - Ashfield,Bourke - Cobar - Coonamble,1
+Strathfield - Burwood - Ashfield,Bringelly - Green Valley,37
+Strathfield - Burwood - Ashfield,Bringelly - Green Valley,0
+Strathfield - Burwood - Ashfield,Broken Hill and Far West,2
+Strathfield - Burwood - Ashfield,Camden,11
+Strathfield - Burwood - Ashfield,Campbelltown (NSW),24
+Strathfield - Burwood - Ashfield,Campbelltown (NSW),7
+Strathfield - Burwood - Ashfield,Canada Bay,53
+Strathfield - Burwood - Ashfield,Canterbury,24
+Strathfield - Burwood - Ashfield,Carlingford,38
+Strathfield - Burwood - Ashfield,Chatswood - Lane Cove,22
+Strathfield - Burwood - Ashfield,Chatswood - Lane Cove,2
+Strathfield - Burwood - Ashfield,Clarence Valley,0
+Strathfield - Burwood - Ashfield,Coffs Harbour,1
+Strathfield - Burwood - Ashfield,Cronulla - Miranda - Caringbah,18
+Strathfield - Burwood - Ashfield,Dapto - Port Kembla,21
+Strathfield - Burwood - Ashfield,Dubbo,1
+Strathfield - Burwood - Ashfield,Dural - Wisemans Ferry,8
+Strathfield - Burwood - Ashfield,Eastern Suburbs - North,28
+Strathfield - Burwood - Ashfield,Eastern Suburbs - South,13
+Strathfield - Burwood - Ashfield,Fairfield,68
+Strathfield - Burwood - Ashfield,Fairfield,13
+Strathfield - Burwood - Ashfield,Gosford,11
+Strathfield - Burwood - Ashfield,Goulburn - Yass,70
+Strathfield - Burwood - Ashfield,Griffith - Murrumbidgee (West),6
+Strathfield - Burwood - Ashfield,Hawkesbury,4
+Strathfield - Burwood - Ashfield,Hornsby,12
+Strathfield - Burwood - Ashfield,Hurstville,11
+Strathfield - Burwood - Ashfield,Illawarra Catchment Reserve,3
+Strathfield - Burwood - Ashfield,Inverell - Tenterfield,6
+Strathfield - Burwood - Ashfield,Kempsey - Nambucca,0
+Strathfield - Burwood - Ashfield,Kiama - Shellharbour,7
+Strathfield - Burwood - Ashfield,Kogarah - Rockdale,17
+Strathfield - Burwood - Ashfield,Ku-ring-gai,19
+Strathfield - Burwood - Ashfield,Lake Macquarie - East,6
+Strathfield - Burwood - Ashfield,Lake Macquarie - West,5
+Strathfield - Burwood - Ashfield,Leichhardt,74
+Strathfield - Burwood - Ashfield,Lithgow - Mudgee,2
+Strathfield - Burwood - Ashfield,Liverpool,53
+Strathfield - Burwood - Ashfield,Liverpool,7
+Strathfield - Burwood - Ashfield,Lord Howe Island,3
+Strathfield - Burwood - Ashfield,Lower Hunter,16
+Strathfield - Burwood - Ashfield,Lower Murray,1
+Strathfield - Burwood - Ashfield,Maitland,11
+Strathfield - Burwood - Ashfield,Manly,8
+Strathfield - Burwood - Ashfield,Marrickville - Sydenham - Petersham,70
+Strathfield - Burwood - Ashfield,Merrylands - Guildford,129
+Strathfield - Burwood - Ashfield,Merrylands - Guildford,10
+Strathfield - Burwood - Ashfield,Moree - Narrabri,4
+Strathfield - Burwood - Ashfield,Mount Druitt,53
+Strathfield - Burwood - Ashfield,Mount Druitt,6
+Strathfield - Burwood - Ashfield,Newcastle,30
+Strathfield - Burwood - Ashfield,North Sydney - Mosman,28
+Strathfield - Burwood - Ashfield,Orange,4
+Strathfield - Burwood - Ashfield,Parramatta,103
+Strathfield - Burwood - Ashfield,Parramatta,6
+Strathfield - Burwood - Ashfield,Pennant Hills - Epping,5
+Strathfield - Burwood - Ashfield,Penrith,13
+Strathfield - Burwood - Ashfield,Penrith,3
+Strathfield - Burwood - Ashfield,Pittwater,10
+Strathfield - Burwood - Ashfield,Port Macquarie,4
+Strathfield - Burwood - Ashfield,Port Stephens,5
+Strathfield - Burwood - Ashfield,Richmond - Windsor,3
+Strathfield - Burwood - Ashfield,Richmond Valley - Coastal,6
+Strathfield - Burwood - Ashfield,Richmond Valley - Hinterland,5
+Strathfield - Burwood - Ashfield,Rouse Hill - McGraths Hill,6
+Strathfield - Burwood - Ashfield,Ryde - Hunters Hill,83
+Strathfield - Burwood - Ashfield,Shoalhaven,5
+Strathfield - Burwood - Ashfield,Snowy Mountains,4
+Strathfield - Burwood - Ashfield,South Coast,7
+Strathfield - Burwood - Ashfield,Southern Highlands,4
+Strathfield - Burwood - Ashfield,St Marys,28
+Strathfield - Burwood - Ashfield,St Marys,2
+Strathfield - Burwood - Ashfield,Strathfield - Burwood - Ashfield,235
+Strathfield - Burwood - Ashfield,Sutherland - Menai - Heathcote,15
+Strathfield - Burwood - Ashfield,Sydney Inner City,53
+Strathfield - Burwood - Ashfield,Sydney Inner City,3
+Strathfield - Burwood - Ashfield,Tamworth - Gunnedah,5
+Strathfield - Burwood - Ashfield,Taree - Gloucester,2
+Strathfield - Burwood - Ashfield,Tumut - Tumbarumba,5
+Strathfield - Burwood - Ashfield,Tweed Valley,7
+Strathfield - Burwood - Ashfield,Upper Hunter,24
+Strathfield - Burwood - Ashfield,Upper Murray exc. Albury,1
+Strathfield - Burwood - Ashfield,Wagga Wagga,6
+Strathfield - Burwood - Ashfield,Warringah,6
+Strathfield - Burwood - Ashfield,Warringah,1
+Strathfield - Burwood - Ashfield,Wollondilly,4
+Strathfield - Burwood - Ashfield,Wollongong,10
+Strathfield - Burwood - Ashfield,Wyong,12
+Sutherland - Menai - Heathcote,Auburn,15
+Sutherland - Menai - Heathcote,Bankstown,124
+Sutherland - Menai - Heathcote,Baulkham Hills,3
+Sutherland - Menai - Heathcote,Blacktown,6
+Sutherland - Menai - Heathcote,Blacktown - North,1
+Sutherland - Menai - Heathcote,Botany,39
+Sutherland - Menai - Heathcote,Botany,61
+Sutherland - Menai - Heathcote,Bringelly - Green Valley,2
+Sutherland - Menai - Heathcote,Camden,2
+Sutherland - Menai - Heathcote,Campbelltown (NSW),7
+Sutherland - Menai - Heathcote,Canada Bay,3
+Sutherland - Menai - Heathcote,Canterbury,14
+Sutherland - Menai - Heathcote,Carlingford,3
+Sutherland - Menai - Heathcote,Chatswood - Lane Cove,9
+Sutherland - Menai - Heathcote,Cronulla - Miranda - Caringbah,58
+Sutherland - Menai - Heathcote,Dapto - Port Kembla,20
+Sutherland - Menai - Heathcote,Eastern Suburbs - North,3
+Sutherland - Menai - Heathcote,Eastern Suburbs - South,4
+Sutherland - Menai - Heathcote,Fairfield,13
+Sutherland - Menai - Heathcote,Gosford,1
+Sutherland - Menai - Heathcote,Hornsby,2
+Sutherland - Menai - Heathcote,Hurstville,13
+Sutherland - Menai - Heathcote,Kogarah - Rockdale,11
+Sutherland - Menai - Heathcote,Ku-ring-gai,2
+Sutherland - Menai - Heathcote,Leichhardt,3
+Sutherland - Menai - Heathcote,Liverpool,15
+Sutherland - Menai - Heathcote,Marrickville - Sydenham - Petersham,7
+Sutherland - Menai - Heathcote,Merrylands - Guildford,11
+Sutherland - Menai - Heathcote,Mount Druitt,3
+Sutherland - Menai - Heathcote,Newcastle,2
+Sutherland - Menai - Heathcote,Penrith,3
+Sutherland - Menai - Heathcote,Pittwater,1
+Sutherland - Menai - Heathcote,Ryde - Hunters Hill,15
+Sutherland - Menai - Heathcote,St Marys,1
+Sutherland - Menai - Heathcote,Strathfield - Burwood - Ashfield,16
+Sutherland - Menai - Heathcote,Sutherland - Menai - Heathcote,73
+Sutherland - Menai - Heathcote,Sydney Inner City,6
+Sutherland - Menai - Heathcote,Upper Hunter,8
+Sutherland - Menai - Heathcote,Warringah,4
+Sutherland - Menai - Heathcote,Wollondilly,1
+Sutherland - Menai - Heathcote,Wollongong,5
+Sutherland - Menai - Heathcote,Wyong,1
+Sydney Inner City,Auburn,276
+Sydney Inner City,Bankstown,76
+Sydney Inner City,Bankstown,9
+Sydney Inner City,Baulkham Hills,9
+Sydney Inner City,Blacktown,4
+Sydney Inner City,Blacktown - North,0
+Sydney Inner City,Blue Mountains,0
+Sydney Inner City,Botany,212
+Sydney Inner City,Botany,41
+Sydney Inner City,Bringelly - Green Valley,11
+Sydney Inner City,Camden,4
+Sydney Inner City,Campbelltown (NSW),1
+Sydney Inner City,Canada Bay,39
+Sydney Inner City,Canterbury,34
+Sydney Inner City,Carlingford,15
+Sydney Inner City,Chatswood - Lane Cove,72
+Sydney Inner City,Cronulla - Miranda - Caringbah,46
+Sydney Inner City,Dapto - Port Kembla,24
+Sydney Inner City,Dural - Wisemans Ferry,0
+Sydney Inner City,Eastern Suburbs - North,51
+Sydney Inner City,Eastern Suburbs - South,44
+Sydney Inner City,Fairfield,4
+Sydney Inner City,Gosford,0
+Sydney Inner City,Great Lakes,0
+Sydney Inner City,Hawkesbury,0
+Sydney Inner City,Hornsby,4
+Sydney Inner City,Hurstville,34
+Sydney Inner City,Kiama - Shellharbour,0
+Sydney Inner City,Kogarah - Rockdale,52
+Sydney Inner City,Ku-ring-gai,19
+Sydney Inner City,Lake Macquarie - East,0
+Sydney Inner City,Lake Macquarie - West,0
+Sydney Inner City,Leichhardt,414
+Sydney Inner City,Liverpool,5
+Sydney Inner City,Lower Hunter,0
+Sydney Inner City,Maitland,0
+Sydney Inner City,Manly,15
+Sydney Inner City,Marrickville - Sydenham - Petersham,211
+Sydney Inner City,Merrylands - Guildford,178
+Sydney Inner City,Mount Druitt,1
+Sydney Inner City,Newcastle,6
+Sydney Inner City,North Sydney - Mosman,33
+Sydney Inner City,Parramatta,6
+Sydney Inner City,Pennant Hills - Epping,11
+Sydney Inner City,Penrith,14
+Sydney Inner City,Pittwater,1
+Sydney Inner City,Port Stephens,0
+Sydney Inner City,Richmond - Windsor,0
+Sydney Inner City,Rouse Hill - McGraths Hill,0
+Sydney Inner City,Ryde - Hunters Hill,88
+Sydney Inner City,Shoalhaven,0
+Sydney Inner City,Southern Highlands,0
+Sydney Inner City,St Marys,0
+Sydney Inner City,Strathfield - Burwood - Ashfield,64
+Sydney Inner City,Strathfield - Burwood - Ashfield,2
+Sydney Inner City,Sutherland - Menai - Heathcote,29
+Sydney Inner City,Sydney Inner City,950
+Sydney Inner City,Upper Hunter,46
+Sydney Inner City,Warringah,74
+Sydney Inner City,Wollondilly,0
+Sydney Inner City,Wollongong,0
+Sydney Inner City,Wyong,0
+Tamworth - Gunnedah,Albury,0
+Tamworth - Gunnedah,Armidale,10
+Tamworth - Gunnedah,Auburn,0
+Tamworth - Gunnedah,Bankstown,0
+Tamworth - Gunnedah,Bathurst,0
+Tamworth - Gunnedah,Baulkham Hills,0
+Tamworth - Gunnedah,Blacktown,16
+Tamworth - Gunnedah,Blacktown - North,0
+Tamworth - Gunnedah,Blue Mountains,0
+Tamworth - Gunnedah,Botany,0
+Tamworth - Gunnedah,Botany,28
+Tamworth - Gunnedah,Botany,34
+Tamworth - Gunnedah,Bourke - Cobar - Coonamble,7
+Tamworth - Gunnedah,Bringelly - Green Valley,0
+Tamworth - Gunnedah,Broken Hill and Far West,0
+Tamworth - Gunnedah,Camden,0
+Tamworth - Gunnedah,Campbelltown (NSW),0
+Tamworth - Gunnedah,Canada Bay,0
+Tamworth - Gunnedah,Canterbury,0
+Tamworth - Gunnedah,Carlingford,0
+Tamworth - Gunnedah,Chatswood - Lane Cove,0
+Tamworth - Gunnedah,Clarence Valley,1
+Tamworth - Gunnedah,Coffs Harbour,0
+Tamworth - Gunnedah,Cronulla - Miranda - Caringbah,0
+Tamworth - Gunnedah,Dapto - Port Kembla,0
+Tamworth - Gunnedah,Dubbo,7
+Tamworth - Gunnedah,Dural - Wisemans Ferry,0
+Tamworth - Gunnedah,Eastern Suburbs - North,0
+Tamworth - Gunnedah,Eastern Suburbs - South,0
+Tamworth - Gunnedah,Fairfield,0
+Tamworth - Gunnedah,Gosford,17
+Tamworth - Gunnedah,Goulburn - Yass,2
+Tamworth - Gunnedah,Great Lakes,10
+Tamworth - Gunnedah,Griffith - Murrumbidgee (West),0
+Tamworth - Gunnedah,Hawkesbury,0
+Tamworth - Gunnedah,Hornsby,0
+Tamworth - Gunnedah,Hurstville,0
+Tamworth - Gunnedah,Inverell - Tenterfield,7
+Tamworth - Gunnedah,Kempsey - Nambucca,9
+Tamworth - Gunnedah,Kiama - Shellharbour,0
+Tamworth - Gunnedah,Kogarah - Rockdale,0
+Tamworth - Gunnedah,Ku-ring-gai,0
+Tamworth - Gunnedah,Lachlan Valley,0
+Tamworth - Gunnedah,Lake Macquarie - East,0
+Tamworth - Gunnedah,Lake Macquarie - West,0
+Tamworth - Gunnedah,Leichhardt,0
+Tamworth - Gunnedah,Lithgow - Mudgee,3
+Tamworth - Gunnedah,Liverpool,0
+Tamworth - Gunnedah,Lower Hunter,0
+Tamworth - Gunnedah,Lower Murray,1
+Tamworth - Gunnedah,Maitland,2
+Tamworth - Gunnedah,Manly,0
+Tamworth - Gunnedah,Marrickville - Sydenham - Petersham,0
+Tamworth - Gunnedah,Merrylands - Guildford,0
+Tamworth - Gunnedah,Moree - Narrabri,67
+Tamworth - Gunnedah,Moree - Narrabri,78
+Tamworth - Gunnedah,Mount Druitt,11
+Tamworth - Gunnedah,Newcastle,0
+Tamworth - Gunnedah,Newcastle,10001
+Tamworth - Gunnedah,Newcastle,14
+Tamworth - Gunnedah,North Sydney - Mosman,0
+Tamworth - Gunnedah,Orange,0
+Tamworth - Gunnedah,Penrith,0
+Tamworth - Gunnedah,Pittwater,0
+Tamworth - Gunnedah,Port Macquarie,0
+Tamworth - Gunnedah,Port Stephens,36
+Tamworth - Gunnedah,Queanbeyan,0
+Tamworth - Gunnedah,Richmond - Windsor,0
+Tamworth - Gunnedah,Richmond Valley - Hinterland,38
+Tamworth - Gunnedah,Rouse Hill - McGraths Hill,0
+Tamworth - Gunnedah,Ryde - Hunters Hill,0
+Tamworth - Gunnedah,Shoalhaven,0
+Tamworth - Gunnedah,Snowy Mountains,0
+Tamworth - Gunnedah,South Coast,0
+Tamworth - Gunnedah,Southern Highlands,0
+Tamworth - Gunnedah,St Marys,0
+Tamworth - Gunnedah,Strathfield - Burwood - Ashfield,0
+Tamworth - Gunnedah,Sutherland - Menai - Heathcote,0
+Tamworth - Gunnedah,Sydney Inner City,0
+Tamworth - Gunnedah,Tamworth - Gunnedah,75
+Tamworth - Gunnedah,Tamworth - Gunnedah,652
+Tamworth - Gunnedah,Taree - Gloucester,17
+Tamworth - Gunnedah,Tumut - Tumbarumba,0
+Tamworth - Gunnedah,Tweed Valley,3
+Tamworth - Gunnedah,Upper Hunter,31
+Tamworth - Gunnedah,Upper Murray exc. Albury,0
+Tamworth - Gunnedah,Wagga Wagga,15
+Tamworth - Gunnedah,Warringah,0
+Tamworth - Gunnedah,Wollondilly,0
+Tamworth - Gunnedah,Wollongong,0
+Tamworth - Gunnedah,Wyong,9
+Taree - Gloucester,Armidale,1
+Taree - Gloucester,Bankstown,0
+Taree - Gloucester,Baulkham Hills,0
+Taree - Gloucester,Blacktown,7
+Taree - Gloucester,Blacktown - North,0
+Taree - Gloucester,Blue Mountains - South,2
+Taree - Gloucester,Botany,0
+Taree - Gloucester,Botany,19
+Taree - Gloucester,Bourke - Cobar - Coonamble,0
+Taree - Gloucester,Broken Hill and Far West,0
+Taree - Gloucester,Campbelltown (NSW),0
+Taree - Gloucester,Canterbury,0
+Taree - Gloucester,Chatswood - Lane Cove,0
+Taree - Gloucester,Clarence Valley,0
+Taree - Gloucester,Coffs Harbour,0
+Taree - Gloucester,Cronulla - Miranda - Caringbah,0
+Taree - Gloucester,Dapto - Port Kembla,0
+Taree - Gloucester,Dubbo,0
+Taree - Gloucester,Eastern Suburbs - South,0
+Taree - Gloucester,Fairfield,0
+Taree - Gloucester,Gosford,0
+Taree - Gloucester,Goulburn - Yass,0
+Taree - Gloucester,Griffith - Murrumbidgee (West),0
+Taree - Gloucester,Inverell - Tenterfield,0
+Taree - Gloucester,Kempsey - Nambucca,0
+Taree - Gloucester,Kiama - Shellharbour,0
+Taree - Gloucester,Kogarah - Rockdale,0
+Taree - Gloucester,Ku-ring-gai,0
+Taree - Gloucester,Lachlan Valley,0
+Taree - Gloucester,Lake Macquarie - East,0
+Taree - Gloucester,Lithgow - Mudgee,0
+Taree - Gloucester,Lower Hunter,0
+Taree - Gloucester,Lower Murray,0
+Taree - Gloucester,Maitland,0
+Taree - Gloucester,Marrickville - Sydenham - Petersham,0
+Taree - Gloucester,Merrylands - Guildford,0
+Taree - Gloucester,Moree - Narrabri,0
+Taree - Gloucester,Mount Druitt,5
+Taree - Gloucester,Newcastle,739
+Taree - Gloucester,Orange,0
+Taree - Gloucester,Penrith,0
+Taree - Gloucester,Port Macquarie,0
+Taree - Gloucester,Queanbeyan,0
+Taree - Gloucester,Richmond Valley - Coastal,0
+Taree - Gloucester,Richmond Valley - Hinterland,137
+Taree - Gloucester,Ryde - Hunters Hill,0
+Taree - Gloucester,South Coast,0
+Taree - Gloucester,Southern Highlands,0
+Taree - Gloucester,St Marys,0
+Taree - Gloucester,Strathfield - Burwood - Ashfield,1
+Taree - Gloucester,Sutherland - Menai - Heathcote,0
+Taree - Gloucester,Tamworth - Gunnedah,2
+Taree - Gloucester,Taree - Gloucester,38
+Taree - Gloucester,Tweed Valley,0
+Taree - Gloucester,Upper Hunter,1
+Taree - Gloucester,Wagga Wagga,0
+Taree - Gloucester,Warringah,0
+Taree - Gloucester,Wollongong,0
+Taree - Gloucester,Wyong,3
+Tumut - Tumbarumba,Albury,130
+Tumut - Tumbarumba,Auburn,0
+Tumut - Tumbarumba,Bankstown,0
+Tumut - Tumbarumba,Bathurst,64
+Tumut - Tumbarumba,Baulkham Hills,0
+Tumut - Tumbarumba,Blacktown,4
+Tumut - Tumbarumba,Blacktown - North,0
+Tumut - Tumbarumba,Blue Mountains,0
+Tumut - Tumbarumba,Botany,0
+Tumut - Tumbarumba,Bourke - Cobar - Coonamble,0
+Tumut - Tumbarumba,Bringelly - Green Valley,0
+Tumut - Tumbarumba,Camden,3
+Tumut - Tumbarumba,Campbelltown (NSW),18
+Tumut - Tumbarumba,Canada Bay,0
+Tumut - Tumbarumba,Canterbury,0
+Tumut - Tumbarumba,Carlingford,0
+Tumut - Tumbarumba,Chatswood - Lane Cove,0
+Tumut - Tumbarumba,Cronulla - Miranda - Caringbah,0
+Tumut - Tumbarumba,Dapto - Port Kembla,0
+Tumut - Tumbarumba,Dubbo,0
+Tumut - Tumbarumba,Dural - Wisemans Ferry,0
+Tumut - Tumbarumba,Eastern Suburbs - North,0
+Tumut - Tumbarumba,Eastern Suburbs - South,0
+Tumut - Tumbarumba,Fairfield,0
+Tumut - Tumbarumba,Gosford,0
+Tumut - Tumbarumba,Goulburn - Yass,1
+Tumut - Tumbarumba,Great Lakes,0
+Tumut - Tumbarumba,Griffith - Murrumbidgee (West),0
+Tumut - Tumbarumba,Griffith - Murrumbidgee (West),0
+Tumut - Tumbarumba,Hawkesbury,0
+Tumut - Tumbarumba,Hornsby,0
+Tumut - Tumbarumba,Hurstville,0
+Tumut - Tumbarumba,Kempsey - Nambucca,0
+Tumut - Tumbarumba,Kiama - Shellharbour,0
+Tumut - Tumbarumba,Kogarah - Rockdale,0
+Tumut - Tumbarumba,Ku-ring-gai,0
+Tumut - Tumbarumba,Lachlan Valley,0
+Tumut - Tumbarumba,Lake Macquarie - East,0
+Tumut - Tumbarumba,Lake Macquarie - West,0
+Tumut - Tumbarumba,Leichhardt,0
+Tumut - Tumbarumba,Lithgow - Mudgee,96
+Tumut - Tumbarumba,Liverpool,4
+Tumut - Tumbarumba,Lower Hunter,30
+Tumut - Tumbarumba,Lower Murray,0
+Tumut - Tumbarumba,Maitland,0
+Tumut - Tumbarumba,Manly,0
+Tumut - Tumbarumba,Marrickville - Sydenham - Petersham,0
+Tumut - Tumbarumba,Merrylands - Guildford,2
+Tumut - Tumbarumba,Mount Druitt,10
+Tumut - Tumbarumba,Newcastle,0
+Tumut - Tumbarumba,North Sydney - Mosman,0
+Tumut - Tumbarumba,Parramatta,0
+Tumut - Tumbarumba,Pennant Hills - Epping,0
+Tumut - Tumbarumba,Penrith,0
+Tumut - Tumbarumba,Pittwater,0
+Tumut - Tumbarumba,Port Stephens,0
+Tumut - Tumbarumba,Richmond - Windsor,0
+Tumut - Tumbarumba,Rouse Hill - McGraths Hill,0
+Tumut - Tumbarumba,Ryde - Hunters Hill,0
+Tumut - Tumbarumba,Shoalhaven,0
+Tumut - Tumbarumba,Snowy Mountains,1
+Tumut - Tumbarumba,South Coast,163
+Tumut - Tumbarumba,Southern Highlands,40
+Tumut - Tumbarumba,St Marys,75
+Tumut - Tumbarumba,Strathfield - Burwood - Ashfield,0
+Tumut - Tumbarumba,Sutherland - Menai - Heathcote,0
+Tumut - Tumbarumba,Sydney Inner City,226
+Tumut - Tumbarumba,Tamworth - Gunnedah,0
+Tumut - Tumbarumba,Taree - Gloucester,0
+Tumut - Tumbarumba,Tumut - Tumbarumba,1515
+Tumut - Tumbarumba,Tweed Valley,0
+Tumut - Tumbarumba,Upper Murray exc. Albury,0
+Tumut - Tumbarumba,Wagga Wagga,496
+Tumut - Tumbarumba,Warringah,0
+Tumut - Tumbarumba,Wollondilly,0
+Tumut - Tumbarumba,Wollongong,0
+Tumut - Tumbarumba,Wyong,2
+Tweed Valley,Auburn,0
+Tweed Valley,Bankstown,0
+Tweed Valley,Baulkham Hills,0
+Tweed Valley,Blacktown,0
+Tweed Valley,Blacktown - North,0
+Tweed Valley,Blue Mountains,0
+Tweed Valley,Botany,0
+Tweed Valley,Bourke - Cobar - Coonamble,0
+Tweed Valley,Bringelly - Green Valley,0
+Tweed Valley,Camden,0
+Tweed Valley,Campbelltown (NSW),0
+Tweed Valley,Canada Bay,0
+Tweed Valley,Canterbury,0
+Tweed Valley,Carlingford,0
+Tweed Valley,Chatswood - Lane Cove,0
+Tweed Valley,Cronulla - Miranda - Caringbah,0
+Tweed Valley,Dapto - Port Kembla,0
+Tweed Valley,Dubbo,0
+Tweed Valley,Dural - Wisemans Ferry,0
+Tweed Valley,Eastern Suburbs - North,0
+Tweed Valley,Eastern Suburbs - South,0
+Tweed Valley,Fairfield,0
+Tweed Valley,Gosford,0
+Tweed Valley,Great Lakes,0
+Tweed Valley,Griffith - Murrumbidgee (West),0
+Tweed Valley,Hawkesbury,0
+Tweed Valley,Hornsby,0
+Tweed Valley,Hurstville,0
+Tweed Valley,Kiama - Shellharbour,0
+Tweed Valley,Kogarah - Rockdale,0
+Tweed Valley,Ku-ring-gai,0
+Tweed Valley,Lake Macquarie - East,0
+Tweed Valley,Lake Macquarie - West,0
+Tweed Valley,Leichhardt,0
+Tweed Valley,Liverpool,0
+Tweed Valley,Lower Hunter,0
+Tweed Valley,Maitland,0
+Tweed Valley,Marrickville - Sydenham - Petersham,0
+Tweed Valley,Merrylands - Guildford,0
+Tweed Valley,Mount Druitt,0
+Tweed Valley,Newcastle,0
+Tweed Valley,North Sydney - Mosman,0
+Tweed Valley,Parramatta,0
+Tweed Valley,Pennant Hills - Epping,0
+Tweed Valley,Penrith,0
+Tweed Valley,Pittwater,0
+Tweed Valley,Port Stephens,0
+Tweed Valley,Richmond - Windsor,0
+Tweed Valley,Richmond Valley - Hinterland,2
+Tweed Valley,Rouse Hill - McGraths Hill,0
+Tweed Valley,Ryde - Hunters Hill,0
+Tweed Valley,Shoalhaven,0
+Tweed Valley,Southern Highlands,0
+Tweed Valley,St Marys,0
+Tweed Valley,Strathfield - Burwood - Ashfield,0
+Tweed Valley,Sutherland - Menai - Heathcote,0
+Tweed Valley,Sydney Inner City,1
+Tweed Valley,Tamworth - Gunnedah,0
+Tweed Valley,Warringah,0
+Tweed Valley,Wollondilly,0
+Tweed Valley,Wollongong,0
+Tweed Valley,Wyong,0
+Upper Hunter,Albury,0
+Upper Hunter,Armidale,1
+Upper Hunter,Auburn,289
+Upper Hunter,Bankstown,155
+Upper Hunter,Baulkham Hills,109
+Upper Hunter,Blacktown,135
+Upper Hunter,Blacktown - North,42
+Upper Hunter,Blue Mountains,27
+Upper Hunter,Botany,293
+Upper Hunter,Botany,25
+Upper Hunter,Bourke - Cobar - Coonamble,0
+Upper Hunter,Bringelly - Green Valley,41
+Upper Hunter,Camden,35
+Upper Hunter,Campbelltown (NSW),79
+Upper Hunter,Canada Bay,48
+Upper Hunter,Canterbury,61
+Upper Hunter,Carlingford,72
+Upper Hunter,Chatswood - Lane Cove,138
+Upper Hunter,Clarence Valley,0
+Upper Hunter,Coffs Harbour,0
+Upper Hunter,Cronulla - Miranda - Caringbah,93
+Upper Hunter,Dapto - Port Kembla,108
+Upper Hunter,Dubbo,1
+Upper Hunter,Dural - Wisemans Ferry,39
+Upper Hunter,Eastern Suburbs - North,60
+Upper Hunter,Eastern Suburbs - South,41
+Upper Hunter,Fairfield,133
+Upper Hunter,Gosford,163
+Upper Hunter,Goulburn - Yass,0
+Upper Hunter,Hawkesbury,21
+Upper Hunter,Hornsby,74
+Upper Hunter,Hurstville,42
+Upper Hunter,Illawarra Catchment Reserve,1
+Upper Hunter,Inverell - Tenterfield,1
+Upper Hunter,Kempsey - Nambucca,3
+Upper Hunter,Kiama - Shellharbour,29
+Upper Hunter,Kogarah - Rockdale,46
+Upper Hunter,Ku-ring-gai,52
+Upper Hunter,Lachlan Valley,0
+Upper Hunter,Lake Macquarie - East,215
+Upper Hunter,Lake Macquarie - West,1600
+Upper Hunter,Lake Macquarie - West,166
+Upper Hunter,Leichhardt,31
+Upper Hunter,Lithgow - Mudgee,5
+Upper Hunter,Liverpool,91
+Upper Hunter,Lower Hunter,820
+Upper Hunter,Maitland,285
+Upper Hunter,Manly,16
+Upper Hunter,Marrickville - Sydenham - Petersham,53
+Upper Hunter,Merrylands - Guildford,139
+Upper Hunter,Moree - Narrabri,0
+Upper Hunter,Mount Druitt,118
+Upper Hunter,Newcastle,539
+Upper Hunter,Newcastle,24716
+Upper Hunter,North Sydney - Mosman,89
+Upper Hunter,Orange,0
+Upper Hunter,Parramatta,156
+Upper Hunter,Pennant Hills - Epping,20
+Upper Hunter,Penrith,104
+Upper Hunter,Pittwater,49
+Upper Hunter,Port Stephens,160
+Upper Hunter,Queanbeyan,0
+Upper Hunter,Richmond - Windsor,49
+Upper Hunter,Richmond Valley - Hinterland,1
+Upper Hunter,Rouse Hill - McGraths Hill,39
+Upper Hunter,Ryde - Hunters Hill,167
+Upper Hunter,Shoalhaven,31
+Upper Hunter,Snowy Mountains,0
+Upper Hunter,South Coast,0
+Upper Hunter,Southern Highlands,26
+Upper Hunter,St Marys,43
+Upper Hunter,Strathfield - Burwood - Ashfield,110
+Upper Hunter,Sutherland - Menai - Heathcote,35
+Upper Hunter,Sydney Inner City,535
+Upper Hunter,Tamworth - Gunnedah,42
+Upper Hunter,Taree - Gloucester,2
+Upper Hunter,Tumut - Tumbarumba,0
+Upper Hunter,Tweed Valley,0
+Upper Hunter,Upper Hunter,51
+Upper Hunter,Upper Murray exc. Albury,0
+Upper Hunter,Wagga Wagga,0
+Upper Hunter,Warringah,125
+Upper Hunter,Wollondilly,41
+Upper Hunter,Wollongong,50
+Upper Hunter,Wyong,186
+Upper Murray exc. Albury,Albury,40
+Upper Murray exc. Albury,Armidale,0
+Upper Murray exc. Albury,Auburn,0
+Upper Murray exc. Albury,Baulkham Hills,0
+Upper Murray exc. Albury,Blacktown,4
+Upper Murray exc. Albury,Bourke - Cobar - Coonamble,0
+Upper Murray exc. Albury,Bringelly - Green Valley,100
+Upper Murray exc. Albury,Broken Hill and Far West,95
+Upper Murray exc. Albury,Camden,2
+Upper Murray exc. Albury,Campbelltown (NSW),0
+Upper Murray exc. Albury,Carlingford,0
+Upper Murray exc. Albury,Chatswood - Lane Cove,0
+Upper Murray exc. Albury,Clarence Valley,0
+Upper Murray exc. Albury,Dapto - Port Kembla,0
+Upper Murray exc. Albury,Dapto - Port Kembla,59
+Upper Murray exc. Albury,Dubbo,1
+Upper Murray exc. Albury,Fairfield,0
+Upper Murray exc. Albury,Gosford,67
+Upper Murray exc. Albury,Goulburn - Yass,33
+Upper Murray exc. Albury,Griffith - Murrumbidgee (West),48
+Upper Murray exc. Albury,Hawkesbury,0
+Upper Murray exc. Albury,Kiama - Shellharbour,0
+Upper Murray exc. Albury,Ku-ring-gai,0
+Upper Murray exc. Albury,Lachlan Valley,0
+Upper Murray exc. Albury,Lake Macquarie - East,0
+Upper Murray exc. Albury,Lithgow - Mudgee,0
+Upper Murray exc. Albury,Liverpool,3
+Upper Murray exc. Albury,Lower Hunter,23
+Upper Murray exc. Albury,Lower Murray,6
+Upper Murray exc. Albury,Maitland,10
+Upper Murray exc. Albury,Manly,0
+Upper Murray exc. Albury,Marrickville - Sydenham - Petersham,0
+Upper Murray exc. Albury,Merrylands - Guildford,1
+Upper Murray exc. Albury,Mount Druitt,8
+Upper Murray exc. Albury,North Sydney - Mosman,0
+Upper Murray exc. Albury,Orange,0
+Upper Murray exc. Albury,Pittwater,0
+Upper Murray exc. Albury,Port Stephens,10
+Upper Murray exc. Albury,Queanbeyan,0
+Upper Murray exc. Albury,Richmond Valley - Hinterland,0
+Upper Murray exc. Albury,Rouse Hill - McGraths Hill,0
+Upper Murray exc. Albury,Shoalhaven,10
+Upper Murray exc. Albury,Snowy Mountains,0
+Upper Murray exc. Albury,Southern Highlands,0
+Upper Murray exc. Albury,St Marys,1
+Upper Murray exc. Albury,Tamworth - Gunnedah,0
+Upper Murray exc. Albury,Taree - Gloucester,0
+Upper Murray exc. Albury,Tumut - Tumbarumba,0
+Upper Murray exc. Albury,Tweed Valley,0
+Upper Murray exc. Albury,Upper Hunter,0
+Upper Murray exc. Albury,Upper Murray exc. Albury,634
+Upper Murray exc. Albury,Wagga Wagga,216
+Upper Murray exc. Albury,Wagga Wagga,179
+Upper Murray exc. Albury,Warringah,0
+Upper Murray exc. Albury,Wollongong,0
+Upper Murray exc. Albury,Wyong,1
+Wagga Wagga,Albury,27
+Wagga Wagga,Armidale,90
+Wagga Wagga,Auburn,0
+Wagga Wagga,Bankstown,0
+Wagga Wagga,Bathurst,0
+Wagga Wagga,Baulkham Hills,0
+Wagga Wagga,Blacktown,14
+Wagga Wagga,Blacktown - North,0
+Wagga Wagga,Blue Mountains,5
+Wagga Wagga,Botany,561
+Wagga Wagga,Bourke - Cobar - Coonamble,1
+Wagga Wagga,Bringelly - Green Valley,0
+Wagga Wagga,Broken Hill and Far West,0
+Wagga Wagga,Camden,5
+Wagga Wagga,Campbelltown (NSW),0
+Wagga Wagga,Canada Bay,0
+Wagga Wagga,Canterbury,0
+Wagga Wagga,Carlingford,0
+Wagga Wagga,Chatswood - Lane Cove,0
+Wagga Wagga,Clarence Valley,6
+Wagga Wagga,Coffs Harbour,0
+Wagga Wagga,Cronulla - Miranda - Caringbah,0
+Wagga Wagga,Dapto - Port Kembla,0
+Wagga Wagga,Dapto - Port Kembla,482
+Wagga Wagga,Dubbo,14
+Wagga Wagga,Dural - Wisemans Ferry,0
+Wagga Wagga,Eastern Suburbs - North,0
+Wagga Wagga,Eastern Suburbs - South,0
+Wagga Wagga,Fairfield,0
+Wagga Wagga,Gosford,0
+Wagga Wagga,Goulburn - Yass,58
+Wagga Wagga,Griffith - Murrumbidgee (West),180
+Wagga Wagga,Griffith - Murrumbidgee (West),52
+Wagga Wagga,Hawkesbury,0
+Wagga Wagga,Hornsby,0
+Wagga Wagga,Hurstville,0
+Wagga Wagga,Inverell - Tenterfield,1
+Wagga Wagga,Kempsey - Nambucca,0
+Wagga Wagga,Kiama - Shellharbour,0
+Wagga Wagga,Kogarah - Rockdale,0
+Wagga Wagga,Ku-ring-gai,0
+Wagga Wagga,Lachlan Valley,25
+Wagga Wagga,Lake Macquarie - East,0
+Wagga Wagga,Lake Macquarie - West,0
+Wagga Wagga,Leichhardt,0
+Wagga Wagga,Lithgow - Mudgee,12
+Wagga Wagga,Liverpool,11
+Wagga Wagga,Lower Hunter,0
+Wagga Wagga,Lower Murray,14
+Wagga Wagga,Maitland,0
+Wagga Wagga,Manly,0
+Wagga Wagga,Marrickville - Sydenham - Petersham,0
+Wagga Wagga,Merrylands - Guildford,3
+Wagga Wagga,Moree - Narrabri,0
+Wagga Wagga,Mount Druitt,42
+Wagga Wagga,Newcastle,0
+Wagga Wagga,North Sydney - Mosman,0
+Wagga Wagga,Orange,0
+Wagga Wagga,Penrith,8
+Wagga Wagga,Pittwater,0
+Wagga Wagga,Port Macquarie,0
+Wagga Wagga,Port Stephens,0
+Wagga Wagga,Queanbeyan,0
+Wagga Wagga,Richmond Valley - Coastal,0
+Wagga Wagga,Richmond Valley - Hinterland,0
+Wagga Wagga,Rouse Hill - McGraths Hill,0
+Wagga Wagga,Ryde - Hunters Hill,0
+Wagga Wagga,Shoalhaven,475
+Wagga Wagga,Shoalhaven,0
+Wagga Wagga,Snowy Mountains,0
+Wagga Wagga,South Coast,0
+Wagga Wagga,Southern Highlands,0
+Wagga Wagga,St Marys,9
+Wagga Wagga,Strathfield - Burwood - Ashfield,499
+Wagga Wagga,Strathfield - Burwood - Ashfield,0
+Wagga Wagga,Sutherland - Menai - Heathcote,0
+Wagga Wagga,Sydney Inner City,0
+Wagga Wagga,Tamworth - Gunnedah,6
+Wagga Wagga,Taree - Gloucester,0
+Wagga Wagga,Tumut - Tumbarumba,0
+Wagga Wagga,Tweed Valley,0
+Wagga Wagga,Upper Hunter,2
+Wagga Wagga,Upper Murray exc. Albury,5
+Wagga Wagga,Wagga Wagga,269
+Wagga Wagga,Wagga Wagga,1174
+Wagga Wagga,Warringah,0
+Wagga Wagga,Wollondilly,170
+Wagga Wagga,Wollondilly,32
+Wagga Wagga,Wollongong,0
+Wagga Wagga,Wyong,3
+Warringah,Auburn,44
+Warringah,Bankstown,36
+Warringah,Bankstown,6
+Warringah,Baulkham Hills,25
+Warringah,Blacktown,38
+Warringah,Blacktown - North,48
+Warringah,Blue Mountains,1
+Warringah,Botany,88
+Warringah,Botany,36
+Warringah,Bringelly - Green Valley,6
+Warringah,Camden,16
+Warringah,Campbelltown (NSW),25
+Warringah,Canada Bay,28
+Warringah,Canterbury,13
+Warringah,Carlingford,58
+Warringah,Chatswood - Lane Cove,146
+Warringah,Cronulla - Miranda - Caringbah,21
+Warringah,Dapto - Port Kembla,26
+Warringah,Dural - Wisemans Ferry,3
+Warringah,Eastern Suburbs - North,32
+Warringah,Eastern Suburbs - South,17
+Warringah,Fairfield,23
+Warringah,Gosford,17
+Warringah,Hornsby,45
+Warringah,Hurstville,8
+Warringah,Kiama - Shellharbour,0
+Warringah,Kogarah - Rockdale,15
+Warringah,Ku-ring-gai,66
+Warringah,Lake Macquarie - East,0
+Warringah,Lake Macquarie - West,0
+Warringah,Leichhardt,16
+Warringah,Liverpool,13
+Warringah,Lower Hunter,0
+Warringah,Maitland,0
+Warringah,Manly,51
+Warringah,Marrickville - Sydenham - Petersham,22
+Warringah,Merrylands - Guildford,36
+Warringah,Migratory - Offshore - Shipping (NSW),0
+Warringah,Mount Druitt,97
+Warringah,Newcastle,6
+Warringah,North Sydney - Mosman,53
+Warringah,Other Territories,0
+Warringah,Parramatta,19
+Warringah,Pennant Hills - Epping,15
+Warringah,Penrith,22
+Warringah,Pittwater,110
+Warringah,Port Stephens,0
+Warringah,Richmond - Windsor,10
+Warringah,Rouse Hill - McGraths Hill,2
+Warringah,Ryde - Hunters Hill,114
+Warringah,Shoalhaven,0
+Warringah,Southern Highlands,2
+Warringah,St Marys,5
+Warringah,Strathfield - Burwood - Ashfield,33
+Warringah,Strathfield - Burwood - Ashfield,1
+Warringah,Sutherland - Menai - Heathcote,6
+Warringah,Sydney Inner City,208
+Warringah,Upper Hunter,56
+Warringah,Warringah,906
+Warringah,Wollondilly,19
+Warringah,Wollongong,4
+Warringah,Wyong,7
+Wollondilly,Auburn,81
+Wollondilly,Bankstown,94
+Wollondilly,Baulkham Hills,28
+Wollondilly,Blacktown,100
+Wollondilly,Blacktown - North,40
+Wollondilly,Blue Mountains,19
+Wollondilly,Blue Mountains - South,0
+Wollondilly,Botany,67
+Wollondilly,Botany,29
+Wollondilly,Bringelly - Green Valley,85
+Wollondilly,Camden,243
+Wollondilly,Campbelltown (NSW),264
+Wollondilly,Canada Bay,18
+Wollondilly,Canterbury,19
+Wollondilly,Carlingford,14
+Wollondilly,Chatswood - Lane Cove,61
+Wollondilly,Cronulla - Miranda - Caringbah,33
+Wollondilly,Dapto - Port Kembla,2355
+Wollondilly,Dapto - Port Kembla,4804
+Wollondilly,Dural - Wisemans Ferry,4
+Wollondilly,Eastern Suburbs - North,13
+Wollondilly,Eastern Suburbs - South,11
+Wollondilly,Fairfield,104
+Wollondilly,Gosford,6
+Wollondilly,Goulburn - Yass,0
+Wollondilly,Hawkesbury,0
+Wollondilly,Hornsby,14
+Wollondilly,Hurstville,17
+Wollondilly,Illawarra Catchment Reserve,0
+Wollondilly,Kiama - Shellharbour,4
+Wollondilly,Kogarah - Rockdale,25
+Wollondilly,Ku-ring-gai,10
+Wollondilly,Lake Macquarie - East,3
+Wollondilly,Lake Macquarie - West,1
+Wollondilly,Leichhardt,7
+Wollondilly,Liverpool,238
+Wollondilly,Lower Hunter,2
+Wollondilly,Maitland,2
+Wollondilly,Manly,1
+Wollondilly,Marrickville - Sydenham - Petersham,34
+Wollondilly,Merrylands - Guildford,92
+Wollondilly,Mount Druitt,48
+Wollondilly,Newcastle,13
+Wollondilly,North Sydney - Mosman,12
+Wollondilly,Parramatta,64
+Wollondilly,Pennant Hills - Epping,1
+Wollondilly,Penrith,64
+Wollondilly,Pittwater,8
+Wollondilly,Port Stephens,0
+Wollondilly,Richmond - Windsor,27
+Wollondilly,Rouse Hill - McGraths Hill,6
+Wollondilly,Ryde - Hunters Hill,30
+Wollondilly,Shoalhaven,6
+Wollondilly,Southern Highlands,118
+Wollondilly,St Marys,11
+Wollondilly,Strathfield - Burwood - Ashfield,39
+Wollondilly,Sutherland - Menai - Heathcote,21
+Wollondilly,Sydney Inner City,104
+Wollondilly,Upper Hunter,17
+Wollondilly,Warringah,50
+Wollondilly,Wollondilly,112
+Wollondilly,Wollongong,79
+Wollondilly,Wyong,9
+Wollongong,Auburn,9
+Wollongong,Bankstown,11
+Wollongong,Baulkham Hills,3
+Wollongong,Blacktown,5
+Wollongong,Botany,19
+Wollongong,Botany,16
+Wollongong,Bringelly - Green Valley,1
+Wollongong,Camden,4
+Wollongong,Campbelltown (NSW),11
+Wollongong,Canada Bay,2
+Wollongong,Canterbury,5
+Wollongong,Carlingford,3
+Wollongong,Chatswood - Lane Cove,5
+Wollongong,Cronulla - Miranda - Caringbah,6
+Wollongong,Dapto - Port Kembla,333
+Wollongong,Dapto - Port Kembla,1800
+Wollongong,Eastern Suburbs - North,2
+Wollongong,Eastern Suburbs - South,1
+Wollongong,Fairfield,8
+Wollongong,Gosford,1
+Wollongong,Hornsby,2
+Wollongong,Hurstville,3
+Wollongong,Kiama - Shellharbour,6
+Wollongong,Kogarah - Rockdale,3
+Wollongong,Ku-ring-gai,1
+Wollongong,Leichhardt,1
+Wollongong,Liverpool,8
+Wollongong,Marrickville - Sydenham - Petersham,2
+Wollongong,Merrylands - Guildford,23
+Wollongong,Mount Druitt,4
+Wollongong,Newcastle,1
+Wollongong,Penrith,3
+Wollongong,Ryde - Hunters Hill,9
+Wollongong,St Marys,2
+Wollongong,Strathfield - Burwood - Ashfield,5
+Wollongong,Sutherland - Menai - Heathcote,6
+Wollongong,Sydney Inner City,2
+Wollongong,Upper Hunter,9
+Wollongong,Warringah,4
+Wollongong,Wollondilly,3
+Wollongong,Wollongong,312
+Wyong,Auburn,3
+Wyong,Bankstown,8
+Wyong,Bathurst,1
+Wyong,Baulkham Hills,3
+Wyong,Blacktown,3
+Wyong,Botany,9
+Wyong,Botany,10
+Wyong,Bourke - Cobar - Coonamble,0
+Wyong,Broken Hill and Far West,0
+Wyong,Campbelltown (NSW),3
+Wyong,Chatswood - Lane Cove,3
+Wyong,Clarence Valley,1
+Wyong,Coffs Harbour,1
+Wyong,Dapto - Port Kembla,29
+Wyong,Dubbo,1
+Wyong,Fairfield,3
+Wyong,Gosford,912
+Wyong,Goulburn - Yass,0
+Wyong,Hornsby,7
+Wyong,Inverell - Tenterfield,0
+Wyong,Ku-ring-gai,1
+Wyong,Lachlan Valley,3
+Wyong,Lake Macquarie - East,181
+Wyong,Lake Macquarie - West,58
+Wyong,Lithgow - Mudgee,0
+Wyong,Lower Hunter,1
+Wyong,Merrylands - Guildford,7
+Wyong,Mount Druitt,1
+Wyong,Newcastle,79
+Wyong,Newcastle,1371
+Wyong,North Sydney - Mosman,1
+Wyong,Orange,0
+Wyong,Parramatta,3
+Wyong,Queanbeyan,0
+Wyong,Richmond - Windsor,0
+Wyong,Ryde - Hunters Hill,5
+Wyong,Snowy Mountains,0
+Wyong,South Coast,2
+Wyong,Strathfield - Burwood - Ashfield,8
+Wyong,Sutherland - Menai - Heathcote,41
+Wyong,Sydney Inner City,11
+Wyong,Upper Hunter,109
+Wyong,Warringah,3
+Wyong,Wyong,1285

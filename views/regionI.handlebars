@@ -1,0 +1,56 @@
+<div class="card mb-4">
+    <h1 class="card-header">Data for Ku-Ring-Gai</h1>
+    <div>
+        <h2 class="card-header">Imports</h2>
+        <div class="card-body">
+            <div id="PieI" class="pie"></div>
+            <div id="PieIL" class="legend"></div>
+        </div>
+    </div>
+</div>
+
+<div class="card mb-4">
+    <div class= "card-body">
+        <a href="/regionE"><p>Show Exports for Ku-Ring-Gai</p></a>
+    </div>
+</div>
+
+
+<script name="PieImports">
+    am4core.useTheme(am4themes_animated);
+    var chart = am4core.create("PieI", am4charts.PieChart);
+    chart.dataSource.url = "/data/KuRingGai/Imports.json";
+    var pieSeries = chart.series.push(new am4charts.PieSeries());
+    pieSeries.dataFields.value = "Total";
+    pieSeries.dataFields.category = "Origin_Name";
+    //All from docs
+    pieSeries.labels.template.disabled = true;
+    chart.events.on("ready", function(event) {
+        chart.customLegend = document.getElementById('PieIL');
+        pieSeries.dataItems.each(function(row, i) {
+            var color = chart.colors.getIndex(i);
+            var percent = Math.round(row.values.value.percent * 100) / 100;
+            var value = row.value;
+            PieIL.innerHTML += '<div class="legend-item" id="I-legend-item-' + i + '" onclick="toggleSlice(' + i + ');" onmouseover="hoverSlice(' + i + ');" onmouseout="blurSlice(' + i + ');" style="color: ' + color + ';"><div class="legend-marker" style="background: ' + color + '"></div>' + row.category + '<div class="legend-value">' + value + ' | ' + percent + '%</div></div>';
+        });
+    });
+    function toggleSlice(item) {
+        var slice = pieSeries.dataItems.getIndex(item);
+        if (slice.visible) {
+            slice.hide();
+        }
+        else {
+            slice.show();
+        }
+    }
+
+    function hoverSlice(item) {
+        var slice = pieSeries.slices.getIndex(item);
+        slice.isHover = true;
+    }
+
+    function blurSlice(item) {
+        var slice = pieSeries.slices.getIndex(item);
+        slice.isHover = false;
+    }  
+</script>
