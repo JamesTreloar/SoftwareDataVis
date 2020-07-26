@@ -2,3 +2,6 @@ node_modules
 .gitignore
 .gitattributes
 index.html
+/views/formtest.handlebars
+/views/brocken.handlebars
+/public/data/SFMManagement.accdb

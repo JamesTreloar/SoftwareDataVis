@@ -11,14 +11,18 @@
     <script src="js/animated.js"></script>
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <title>Freight DataVis</title>
+    
 </head>
 <body class="bg-light">
     <nav class="navbar navbar-expand navbar-dark bg-primary">
+        <button name="bars" class="btn btn-primary" onclick="hideNav()">
+            <img src="images/Hamburger_icon.svg" width="32px" height="32px">
+        </button>
         <a class="navbar-brand" href="/home">Freight DataVis</a>
     </nav>
 
     <div class="d-flex">
-        <div class="sidebar sidebar-dark bg-dark">
+        <div class="sidebar sidebar-dark bg-dark" id="sidebar">
             <ul class="list-unstyled">
                 <li><a href="/road">Road Safety</a></li>
                 <li><a href="/rail">Rail</a></li>
@@ -37,5 +41,14 @@
             </div>
         </div>
     </div>
+    <script>
+        function hideNav(){
+            if(document.getElementById("sidebar").classList.contains("hidden")){
+                document.getElementById("sidebar").classList.remove("hidden");
+            } else {
+                document.getElementById("sidebar").classList.add("hidden");
+            }
+        }
+    </script>
 </body>
 </html>

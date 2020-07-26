@@ -44,9 +44,6 @@ app.get('/ks', (req,res) => {
 app.get('/glossary', (req,res) => {
     res.render('glossary');
 });
-app.get('/brocken', (req, res) => {
-    res.render('brocken')
-});
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
