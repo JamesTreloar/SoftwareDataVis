@@ -4,4 +4,4 @@ node_modules
 index.html
 /views/formtest.handlebars
 /views/brocken.handlebars
-/public/data/SFMManagement.accdb
+public/data/SFMManagement.accdb
