@@ -14,7 +14,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "express-handlebars": "^5.3.1",
     "json-query": "^2.2.2",
     "mysql": "^2.18.1"
